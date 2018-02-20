@@ -1,0 +1,51 @@
+﻿@model int
+@{
+    var statusCode = Model;
+    var statusmessage = "";
+    switch (statusCode)
+    {
+        case 400:
+            statusmessage = "Bad request: The request cannot be fulfilled due to bad syntax";
+            break;
+        case 403:
+            statusmessage = "Forbidden";
+            break;
+        case 404:
+            statusmessage = "De brave Ronaldo weet niet wat hij met de link hierboven moet aanvangen. Misschien is de link niet correct, of zoek je naar een album- of spelernaam die niet bestaat.";
+            break;
+        case 408:
+            statusmessage = "The server timed out waiting for the request";
+            break;
+        case 500:
+            statusmessage = "Internal Server Error - server was unable to finish processing the request";
+            break;
+        default:
+            statusmessage = "That’s odd... Something we didn't expect happened";
+            break;
+    }
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="error-template">
+                <h1>
+                    Oeps, error @Model !
+                </h2>
+                <div class="error-details">
+                    @statusmessage
+                </div>
+                    <br />
+                <img src="~/images/extra/notfoundronaldo.jpg" class="img-rounded img-responsive" alt="RonaldoNotFound"> 
+                    <br />
+                <div class="error-actions">
+                    <a  asp-action="Index" asp-controller="Home"  class ="btn btn-primary btn-lg">
+                        <span class="glyphicon glyphicon-home"></span>
+                        Ga terug naar de home-pagina
+                    </a><a href="mailto:joachimally@gmail.com" class="btn btn-default btn-lg"><span class="glyphicon glyphicon-envelope"></span>Contacteer de webmaster</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

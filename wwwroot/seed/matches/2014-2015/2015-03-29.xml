@@ -1,0 +1,54 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Janneman Schouteten</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>03</Month>
+    <Day>29</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>FC De Most</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>5</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Pieter Vermandere</Scored>
+    </Goal>
+    <Goal sequence="4">
+      <Scored>Joachim Ally</Scored>
+    </Goal>
+    <Goal sequence="5">
+      <Scored>Stijn Vansteenkiste</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend trokken De Krisnaldo's naar de Lokkedyze om het op te nemen tegen FC De Most. Na een uitgeregende wedstrijd won geel-blauw makkelijk met 1-5.</Paragraph>
+    <Paragraph>Onmiddellijk na aftrap eisten we de bal op en trokken we ten aanval. Na het missen van enkele kleine kansjes was het dan toch raak. Op hoekschop kon Wout Veranneman van dichtbij de 0-1 binnenkoppen. Het balbezit was voortdurend voor ons en even dachten we al de 3 punten op zak te hebben. De Most profiteerde en kon via een verraderlijk afstandsschot terug op gelijke hoogte klimmen: 1-1. Na deze kleine opdoffer moesten we opnieuw vol aan de bak en niet veel later kwamen we opnieuw op voorsprong. De poging van Stijn Vansteenkiste werd eerst nog gestopt door de doelman, maar goaltjesdief Wout Veranneman was goed gevolgd en trapte de 1-2 binnen.</Paragraph>
+    <Paragraph>Daarna gingen we op ons elan verder en was het opnieuw eenrichtingsvoetbal. Op slag van rust stifte Pieter Vermandere de bal enig mooi over de keeper en een prachtig doelpunt was in de maak, tot een verdediger van De Most zijn doelman te hulp schoot en de bal met beide handen over de lat volleybalde. Knappe redding, al leverde het wel een penalty op voor De Krisnaldo's. Onze nummer 12 wou zijn goaltje maken en plaatste de bal precies in het hoekje: 1-3. Met deze stand op het bord doken we de kleedkamer in.</Paragraph>
+    <Paragraph>Na rust was het opnieuw al Krisnaldo's wat de klok sloeg, alleen was de koelbloedigheid in de zestien nu even weg en duurde het een tijdje voor we opnieuw aan scoren toekwamen. Uiteindelijk was het krijger en man van vele oorlogen Joachim Ally die de score tot 1-4 kon uitdiepen. Op een indraaiende hoekschop van Stijn Vansteenkiste torende Joachim boven alles en iedereen uit en vierde met een rake kopbal zijn eerste Krisnaldo doelpunt ooit.</Paragraph>
+    <Paragraph>Diep in de tweede helft werd sluitstuk Dries Sticker ook nog eens op de proef gesteld. Met een katachtige reflex duwde hij de bal knap uit de winkelhaak. Zo zie je maar dat een topploeg ook steeds op een topkeeper moet kunnen rekenen. Net voor affluiten kon Stijn Vansteenkiste nog de kers op de taart zetten. Een vrije trap vanop zo'n 20 meter werd door ons goudhaantje prachtig langs de muur gekruld: 1-5. De scheidsrechter vond het zo wel welletjes en liet ons de warmte van de kleedkamer annex koeienstallen opzoeken.</Paragraph>
+    <Paragraph>Zo doen we wat we moesten doen en blijven we meestrijden om de titel. De nevenklassementen worden echter stilaan onmogelijk. In de topschutterstand ziet Wout Veranneman, ondanks zijn 2 doelpunten vandaag, de spits van FC Lokkedyze steeds verder uitlopen. Ook de "plusminus" trofee voor wat betreft het doelsaldo mogen we vergeten, aangezien co-leider Sportief Exclusief vandaag met maar liefst 17-0 kon winnen. Een resultaat dat toch enigszins de wenkbrauwen doet fronsen. Het hoofddoel is echter wel nog mogelijk en dus gaan we voluit voor de titel. Volgende week staat er dan ook alweer een klepper van formaat op het programma. Dan trekken we opnieuw naar de Lokkedyze om het op te nemen tegen de nummer 3 in de rangschikking, FC Lokkedyze. Supporters op post!</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

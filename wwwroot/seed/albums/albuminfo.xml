@@ -1,0 +1,101 @@
+﻿
+<AlbumInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.krisnaldos.be/albuminfo">
+  <Albums>
+      <Album>
+      <DisplayName>Wivo Sport 4 - 2 De Krisnaldo's</DisplayName>
+      <RawName>wivosport</RawName>
+      <Time>
+        <Year>2017</Year>
+        <Month>9</Month>
+        <Day>17</Day>
+      </Time>
+      <Intro>
+        Dit zijn de foto's van de nipt verloren match tegen Wivo Sport, getrokken door Annelies Veranneman.
+      </Intro>
+    </Album>
+    <Album>
+      <DisplayName>Kwisnaldo's 2016</DisplayName>
+      <RawName>kwisnaldos2016</RawName>
+      <Time>
+        <Year>2016</Year>
+        <Month>2</Month>
+        <Day>19</Day>
+      </Time>
+      <Intro>
+        Dit zijn de foto's van de tweede editie van de Kwisnaldo's, voor het eerst in zaal Geitenhove.
+      </Intro>
+    </Album>
+    <Album>
+      <DisplayName>Kwisnaldo's 2015</DisplayName>
+      <RawName>kwisnaldos2015</RawName>
+      <Time>
+        <Year>2015</Year>
+        <Month>2</Month>
+        <Day>13</Day>
+      </Time>
+      <Intro>
+        Dit zijn de foto's van de eerste editie van de Kwisnaldo's, in de KSA-lokalen te Rumbeke.
+      </Intro>
+    </Album>
+    <Album>
+      <DisplayName>Kwisnaldo's 2017</DisplayName>
+      <RawName>kwisnaldos2017</RawName>
+      <Time>
+        <Year>2017</Year>
+        <Month>3</Month>
+        <Day>4</Day>
+      </Time>
+      <Intro>
+        Dit zijn de foto's van de derde editie van de Kwisnaldo's, in zaal Geitenhove.
+      </Intro>
+    </Album>
+    <Album>
+      <DisplayName>Nieuw Gemeentehuis 3 - 2 De Krisnaldo's</DisplayName>
+      <RawName>nieuwgemeentehuis</RawName>
+      <Time>
+        <Year>2015</Year>
+        <Month>9</Month>
+        <Day>27</Day>
+      </Time>
+      <Intro>
+        Dit zijn foto's van een nipt verloren competitiematch, getrokken door Annelies Veranneman.
+      </Intro>
+    </Album>
+    <Album>
+      <DisplayName>De Krisnaldo's 5 - 0 Bourgondisch Kruis</DisplayName>
+      <RawName>bourgondischkruis</RawName>
+      <Time>
+        <Year>2014</Year>
+        <Month>12</Month>
+        <Day>14</Day>
+      </Time>
+      <Intro>
+        Dit zijn foto's van een gewonnen competitiematch, getrokken door Annelies Veranneman.
+      </Intro>
+    </Album>
+    <Album>
+      <DisplayName>De Krisnaldo's 1 - 2 FC De Koolmijn</DisplayName>
+      <RawName>koolmijn</RawName>
+      <Time>
+        <Year>2017</Year>
+        <Month>01</Month>
+        <Day>22</Day>
+      </Time>
+      <Intro>
+        Dit zijn foto's van een nipt verloren competitiematch, getrokken door Dirk Ally.
+      </Intro>
+    </Album>
+    <Album>
+      <DisplayName>VK Zwarte Gat 1 - 2 De Krisnaldo's</DisplayName>
+      <RawName>zwartegat</RawName>
+      <Time>
+        <Year>2017</Year>
+        <Month>03</Month>
+        <Day>19</Day>
+      </Time>
+      <Intro>
+        Dit zijn foto's van een gewonnen competitiematch, getrokken door Lowie Frimout en Martijn Vandaele.
+      </Intro>
+    </Album>
+  </Albums>
+</AlbumInfo>

@@ -1,0 +1,41 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>10</Month>
+    <Day>18</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>FC Groen-Wit</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>6</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Joachim Ally</Scored>
+      <Assist>Martijn Vandaele</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze morgen mochten onze Krisnaldo’s strijden tegen FC Groen-Wit uit het verre Menen op ons vertrouwde terrein van de CERA. Een galabal op zaterdagavond zorgde er echter voor dat enkele spelers iets later dan gepland aankwamen, maar uiteindelijk konden we starten met 11 en hadden we zelfs twee bankzitters. In het begin van de partij waren er mooie combinaties zichtbaar bij beide ploegen. Het voetbal ging heen en weer en beide ploegen kregen enkele kansen, maar konden ze niet benutten. Na een twintigtal minuten klom een groenhemd echter hoger dan onze verdedigers op een afgemeten voorzet. Onze keeper had geen verhaal tegen deze mooigeplaatste kopbal en zo stonden de bordjes 0-1. Niet veel later volgde er een tweede doelpunt van de groenen na een counteraanval. De Krisnaldo’s begrepen dat het menens was en Joachim Ally zorgde ervoor dat net voor de rust het 1-2 werd na een mooie voorzet van onze linksbuiten Martijn Vandaele.</Paragraph>
+    <Paragraph>In de rust werd duidelijk dat enkele spelers moe of geblesseerd waren, waardoor er wat geschoven moest worden in de opstelling. Iets wat onze naldo’s niet ten goede kwam, want na de rust werd het voetbal ondermaats van onze gele rakkers. Er werd te weinig druk gezet, passen kwamen niet aan en echt uitgespeelde kansen konden we niet meer creëren. FC Groen-Wit daarentegen speelde mooi combinatievoetbal en roken bloed. Onze verdediging was op sommige momenten kaas met gaten en de Groenen profiteerden er optimaal van. Zo werden we compleet weggespeeld en stonden de bordjes uiteindelijk 1-6 in ons nadeel na de tweede helft. Verder dan een vrije trap van Stijn Vansteenkiste op de lat kon er geen enkele kans meer tentoon gespreid worden in de tweede helft van onze kant.</Paragraph>
+    <Paragraph>De nachtelijke escapades hebben dus een duidelijk een invloed op onze Krisnaldo’s en voor het moment zoekt de ploeg naar de goede vorm. Stilletjes aan wordt het meer Crisisnaldo’s dan Krisnaldo’s. Om uit dit dipje te komen, moeten er volgende week punten gehaald worden tegen Sportief Exclusief en moet er terug fris en goed voetbal gespeeld worden. De spelers moeten in eigen boezem kijken en het verschil proberen te maken op het veld. Dus volgende week iedereen op post om de Krisnaldo’s vooruit te stuwen.</Paragraph>
+    <Paragraph>#COYK</Paragraph>
+  </Report>
+</Match>

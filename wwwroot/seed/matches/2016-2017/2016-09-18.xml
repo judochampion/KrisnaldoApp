@@ -1,0 +1,39 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Lowie Frimout</Player>
+    <Player>Brecht Degezelle</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>09</Month>
+    <Day>18</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>FC De Geite</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Benjamin De Geest</Scored>
+      <Assist>Pieter Vermandere</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>De kalendercommissie besliste dat we ook onze derde competitiematch als thuisploeg mochten aanvatten. Na twee overwinningen hoopten we tegen FC De Geite dan ook onze thuisreputatie verder te verbeteren. Maar die ambitie weerspiegelde zich niet in de opwarming. Toen wij na het gezapige verzamelen en omkleden eindelijk het opwarmingsveld betraden, waren onze tegenstanders en hun entourage al hun Colgate-lach aan het tonen voor de professionele Weekbode-fotograaf.</Paragraph>
+    <Paragraph>De match begon bitsig. Al snel werd het duidelijk dat de promovendus vanuit een stevige organisatie speelt en over heel wat duelkracht beschikt. Vooral dat laatste leek ons parten te spelen. Niet één keer slaagden we erin een deftige kans bij mekaar te spelen. Zij konden wel enkele mooie combinaties op de mat leggen. Op één van die combinaties kon een spits zelf scoren uit een voorzet. Gelukkig was onze lijnrechter Tijs Houvenaeghel attent genoeg om te zien dat de spits vertrok uit buitenspelpositie. De Geitenaren bleven echter niet bij de pakken zitten en probeerden onze zestien te infiltreren, maar gelukkig was ons centraal duo Robin Vanhulle en Pieter-Jan Soenen een echte rots in de branding. Weinig doelgevaar in een saaie wedstrijdhelft was een logisch gevolg. Zo saai dat het dubbele afvallen van een bril van de linksback spectaculair genoeg is voor een vermelding in het wedstrijdverslag. Met een gevleid gelijkspel haalden we uiteindelijk de welverdiende rust.</Paragraph>
+    <Paragraph>Na het bijtanken van een serieuze portie water, begonnen we op een nieuw elan aan de tweede helft. De vermoeidheid leek lichtjes toe te slaan bij de Geitenaeren, waardoor we hen toch even ons spel konden opleggen. De beste kans die daaruit volgde was een steekpass op Brecht Houvenaeghel, die uiteindelijk voorlangs besloot. Na dit sterke kwartier deemsterden we opnieuw weg. Zo konden de Geitenaeren op voorsprong komen via een strafschop na een handsbal. Gelukkig kan onze keeper Brecht Degezelle naar eigen zeggen al aan het leggen van de bal op de stip voorspellen waar die gaat gegeven worden. Hij redde zo een gemaakt doelpunt, iets wat hij vijf minuten later, na een schuine harde trap richting winkelhaak doodleuk overdeed. Het mocht echter niet baten, want in de tien minuten die daarop volgden konden de Geitenaeren een dubbele voorsprong op het scorebord zetten. Eerst was er de doorgebroken topschutter Vannieuwenhuyse die Brecht kon omspelen en erna volgde een vrije trap waar zelfs Kevin De Bruyne jaloers op zou zijn. Met nog vijf minuten op de klok toonden we ons strijdershart. Na verschillende keren aan te dringen was het uiteindelijk Benjamin De Geest die de aansluitingstreffer kon binnenkoppen op voorzet van Pieter Vermandere. We spurtten met de bal naar de middenstip om de gelijkmaker nog te forceren, maat het mocht niet meer zijn...</Paragraph>
+    <Paragraph>Doordat de webmaster van het RLV op reis is, weten we nog niet precies wat deze nederlaag betekent voor onze positie in het klassement. Wat wel zeker is, is dat we FC De Geite verdiend moeten laten voorgaan. Hopelijk kunnen we ons blazoen oppoetsen in onze eerste uitwedstrijd tegen FC De Koolmijn.</Paragraph>
+  </Report>
+</Match>

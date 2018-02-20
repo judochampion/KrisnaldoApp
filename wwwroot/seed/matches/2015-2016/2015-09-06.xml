@@ -1,0 +1,42 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Bram Brackeva</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Janneman Schouteten</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Tijs Houvenaeghel</Player>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>09</Month>
+    <Day>06</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>VPA Sleihage</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Wout Veranneman</Scored>
+      <Assist>Sam Decoene</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>In de aanloop naar deze competitieopenener tegen het sluwe VP Sleihage kregen de Krisnaldo's een tegenslag te verwerken. De medische staf wist te melden dat de knie van het betrouwbare sluitstuk Dries Sticker niet tijdig opgelapt raakte na het Cera-Tornooi. De Krisnaldo's zaten dan ook met de handen in het haar, maar het was uiteindelijk de polyvalentie van ex-handballer Bram Brackeva die ervoor zorgde dat er toch een imposante verschijning onder het doelhout plaatsnam. En slecht nieuws komt nooit alleen, want ook de ingeplande scheidsrechter bleek andere verplichtingen te hebben. Lowie Frimout, gediplomeerd scheidsrechter bij de KBVB, nam zijn verantwoordelijkheid en wisselde zijn Krisnaldo shirt nobel in voor een neutraler ogend zwart tenue. Zonder scheids geen voetbal, bedankt Lowie.</Paragraph>
+    <Paragraph>Na het eerste fluitsignaal zagen de talrijk opgedaagde supporters meteen dat het een spannende match ging worden. Na verschillende gevaarlijke acties van de buren uit Sleihage konden we een eerste keer tegenprikken. En niet veel later, op een van de vele hoekschoppen in de beginfase, was het Wout Veranneman die de bal aan de tweede paal binnenbuffelde. Een gevleide voorsprong, die we niet lang konden vasthouden. Na een verre uittrap van de keeper kon Joachim Ally in het duel de bal niet tijdig ontzetten. Een jagende spits profiteerde en kon de bal van dichtbij tegen de netten jagen. Het dubbele fluitsignaal van de ref was dan ook welgekomen om even de kopjes bij elkaar te steken.</Paragraph>
+    <Paragraph>Het blessurevirus is blijkbaar besmettelijk want ook Pieter-Jan Soenen bleek niet honderd procent fit meer te zijn, waarna Tijs Houvenaeghel zijn opwachting maakte in de defensie. Ook de tegenpartij had duidelijk het een en ander bekokstoofd in de rust, want met maar liefst vier wissels brachten ze ons danig in de verwarring en kwamen ze meer en meer in de match. De sterke, bonkige spitsen en oprukkende middenvelders kwamen steeds meer dreigen in de zone van onze gelegenheidskeeper. Een doelpunt kon niet uitblijven en na een mooi opgezette aanval kon een Sleihagenaar van dichtbij de bal in het mandje leggen. De Krisnaldo's bleven echter niet bij de pakken zitten en probeerden met een waar slotoffensief de scorebordjes nog in evenwicht te brengen. Vele kansen op stilstaande fasen, waar in de bitsige sfeer sommige verdedigers zich op een judomat waanden, konden daar echter niet voor zorgen. Ontgoocheld dropen we af.</Paragraph>
+    <Paragraph>Het moet beter en hopelijk kunnen we op het veld van GZ Tube bewijzen dat we ook in de B-reeks enkele mooie dingen kunnen laten zien. Iets wat we aan ons groeiend aantal supporters (en likers op Facebook) verplicht zijn.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <!--
+        <li>
+        @if (Model.AantalCleanSheets == 0)
+        {
+            @:Onze keeper en verdediging hield dit seizoen nog niet de netten schoon.
+        }
+        else
+        {
+            @:Onze keeper en verdediging hield tot nu toe al @Model.AantalCleanSheets keer de netten schoon:
+            <ul>
+                @foreach (Match m in Model.MatchenMetCleanSheet)
+                {
+                    <li><a asp-controller="Matchen" asp-action="Details" asp-route-id="@m.MatchID">@KrisnaldoApp.Helpers.RandomMethods.PrintMatch(m)</a></li>
+                }
+            </ul>
+        }
+    </li>
+        -->
+    @if (Model.AantalGoalsGescoord == 0)
+    {
+    <li>We hebben nog geen goals gescoord.</li>
+    }
+    else if (Model.AantalGoalsGescoord == 1)
+    {
+    <li>We hebben nog maar één goal gescoord.</li>
+    }
+    else
+    {
+    <li>We hebben @Model.AantalGoalsGescoord goals gescoord.</li>
+    }
+    @if (Model.AantalTegenGoals == 0)
+    {
+    <li>We hebben nog geen tegengoals geslikt.</li>
+    }
+    else if (Model.AantalTegenGoals == 1)
+    {
+    <li>We hebben één  tegengoal geslikt.</li>
+    }
+    else
+    {
+    <li>We hebben @Model.AantalTegenGoals tegengoals geslikt.</li>
+    }
+</body>
+</html>

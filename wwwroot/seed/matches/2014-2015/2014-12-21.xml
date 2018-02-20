@@ -1,0 +1,41 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Alexander Verkouille</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Jonas Callewaert</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Robin Van Hulle</Player>
+  </Players>
+  <Time>
+    <Year>2014</Year>
+    <Month>12</Month>
+    <Day>21</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>FC Scoutaboe</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>4</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Sam Decoene</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend stond de eerste match in de terugronde op het programma. De Krisnaldo's leden een pijnlijke 1-4 nederlaag tegen Scoutaboe.</Paragraph>
+    <Paragraph>De wedstrijd begon evenwichtig met 2 ploegen die elkaar met open vizier bestreden. Uiteindelijk was het veldoverwicht toch voor ons. We hadden het balbezit alleen werd daar heel weinig meegedaan. Martijn Vandaele en Wout Veranneman werkten zich voorin uit de naad. Het mankeerde ons echter voor een stuk aan creativiteit om echt grote kansen af te dwingen. Ook Scoutaboe was al enkele keren gevaarlijk geweest op de tegenaanval, met snelle flankspelers maakten ze het onze verdediging knap lastig. Net voor rust kregen we een hoekschop tegen die werd binnengekopt. Zo moesten we met een 0-1 achterstand de rust in.</Paragraph>
+    <Paragraph>In de kleedkamer moest er dan ook gepuzzeld worden hoe we deze achterstand konden ophalen. Maar al vroeg in de tweede helft bleek deze puzzel niet te kloppen. De afwezigheid van coach en meester- tacticus Simon Plancke brak ons zuur op. We begonnen te wild en onbezonnen naar voor te stormen waardoor de organisatie als een kaartenhuisje in elkaar stortte. Centraal lag alles volledig open en Scoutaboe profiteerde optimaal door de score aan te dikken tot maar liefst 0-4. In de slotfase konden we toch nog de eerredder maken. Sam Decoene krulde een hoekschop,met enige hulp van de doelman, rechtstreeks in doel: 1-4 eindstand, waarna de Krisnaldo's met het schaamrood op de wangen het veld verlieten.</Paragraph>
+    <Paragraph>Na deze dramatische wedstrijd is het toch even tijd om in de spiegel te kijken. Binnen de bestuurskamer wordt het dringend tijd om knopen door te hakken anders lijkt de titel wel heel veraf. In het klassement staan we nu op een gedeelde 2e plaats maar verliezen we de aansluiting met leider Sportief Exclusief. De volgende weken zal het belangrijk zijn om niet aan het klassement te denken maar match per match proberen te winnen. Liefst volgende week al tegen De Palace Shotters. Een groot man zei ooit: "Een verloren veldslag is nog geen verloren oorlog". Volgende week knallen dus.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

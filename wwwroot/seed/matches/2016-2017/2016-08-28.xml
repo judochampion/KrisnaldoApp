@@ -1,0 +1,42 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Simon De Taeye</Player>
+    <Player>Bartel De Brabandere</Player>
+    <Player>Brecht Degezelle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>08</Month>
+    <Day>28</Day>
+  </Time>
+  <Against role="away" type="tournament">
+    <TeamName>Sportief Exclusief</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Joachim Ally</Scored>
+      <Assist>Wout Veranneman</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend speelden de Krisnaldo's tegen oude bekende Sportief Exclusief, in een zonovergoten Cera eindigde de partij op een 1-1 gelijkspel.</Paragraph>
+    <Paragraph>Dat het een lastige partij zou worden was al duidelijk de zaterdagavond. Nieuwbakken delegee Joachim Ally had een avondje bolletra voorzien. Na een avondje vertier en plezier zijn er zo binnen de Krisnaldo's 2 stromingen ontstaan, de stoters en de leggers.</Paragraph>
+    <Paragraph>Na een korte nachtrust slaagden we er toch in om fris en monter aan de aftrap te verschijnen. Het spelverloop ging aanvankelijk goed op en af met kleine kansjes voor beide ploegen. Naar mate de wedstrijd vorderde had Sportief Exclusief meer balbezit, al waren wij daarom zeker niet minder gevaarlijk. Net voor rust kwamen we dan ook op voorsprong. Na een hoekschop van de tegenstander volgde een razendsnelle counter, Wout Veranneman haalde de achterlijn gevolgd door een perfecte fourty-five en spitsbroeder Joachim Ally kon de 1-0 op het bord zetten. Stand bij de rust :1-0.</Paragraph>
+    <Paragraph>In de tweede helft was de scherpte bij beide partijen wat weg, veel middenveldspel, maar weinig actie in het doelgebied. De Izegemnaren drongen wel net iets meer aan en werden halfweg de tweede helft beloond met de gelijkmaker:1-1. Nog slechter nieuws kwam net daarna, in een onschuldig duel zakte Pieter-Jan Soenen door zijn enkel en moest hij noodgedwongen het strijdtoneel verlaten. Afwachten nu wat het verdict is van teamarts Simon Plancke, hopelijk valt de blessure mee zodat we onze stoere krijger achterin niet lang hoeven te missen. Verder in de wedstrijd viel er weinig te noteren en mochten we verkoeling opzoeken na een 1-1 gelijkspel.</Paragraph>
+    <Paragraph>Onmiddellijk na de wedstrijd volgde er ook een strafschoppenreeks die we met 4-2 verloren. Op de hoeveelste plaats we nu geëindigd zijn in "Het tornooi van de vriendschap" weet niemand. Het belangrijkste is dat we op scherp staan om volgende week de competitie te beginnen, dit doen we om 10u10 tegen De Sportwereld.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

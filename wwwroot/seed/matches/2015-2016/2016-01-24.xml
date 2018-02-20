@@ -1,0 +1,51 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Alexander Blondeel</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>01</Month>
+    <Day>24</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>SV Woumen</TeamName>
+  </Against>
+  <Score>
+    <Home>4</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Floren Bostoen</Scored>
+      <Assist>Sam Decoene</Assist>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Martijn Vandaele</Scored>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Reinout Pattijn</Scored>
+      <Assist>Brecht Houvenaeghel</Assist>
+    </Goal>
+    <Goal sequence="4">
+      <Scored>Floren Bostoen</Scored>
+      <Assist>Joachim Ally</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Na een gedwongen rust van twee weken door een afgelasting mochten we vandaag aantreden tegen Woumen. Een dorp waar we met tien man een zware 6-2 nederlaag kregen aangesmeerd in de heenronde. Nu waren we vastbesloten om voltallig een mooie revanche te nemen.</Paragraph>
+    <Paragraph>Het scheelde niet veel of we hadden een historische wedstrijdstart gekend. Floren Bostoen onderschepte de bal na dertig seconden en kwam op snelheid. Na een één-twee-tje met Joachim Ally torpedeerde hij een eerste keer het vijandelijke doel. De bal scheerde de paal, maar de Woumenaars waren bij deze wakker geschud. Ook zij probeerden enkele keren op te zetten, maar echt gevaarlijk werden ze niet: een pluim op de hoed van keeper Lowie Frimout en het centrale duo Pieter-Jan Soenen en Simon De Taeye die alles mooi dichthielden. Dat de Woumenaars over een van de sterkste lijnkeepers uit onze competitie beschikken, bleek meermaals. Zelfs bij die ene kans waar de keeper zich voelde als een foorkramer in een schietkraam, hield hij zijn netten schoon. Critici zullen echter stellen dat niet alleen de keeper, maar ook de slordige en haastige opbouw van ons spel ons parten speelde. En omdat een speler zijn handen een aantal keer niet kon thuishouden, werd het bij enkele daaropvolgende stilstaande fasen nog warm voor het doel van Lowie. Toen het fluitsignaal weerklinkte voor het einde van de eerste helft, keken we dan ook met vertwijfeling in de ogen naar onze pijnlijk lege reservenbank.</Paragraph>
+    <Paragraph>De tweede helft begon gelukkig een pak beter. Er werd beter gecombineerd en de tegenstander leek door zijn beste krachten heen te zitten. Het eerste doelpunt liet dan ook niet snel op zich wachten. Een verre bal van Sam Decoene werd achter de hoog gepositioneerde verdediging van Woumen gedropt. Als een duivel uit een doosje pikte Floren de bal op en oog in oog met de keeper werkte hij gedecideerd af. Martijn Vandaele, een altruïst die meestal andere mensen in scoringspositie weet te brengen, tekende voor de tweede. Ook hij glipte door de buitenspelval en kon de keeper verschalken met een laag schot. Het beste moest echter nog komen toen linksachter Sam Decoene zich klaarmaakte voor een uitworp vanop de flank. Hij wierp die perfect op het hoofd van Joachim Ally, die de bal doorkopte naar Brecht Houvenaegel. Die laatste kopte de bal op zijn beurt prachtig door naar rechtsachter Reinout Pattyn. Enig mooi legde hij de bal met een volley in het mandje. De laatste goal van Krisnaldo-makelij was een betere remake van de allereerste kans van de wedstrijd. Floren had nu echter meer geluk in de afwerking. De bal kaatste lichtjes af en zo werd de keeper volledig op het verkeerde been gezet. Dat we na deze mooie vier goals nog een tegengoal slikten, zal wellicht te wijten zijn aan een licht concentratieverlies en verdient niet meer dan een voetnoot.</Paragraph>
+    <Paragraph>Nu we bewezen hebben dat we met de steeds meer vertrouwde 4-4-2 opstelling resultaten boeken, is het voor de fans spannend uitkijken naar wat we tegen de leider waard zijn. In het verre Rekkem belooft het dan ook een spannende match te worden tegen FC Groen-Wit.</Paragraph>
+  </Report>
+</Match>

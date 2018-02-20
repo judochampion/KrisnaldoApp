@@ -1,0 +1,48 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Tijs Houvenaeghel</Player>
+    <Player>Mahoney Deckmyn</Player>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Thomas Deruyter</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Jonas Callewaert</Player>
+    <Player>Tom Thevelein</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2014</Year>
+    <Month>08</Month>
+    <Day>10</Day>
+  </Time>
+  <Against role="away" type="tournament">
+    <TeamName>AC 't Rozeke</TeamName>
+  </Against>
+  <Score>
+    <Home>4</Home>
+    <Away>0</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend speelden wij onze tweede wedstrijd van het tornooi "De Lokkedyze" tegen AC 't Rozeke. Einduitslag: een oververdiende 4-0 winst voor De Krisnaldo's!</Paragraph>
+    <Paragraph>In tegenstelling tot vorig week, begonnen De Krisnaldo's dit keer wel sterk aan de wedstrijd. Met knap combinatievoetbal namen wij dan ook onmiddellijk de match in handen. Halfweg de eerste helft was de openingstreffer dan ook niet meer dan verdiend: na een mooie versnelling via de linkerflank kon Wout Veranneman de bal naast de doelman plaatsen. Meteen ook een historische goal, want na de owngoal van vorige week was dit de eerste echte Krisnaldo goal.</Paragraph>
+    <Paragraph>Net voor rust kwam 't Rozeke nog even opzetten, maar op een schot van hun spits lag Mahoney in de goede hoek. Na rust konden we bijna spreken van éénrichtingsvoetbal: na een penaltyfout op onze nr. 7 kon een werkloze Mahoney de bordjes op 2-0 zetten. Wout had er nog niet genoeg van en legde nog 2 goals in het mandje. Hij mag meteen de eerste Krisnaldo hattrick op zijn naam schrijven. Wordt dit de nieuwe topschutter in reeks C?</Paragraph>
+    <Paragraph>Na de wedstrijd was er opnieuw de gebruikelijke penalty shoot-out, waarin Mahoney zich slechts 3 keer moest omdraaien. De volgende spelers scoorden op penalty voor De Krisnaldo's:</Paragraph>
+    <Paragraph>Mahoney Deckmyn Stijn Vansteenkiste Lowie Frimout Wout Veranneman</Paragraph>
+    <Paragraph>Op naar de volgende overwinning!</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

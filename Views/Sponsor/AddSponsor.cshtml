@@ -1,0 +1,23 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@using (Html.BeginForm("FormSponsor", "Sponsor", FormMethod.Post))
+{
+    <p>
+        @Html.Label("Display Naam")
+        @Html.TextBox("displayNaam")
+    </p>
+
+    <p>
+        @Html.Label("Raw Name")
+        @Html.TextBox("rawname")
+    </p>
+    <p>
+        @Html.Label("Link")
+        @Html.TextBox("link")
+    </p>
+
+    <input type="submit" value="Submit weakly typed form" />
+}

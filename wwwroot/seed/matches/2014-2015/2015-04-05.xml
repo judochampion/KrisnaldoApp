@@ -1,0 +1,52 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>04</Month>
+    <Day>05</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>FC Lokkedyze</TeamName>
+  </Against>
+  <Score>
+    <Home>0</Home>
+    <Away>3</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Wout Veranneman</Scored>
+      <Assist>Stijn Vansteenkiste</Assist>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Benjamin De Geest</Scored>
+      <Assist>Sam Decoene</Assist>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Geen paaseieren voor De Krisnaldo's. Zij mochten het deze ochtend opnemen tegen FC Lokkedyze. Na een bewogen wedstrijd kon het geel-blauwe legioen feesten met een verdiende 0-3 overwinning op zak.</Paragraph>
+    <Paragraph>Na een vliegende start stonden we bijna onmiddellijk na aftrap met 0-1 voor. Een prachtige steekpass van Floren Bostoen bereikte de magische voeten van Stijn Vansteenkiste. Die speelde de bal voor doel en na wat gerommel was het uiteindelijk Wout Veranneman die de openingsgoal kon binneprikken. Een droomstart, waarna we alleen maar verder raasden. Lokkedyze zag even sterretjes en we bleven maar kansen creëren.</Paragraph>
+    <Paragraph>De thuisdoelman moest enkele geniale reddingen uit de handen schudden om ons het scoren te beletten. Stijn Vansteenkiste vond het op dat moment al tijd om de talrijk opgedaagde supporters te entertainen. Hij had een prachtige rabona in gedachten, alleen was de uitvoering zo erbarmelijk dat het enkel op menig lachspier werkte. Zo gingen we na een fantastische eerste helft met een krappe 0-1 voorsprong rusten.</Paragraph>
+    <Paragraph>In de tweede helft bleven we baas, al voelden we dat via een snelle tegenaanval van de Lokkedyzianen we wel eens het deksel op de neus konden krijgen. Dus moest er jacht gemaakt worden op een tweede doelpunt. Het duurde even, maar uiteindelijk was het dan toch raak. Een gemeten voorzet van Sam Decoene werd door Benjamin De Geest knap in doel gekopt: 0-2. De thuisploeg had het opnieuw moeilijk en even ging het licht uit bij een speler van FC Lokkedyze. Na een ware doodschop op Brecht Houvenaeghel moesten de roodhemden -meer dan terecht- met 10 man verder.</Paragraph>
+    <Paragraph>Even was er nog hoop toen FC Lokkedyze na handspel in de zestien een penalty kreeg. Maar rust en kalmte staat duidelijk niet in het Lokkedyziaanse woordenboek en de penaltynemer knalde de bal ergens tussen Jupiter en Saturnus. Alle hoop was nu weg en de frustraties namen nu enkel nog toe bij de thuisploeg. Één keer konden we ons nog een weg banen tussen de vliegende tackles door, waarbij speerpunt Wout Veranneman de beslissende 0-3 wist te scoren.</Paragraph>
+    <Paragraph>Met deze knappe overwinning op zak doen we een prima zaak in het klassement. We blijven druk zetten op co-leider Sportief Exclusief, dat pas morgen in actie komt. Het belangrijkste nieuws is wel dat de promotie naar reeks B 99% zeker binnen is, en dat in ons allereerste seizoen. Een licht gevoel van euforie is zeker op zijn plaats, al blijven we tot de laatste speeldag voor de titel strijden. Wij zijn De Krisnaldo's, wij zijn de beste. Volgende week staat er alweer een lastige match op het programma tegen FC 't Dorp. In de heenwedstrijd verloren we van deze ploeg, eerherstel is dus op zijn plaats.</Paragraph>
+    <Paragraph>Maar nu eerst met z'n allen supporteren voor Johan Museeuw.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

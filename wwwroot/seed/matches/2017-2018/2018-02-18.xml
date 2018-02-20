@@ -1,0 +1,40 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+	<Player>Pieter Vermandere</Player>
+    <Player>Robin Van Hulle</Player>
+	<Player>Benjamin De Geest</Player>
+	<Player>Brecht Houvenaeghel</Player>
+	<Player>Sam Decoene</Player>
+	<Player>Pieter-Jan Soenen</Player>	
+	<Player>Lowie Frimout</Player>
+	<Player>Tijs Vergote</Player>
+	<Player>Wout Veranneman</Player>
+	<Player>Janneman Schouteten</Player>
+	<Player>Martijn Vandaele</Player>
+  </Players>
+  <Time>
+    <Year>2018</Year>
+    <Month>02</Month>
+    <Day>18</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>VK Denys</TeamName>
+  </Against>
+  <Score>
+	<Home>1</Home>
+	<Away>1</Away>
+  </Score>
+  <Goals>
+  <Goal>
+  <Scored>Benjamin De Geest</Scored>
+  <Assist>Lowie Frimout</Assist>
+  </Goal>
+  </Goals>
+  <Report>
+  <Paragraph>Deze ochtend was het eindelijk nog eens van dat. Geen druppel regen deze week, dus was het nog eens voetballen geblazen. De Krisnaldo's trokken naar Brugge aan de balie, in de volksmond ook wel Baliebrugge genoemd. Tegenstander was VK Denys. Bij aankomst troffen we eerst nog een bevroren terrein aan, maar naarmate het zonnetje meer en meer zijn werk deed kwam een mooie vlakke voetbalmat tevoorschijn.</Paragraph>
+  <Paragraph>De Krisnaldo's begonnen dan ook gretig aan de partij met enkele goeie kansen. De goal viel wel aan de overkant: een mooie streep van een Baliebruggenees verdween onhoudbaar in de verste hoek, en zo stonden we 1-0 achter. In tegenstelling tot enkele weken geleden hielden we bij die achterstand nu wel het hoofd koel. We bleven achterin goed georganiseerd en kwamen er enkele keren voetballend mooi uit. De beste kans was voor Wout, maar de thuisgoalie hield met een knappe beenveeg zijn netten schoon. Met een 1-0 achterstand trokken we de rust in.</Paragraph>
+<Paragraph>Na de rust was het tijd voor de comeback van Pieter-Jan. Na enkele nachtelijke escapades plus bijhorende disciplinaire schorsing, mocht onze stoere krijger opnieuw zijn plaats achterin innemen. Als vanouds hield de Hoogledenaar de boel in gekende no-nonsense stijl goed op slot. Ook voorin kwamen er meer mogelijkheden en kwamen we al snel gelijk. Lowie zette voor en mede door het volledig mistasten van de Denys-keeper leek het alsof onze trouwe nummer 2 eindelijk zijn eerste Krisnaldo doelpunt kon maken. Kapitein Benjamin gunde het Lowie niet en duwde onnodig de bal zelf in doel. Een vuile streek, al had onze oppergod Cristiano Ronaldo wellicht net hetzelfde gedaan. Voor het overige hadden we in de tweede helft net iets meer controle en waren de beste kansen voor ons. Brecht H., die knap werd vrijgespeeld door Martijn, had nog de beste kans om ons de 3 punten te schenken maar hij legde de bal iets te overhaast naaste het doel. 1-1 was de eindstand, een uitslag waar beide ploegen zich wel konden in vinden.</Paragraph>
+<Paragraph>Opnieuw een puntje dus en zo verdwijnt het degradatiespook langzaam maar zeker uit de kleedkamer. Volgende week spelen we tegen FC Ter Mote Ruddervoorde, de kampioen van vorig seizoen.</Paragraph>
+  </Report>
+</Match>

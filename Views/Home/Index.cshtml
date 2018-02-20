@@ -1,0 +1,68 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/nl_BE/sdk.js#xfbml=1&version=v2.12&appId=1084713514921645&autoLogAppEvents=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="6000">
+    <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner" role="listbox">
+        <div class="item active">
+            <img src="~/images/carousel/banner_cristiano_ronaldo.jpg" alt="LogoKrisnaldo" class="img-responsive" />
+            <div class="carousel-caption" role="option">
+                <p>
+                    Welkom op de website van De Krisnaldo's.
+                </p>
+            </div>
+        </div>
+        <div class="item">
+            <img src="~/images/carousel/banner_eerstegroepsfoto.png" alt="Groepsfoto" class="img-responsive" />
+            <div class="carousel-caption" role="option">
+                <p>
+                    Neem gerust een kijkje op de verschillende pagina's.
+                </p>
+            </div>
+        </div>
+        <div class="item">
+            <img src="~/images/carousel/bannerKwisnaldos.jpg" alt="Kwisnaldo-banner" class="img-responsive" />
+            <div class="carousel-caption" role="option">
+
+            </div>
+        </div>
+    </div>
+    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+<br />
+<div class="row">
+    <div class="col-md-12" align="center">
+        <div class="panel panel-default">
+            <div class="panel-heading">Volg het nieuws via onze Facebook-pagina</div>
+            <div class="panel-body">
+                <p>Op deze website vind je leuke statistieken, kan je grasduinen in de matchverslagen, foto-albums bewonderen of doorklikken naar de juiste links.</p>
+				<p>Voor de laatste nieuwtjes omtrent onze vereniging verwijzen we door naar <a href="https://www.facebook.com/DeKrisnaldos/" target="_blank" >onze Facebook-pagina</a>.</p>
+            </div>
+        </div>
+
+           <div class="fb-page" data-href="https://www.facebook.com/DeKrisnaldos/" data-tabs="timeline" data-width="500" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/DeKrisnaldos/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/DeKrisnaldos/">De Krisnaldo&#039;s</a></blockquote></div>
+
+    </div>
+</div>
+
+
+

@@ -1,0 +1,45 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Lowie Frimout</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Robin Van Hulle</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>02</Month>
+    <Day>22</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>Sportief Exclusief</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Benjamin De Geest</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend stond de topper tussen Sportief Exclusief en De Krisnaldo's op het programma. Na een zwaar bevochten duel wonnen De Krisnaldo's met 1-2.</Paragraph>
+    <Paragraph>De wedstrijd kon voor ons niet beter beginnen. Al na 5 minuten stonden we 0-1 voor. De Exclusief doelman kon een schot van Wout Veranneman niet klemmen, Benjamin De Geest was goed gevolgd en prikte de openingstreffer in doel. Na deze droomstart was het voor ons toch moeilijk om de bovenhand te nemen. Een bevroren ondergrond maakte combinatievoetbal moeilijk, waardoor we verder tot weinig kansen kwamen.</Paragraph>
+    <Paragraph>Ook Exclusief had het lastig en kon weinig kansen creëren. Wel waren ze aartsgevaarlijk op stilstaande fases. Ondanks dat het een gesloten wedstrijd was, konden ze net voor rust toch de tegentreffer maken en ons zo met een mentale tik de kleedkamer insturen. Stand bij de rust: 1-1.</Paragraph>
+    <Paragraph>Na rust kwamen we als leeuwen uit de kleedkamer. We eisten onmiddellijk de bal op met veel druk naar voor. Ons verdedigende duo Robin Van Hulle &amp; Pieter-Jan Soenen gaf de thuisspitsen geen enkele kans meer. Ook de opbouw van achteruit liep nu veel beter dan in de eerste helft, waardoor we voortdurend konden dreigen. Het doelhout hield ons enkele keren van een verdiende voorsprong, maar zo'n 10 minuten voor affluiten was het dan toch raak. Wout Veranneman was sneller dan zijn rechtstreekse tegenstander en plaatste mooi langs de doelman: 1-2. Exclusief kon daarna geen vuist meer maken en wij konden de match op een overtuigende manier uitspelen. Net voor affluiten illustreerde Martijn Vandaele nog even ons overwicht: even dollen met 4 verdedigers om duidelijk te maken dat De Krisnaldo's nog niet uitgeteld zijn voor de titelstrijd.</Paragraph>
+    <Paragraph>In de stand komen we zo terug tot op 3 punten van Sportief Exclusief. Vanaf nu mogen we niks meer laten liggen en hopen dat de leider dat wel doet. Volgende week spelen we op de CERA tegen Transvaal.</Paragraph>
+    <Paragraph>P.S. Aan alle mensen die aanwezig waren op de quiz van afgelopen vrijdag: bedankt voor jullie massale opkomst en tot volgend jaar!</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

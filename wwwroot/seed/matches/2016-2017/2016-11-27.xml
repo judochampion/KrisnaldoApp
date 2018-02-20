@@ -1,0 +1,45 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+  <Player>Lowie Frimout</Player>
+  <Player>Alexander Verkouille</Player>
+  <Player>Brecht Degezelle</Player>
+  <Player>Pieter-Jan Soenen</Player>
+  <Player>Martijn Vandaele</Player>
+  <Player>Reinout Pattijn</Player>
+  <Player>Sam Decoene</Player>
+  <Player>Wout Veranneman</Player>
+  <Player>Benjamin De Geest</Player>
+  <Player>Brecht Houvenaeghel</Player>
+  <Player>Robin Van Hulle</Player>
+  <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>11</Month>
+    <Day>27</Day>
+  </Time>
+  <Against role="home" type="cup">
+    <TeamName>VC Rollegem-Kapelle</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Wout Veranneman</Scored>      
+      <Assist>Joachim Ally</Assist>
+    </Goal> 
+    <Goal sequence="2">
+      <Scored>Wout Veranneman</Scored>      
+      <Assist>Joachim Ally</Assist>
+    </Goal> 
+  </Goals>
+  <Report>
+    <Paragraph>Heel erg vroeg en echt koud was het toen de chauffeurs van ons milieuvriendelijke carpoolsysteem de motor in gang staken. Na het ophalen van de passagiers zetten we koers richting Sint Eloois-Winkel voor de kwartfinale van de wisselbeker VDC Roeselare. We werden er door VC Rollegem-Kapelle professioneel ontvangen in een mooie kleedkamer, zoals een ploeg uit reeks A betaamt.</Paragraph>
+    <Paragraph>
+De scheidsrechter fronste zijn wenkbrauwen toen hij het aantal spelers van de thuisploeg telde. Slechts tien stuks, wat toch eerder matige ambities van onze tegenstander voor deze wisselbeker onthulde. Wij stonden wel met 11 leeuwen op het veld en grepen ons slachtoffer meteen bij het nekvel. Toch bleef de bal vooral op het middenveld steken en konden we niet echt tot kansen komen. Na tien minuten kwam de elfde tegenstander opdagen en vreemd genoeg lukte het creëren van doelkansen nu plots veel beter. Martijn Vandaele zat overal kort op en kon het leer ontfutselen uit de voeten van een argeloze Rollegemenaar. Hij speelde Joachim Ally aan, die zijn spitsbroeder Wout Veranneman diep op de flank wegstuurde. Wout was sneller dan zijn tegenstander en toverde dan een mooie dribbel uit zijn voeten. Hij rook zijn kans en verraste de keeper met een krachtig schot in de verste hoek. Niet veel later was het Alexander Verkouille die in zijn typische gretige stijl de bal opeiste. Hij stuurde Joachim diep die opnieuw onze nummer 7 kon bereiken in het strafschopgebied. Wout besefte dat hij niet veel tijd had en schoot in één tijd zijn tweede van de ochtend tegen de netten. Dicht bij een derde treffer kwamen we voor rust niet meer, enkele mooi getrapte corners van Sam Decoene vonden jammer genoeg geen Krisnaldo-hoofd op hun vlucht door het Rollegemse luchtruim.</Paragraph>
+<Paragraph>Hun trainer gaf zijn thuisploeg echt een stevige bolwassing tijdens de rust en het effect daarvan liet niet lang op zich wachten. Minuut na minuut verhoogden ze de druk op onze verdediging. Links vooraan had een zekere Arnoult een bepaalde status opgebouwd, want vrijwel alle tegenstanders speelden hem hoopvol aan. Gelukkig was er Lowie Frimout, die ondertussen was ingevallen voor de geblesseerde Pieter-Jan Soenen. Hij kon deze man uitstekend uit de wedstrijd houden. Een keer liet onze verdediging zich toch verrassen: een venijnige diepsteekpass was perfect getimed en bracht zo een rivaal voor doel. Hij had dit duidelijk nog gedaan en tekende voor de aansluitingstreffer. De gelijkmaker leek in de lucht te hangen, maar centrale verdedigers Reinout Pattijn en Robin Vanhulle behoedden ons hiervan. Door deze aanvalsdrang kwam er ook meer ruimte in hun verdediging, maar elke aanval miste precisie waardoor we die nooit echt konden uitbuiten. De wedstrijd sleepte zich naar het einde en het verlossende eindsignaal kwam geen seconde te vroeg.</Paragraph>
+<Paragraph>En zo hebben we net als vorig jaar een stek in de halve finales in een van de vier bekers die het RLV-circuit rijk is. Maar zoals onze voorzitter al aangaf, primeert de competitie. Daarin nemen we het volgende week op in een topper tegen VP Sleihage, momenteel 4de in de stand. Supporters op post!</Paragraph>
+  </Report>
+</Match>

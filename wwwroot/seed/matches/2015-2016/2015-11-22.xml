@@ -1,0 +1,51 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Janneman Schouteten</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>11</Month>
+    <Day>22</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>SV Werken</TeamName>
+  </Against>
+  <Score>
+    <Home>4</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Benjamin De Geest</Scored>
+      <Assist>Sam Decoene</Assist>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Joachim Ally</Scored>
+      <Assist>Wout Veranneman</Assist>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Joachim Ally</Scored>
+      <Assist>Sam Decoene</Assist>
+    </Goal>
+    <Goal sequence="4">
+      <Scored>Sam Decoene</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Toen de atletische spelers hun oogjes openden en door het raam keken, zagen ze het pijpenstelen regenen. Gelukkig werd de wedstrijd niet afgelast en konden we zo aantreden tegen Werken, de hekkensluiter van onze reeks B. De bookmakers zagen ons echter niet als favoriet, omdat het na de Nacht van de Duvel meestal niet de ochtend van de Krisnaldo’s is. Niets bleek echter minder waar.</Paragraph>
+    <Paragraph>De Krisnaldo’s schoten als een speer uit de startblokken en zetten de iets labielere verdediging van de tegenpartij onder druk. In een nieuwe 4-4-2 opstelling werden de ruimtes snel gevonden. Een heel mooie actie van Martijn Vandaele op rechts werd geregistreerd als het eerste wapenfeit. Niet veel later nam kapitein Benjamin De Geest zijn ploeg op sleeptouw. Een vrije trap vanuit links werd door Sam mooi in de kluts gegooid. Benjamin buffelde de bal richting linkerbenedenhoek, maar de keeper hield met een katachtige reflex de nul op het bord. Toen niet veel later het cornerfestival op gang werd getrokken (in totaal tellen we er wel 20) waarschuwde de kapitein van de tegenstander zijn medespelers voor “die nummer 8”. Maar dat die boodschap niet altijd goed in de oren geknoopt werd, bleek toen Benjamin een van die corners helemaal vrij kon binnenkoppen. Enkele minuten later werd de score al verdubbeld. Wout Veranneman brak met een snelle actie door op links en kon de bal afleggen richting spitsbroeder Joachim Ally, die van dichtbij met links de netten deed trillen.</Paragraph>
+    <Paragraph>In de tweede helft waren we vast besloten om de score verder uit te bouwen. Bij de tegenpartij verloren ze steeds meer energie in discussies met de scheidsrechter. Invaller Reinout Pattyn kon op rechts enkele keren voor gevaar zorgen. Geheel tegen de gang van het spel in, kwamen de Werkenaars toch nog eens opzetten bij de anders wel heel rustige kooi van paradijsvogel Lowie Frimout. Door de aanhoudende stortregen dacht die laatste dat hij al onder de douche stond: Hij behandelde de bal als een stuk zeep en zo stond de aansluitingstreffer op het bord. Een klein foutje van deze anders heel secuur en à la Neuer uitkomende keeper. Paniek sloop er niet in de rangen van de geel-blauwe vedetten want het cornerfestival ging gewoon door. Na de zoveelste mooie voorzet van Sam kon Joachim aan de eerste paal binnenkoppen. En net voor affluiten bekroonde Sam zijn match met een lage schuiver in de linkerhoek: 4-1. De Werkenaars konden ons centrale duo Robin Vanhulle en Pieter-Jan Soenen niet meer in verlegenheid brengen.</Paragraph>
+    <Paragraph>In de kleedkamer ontstond na affluiten dan ook een klein feestje. De paparazzi legden het vreugdige tafereel op de gevoelige lens vast. En zo blijven de Krisnaldo’s nu al vier wedstrijden ongeslagen. Na de 8 op 12 zijn we dan ook voorlopig op een iets veiligere 10de plaats beland. Volgende week wordt er gebekerd en hopen we met de steun van onze supporters een ronde verder te geraken.</Paragraph>
+  </Report>
+</Match>

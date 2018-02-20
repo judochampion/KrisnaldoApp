@@ -1,0 +1,44 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Lowie Frimout</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Janneman Schouteten</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Tijs Houvenaeghel</Player>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Robin Van Hulle</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>03</Month>
+    <Day>08</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>Jong CD&amp;V Dark</TeamName>
+  </Against>
+  <Score>
+    <Home>3</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="2">
+      <Scored>Stijn Vansteenkiste</Scored>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Stijn Vansteenkiste</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend namen De Krisnaldo's het op tegen Jong CD&amp;V. De eerste lentezon lokte veel fans naar de Cera, die zagen dat De Krisnaldo's deden wat van hen verwacht werd met een zuinige 3-1 overwinning.</Paragraph>
+    <Paragraph>Van bij de aftrap was duidelijk wie de betere ploeg was. We eisten onmiddellijk de bal op en drukten de tegenstander terug. CD&amp;V stelde zich verdedigend op waardoor het, ondanks het balbezit, moeilijk was om grote kansen te creëren. Net voor rust lukte het dan toch. Een listige vrije trap van Pieter-Jan Soenen zorgde voor verwarring bij de bezoekende verdediging, waardoor we via een own goal op een 1-0 voorsprong kwamen. 1-0 was ook meteen de ruststand.</Paragraph>
+    <Paragraph>Na de rust bleef het spelbeeld hetzelfde. Wij hadden steeds het balbezit, alleen was de laatste pass vaak niet goed genoeg om de CD&amp;V doelman aan het werk te zetten. Uiteindelijk was het Stijn Vansteenkiste die de score kon verdubbelen. Na wat getreuzel bij de tsjeven was "Stijnaldo" het eerst bij de bal. Even later was het opnieuw prijs. Het schot van Wout Veranneman werd eerst nog gestopt door de bezoekende doelman, maar alweer Stijn Vansteenkiste stond op de goede plaats om de rebound binnen te rammen: 3-0.</Paragraph>
+    <Paragraph>Een comfortabele voorsprong, waardoor er wat nonchalance in de ploeg sloop. En zo moesten we uiteindelijk nog een tegendoelpunt weggeven in de slotfase. Eindstand: 3-1. Den makkelijke overwinning dus, al zal het volgende week toch beter moeten zijn.</Paragraph>
+    <Paragraph>Het beste nieuws ontvingen we na de match: leider Sportief Exclusief verliest van FC De Geite, waardoor we nu terug mee op kop staan in het klassement. De strijd om de titel zal echter knokken worden tot de laatste wedstrijd. Volgende week tegen SC K2 zullen we er dus opnieuw moeten staan.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

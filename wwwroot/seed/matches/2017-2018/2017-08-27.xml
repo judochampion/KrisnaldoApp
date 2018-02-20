@@ -1,0 +1,43 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+	<Player>Lowie Frimout</Player>
+	<Player>Pieter-Jan Soenen</Player>
+	<Player>Bartel De Brabandere</Player>
+	<Player>Pieter Vermandere</Player>	
+	<Player>Benjamin De Geest</Player>
+	<Player>Brecht Houvenaeghel</Player>
+	<Player>Sam Decoene</Player>
+	<Player>Floren Bostoen</Player>	
+	<Player>Wout Veranneman</Player>
+	<Player>Joachim Ally</Player>
+	<Player>Alexander Blondeel</Player>
+	<Player>Matthijs Germonprez</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>08</Month>
+    <Day>27</Day>
+  </Time>
+  <Against role="away" type="tournament">
+    <TeamName>'t Dorp</TeamName>
+  </Against>
+  <Score>
+    <Home>2</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals>
+     <Goal sequence="1">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+	 <Goal sequence="2">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+	<Goal sequence="3">
+      <Scored>Sam Decoene</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+  <Paragraph>(Geen verslag)</Paragraph>
+  </Report>
+</Match>

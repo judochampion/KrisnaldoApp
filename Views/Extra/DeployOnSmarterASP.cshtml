@@ -1,0 +1,50 @@
+﻿
+@{
+    ViewData["Title"] = "How To Deploy on SmarterASP";
+}
+
+<p>Zoals vermeld op de pagina over <a asp-area="" asp-controller="Extra" asp-action="AzureAccount">mijn Azure Account</a>, heb ik nu een betalende account op SmarterASP waar ik ook via Visual Studio mijn webapplicatie kan deployen. Dit ging echter niet van een leien dakje, hieronder is er uitleg die ik zelf heb opgesteld en die ik dan zou willen geven aan de mensen van SmarterASP om hen te tonen hoe ze mensen met gelijkaardige problemen kunnen helpen.</p>
+<div class="panel panel-info">
+    <div class="panel-heading">
+        <h3 class="panel-title">How To Deploy on SmarterASP</h3>
+    </div>
+    <div class="panel-body">
+        <p>In what follows I would like to share things I have learnt while trying to deploy an ASP.NET Core Application via Visual Studio on SmarterASP.</p>
+        <p>The recommended steps are:</p>
+        <ul>
+            <li>
+                Create the database of this type: MSSQL 2014.
+                <ul>
+                    <li>You can choose a password.</li>
+                    <li>Then you are able to find the connection string. Remark that the password will not be filled in there, you need to add it there instead of ‘YOUR_DB_PASSWORD’.</li>
+                    <li>Why MSSQL and not MySQL? Well, as we are working with one product of Microsoft on the one hand, it makes sense to use also the Microsoft way of storing data. But I read on StackOverflow that developers easily managed to implement ASP.NET projects with MySQL-databases as well.</li>
+                </ul>
+            </li>
+            <li>Fill in the connection string in the application.json-file. Where you do it exactly does not really matter, as long as you make sure that in this specific configuration method of the StartUp.cs-file, the correct connection string is added to the deployed application.</li>
+            <li>
+                Before actually deploying, there is another set of precautions:
+                <ul>
+                    <li>For deploying via VS to SmarterASP, you need to be on the Advanced Plan. The Basic Plan does not provide you with that feature. I think you can also deploy ASP.Net Core Applications without using VS on the Basic Plan, but do not have experience with it. Do not forget to enable the VS Deployment in your control panel. After enabling, you can just copy all settings that you need to fill in in Visual Studio from that information box. (More details can be found in the Knowledge Base of Smarter ASP)</li>
+                    <li>
+                        During deployment, they also ask you to enable an initial migration while deploying. A simple advice: Don’t do it. If you do, you will certainly have the error of Visual Studio not being authorized to access the database. This took me a lot of time to find out that I really need to uncheck this box when I want to deploy to Visual Studio and also a coworker of the chat service of SmarterASP was very helpful to overcome this issue. <ul>
+                            <li>
+                                How do I do the migration than? How do I create the initial tables? Well, there are still enough other options:
+                                <ul>
+                                    <li>You can take the .mdf-file of your local database and import it in your database that was created in step 1. In this way, your database is populated with exactly the same data as in your local database. </li>
+                                    <li>You can open up Microsoft SQL Server Management Studio (which is freeware) and manually create your database or dump a few queries there to create the tables you want.</li>
+                                    <li>OR You can let the application take care of all that on the start-up of the application on the server, by using the command context.Database.Migrate(). This simply works :) !</li>
+                                </ul>
+                            </li>
+
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li>As a last remark, you know there is also the possibility to perform context.Database.EnsureDeleted() and its counterpart EnsureCreated(). Don’t do it. It is not gonna work and also on deploying applications in production it is in general a bit rookie to do it. Migrations are the way to go, the other methods mentioned above are only a good practice in development environments (so when you are experimenting on your localhost). </li>
+        </ul><p>I hope this can help you out for overcoming deploying issues and that I saved you some valuable time of your life. I would like to refer to my github account to find full projects with reference code: www.github.com/judochampion.</p>
+        <p>Also for some reason, I had the problem that the connection string was not loaded correctly from the appsettings.json file, I hardcoded this to quickly solve the issue.</p>
+        <img src="~/images/smarterasp/hardcodefix.png" class="img-thumbnail center-block" alt="HardCode Fix">
+    </div>
+</div>
+<p>
+

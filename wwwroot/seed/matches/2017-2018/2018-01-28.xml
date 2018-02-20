@@ -1,0 +1,39 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+	<Player>Pieter Vermandere</Player>
+    <Player>Robin Van Hulle</Player>
+	<Player>Benjamin De Geest</Player>
+	<Player>Brecht Houvenaeghel</Player>
+	<Player>Sam Decoene</Player>
+	<Player>Floren Bostoen</Player>	
+	<Player>Bartel De Brabandere</Player>
+	<Player>Wout Veranneman</Player>
+	<Player>Janneman Schouteten</Player>
+	<Player>Martijn Vandaele</Player>
+  </Players>
+  <Time>
+    <Year>2018</Year>
+    <Month>01</Month>
+    <Day>28</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>DDT Veldegem</TeamName>
+  </Against>
+  <Score>
+	<Home>1</Home>
+	<Away>0</Away>
+  </Score>
+  <Goals>
+  <Goal>
+  <Scored>Benjamin De Geest</Scored>
+  <Assist>Janneman Schouteten</Assist>
+  </Goal>
+  </Goals>
+  <Report>
+  <Paragraph>Na het onverhoopte punt tegen Devolder Sport stond vandaag het levensbelangrijke degradatieduel tegen DDT Veldegem op het programma.</Paragraph>
+  <Paragraph>Een primeur in de 4-jarige geschiedenis van De Krisnaldo’s: rots in de branding en penningmeester Lowie mocht zijn debuut maken als scheidsrechter, gezien de aangewezen arbiter verstek moest geven wegens ziekte. Op een doorploegde akker waar menig witloofboer jaloers op zou zijn, begonnen we vol gas aan de wedstrijd. We voetbalden een aantal goede kansen bij elkaar, maar de afwerking liet -zoals wel vaker dit seizoen- te wensen over. Het blijft dan ook wachten tot het kanon van ex-Gouden Stier Wout terug uit wintermodus geraakt. Met een “hier zit meer in” gevoel doken we de kleedkamer in.</Paragraph>
+<Paragraph>We begonnen slapjes aan de tweede helft, maar voerden de druk geleidelijk aan op. De Veldegemnaren leden veelvuldig balverlies en wisten af en toe niet meer van welke provincie ze waren. En plots was het dan toch raak: Janneman, die later uitviel met een spierblessure, schilderde de bal in de vijandelijke zestien en het was El Capitano Benjamin die er als de kippen bij was om de bal met het hoofd in doel te strelen: 1-0. Ook Robin -of was het de reïncarnatie van Anthony ‘forever in our sporting hearts’ Vanden Borre?- slalomde als een volleerde alpineskiër door een bos Veldegemse benen, maar beëindigde zijn actie zoals de carrière van Anthony: net niet, maar er zat meer in. Verder dan enkele gevaarlijke centers kwam Veldegem niet meer, waarna nieuwbakken scheidsrechter Lowie het welletjes vond en de wedstrijd affloot.</Paragraph>
+<Paragraph>Zo pakken we onze eerste driepunter sinds 22 oktober en wippen we over FC Cera. Een anonieme Krisnaldo maakte zelfs al gewag van een tettenkot ergens in Polen. Als dat maar goed komt... Volgende week staat de minstens even belangrijke degradatiekraker tegen KWB Don Bosco op de agenda. The only way is up!</Paragraph>
+  </Report>
+</Match>

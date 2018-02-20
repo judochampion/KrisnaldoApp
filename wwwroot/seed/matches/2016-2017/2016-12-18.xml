@@ -1,0 +1,51 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Lowie Frimout</Player>
+    <Player>Brecht Degezelle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>12</Month>
+    <Day>18</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>FC De Sportwereld</TeamName>
+  </Against>
+  <Score>
+    <Home>4</Home>
+    <Away>4</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+        <Scored>Wout Veranneman</Scored>      
+        <Assist>Brecht Houvenaeghel</Assist>
+    </Goal> 
+    <Goal sequence="2">
+      <Scored>Martijn Vandaele</Scored>      
+      <Assist>Joachim Ally</Assist>
+    </Goal> 
+    <Goal sequence="3">
+      <Scored>Martijn Vandaele</Scored>      
+      <Assist>Joachim Ally</Assist>
+    </Goal> 
+    <Goal sequence="4">
+        <Scored>Wout Veranneman</Scored>      
+        <Assist>Martijn Vandaele</Assist>
+    </Goal> 
+  </Goals>
+  <Report>
+    <Paragraph>De eerste match van de terugronde was er één op het mooie Torhoutse sportcomplex van FC De Sportwereld. Dat de vacature van greenkeeper bij FC De Sportwereld maar niet raakt ingevuld, bleek uit het bruine veld. In vergelijking met vorige week waren ook sterkhouders Wout Veranneman, Floren Bostoen en Pieter-Jan Soenen opnieuw van de partij. Vol goede moed hoopten we 2016 met een overwinning af te sluiten.</Paragraph><Paragraph>
+De brilscore bleef niet lang op het bord staan. Al na enkele minuten gaven we hun topspits te veel vrijheid en slaagde hij er met een prachtige actie in om onze verdediging zoek te spelen: 1-0. Maar in tegenstelling tot vorige week konden we nu wel een vuist maken. Brecht Houvenaeghel, die normaal vanop links opereert, dook verrassend op aan de rechterkant. Hij zag zijn dorpsgenoot Wout klaar staan aan de penaltystip en bediende hem met een hoge voorzet. Heel erg fraai nam onze nummer 7 de bal op de slof en verdween de bal in de rechterbovenhoek. Opnieuw konden we deze gelijke stand niet lang vasthouden. Ook al stonden we georganiseerd te verdedigen, tegen de individuele klasse van een topspits is het moeilijk weerwerk bieden: 2-1. Na een korte dribbel op links kon Wout zijn spitsbroeder Joachim Ally bereiken. Op de huid gezeten door enkele verdedigers kon die niet aanleggen. Gelukkig kon hij de bal nog achteruit passen op Martijn. Die haalde zijn gram door net voor de rust met een perfect geplaatst laag schot de bordjes terug in evenwicht te brengen.</Paragraph><Paragraph>
+In het begin van de tweede helft kreeg onze aanhang het beste voetbal te zien. Vlotte combinaties, elkaar coachen, duelkracht en organisatie… alles zat er in. Zo bleef de voorsprong niet lang uit. Floren stak Joachim diep op de rechterflank. Hij zag opnieuw Martijn klaar staan aan het halve maantje. De sluwe vos raakte de botsende bal enig mooi, waarna die aan een mooie tocht richting dak van het Torhoutse doel begon. Niet veel later kon Wout na een prachtig uitgespeelde counter zijn tweede van de match in het mandje leggen: 2-4. De tegenstander leek het even te hebben opgegeven. Gezapig voetbalden we nog wat kansen bij elkaar, maar de nonchalance zorgde ervoor dat we daar niets meer mee deden. Dat kwam ons alsnog zuur op te breken toen de 3-4 uit de lucht kwam vallen. De thuisploeg zag het opnieuw zitten en wat iedereen onmogelijk achtte gebeurde toch. In de laatste minuut slikken we een vierde tegengoal en werd het alsnog 4-4.</Paragraph><Paragraph>
+Zo dropen we af met een gelijkspel die aanvoelde als een nederlaag. Acht tegengoals op twee matchen is veel voor een ploeg die daarvoor er slechts 11 in 11 matchen slikte. Merkwaardig genoeg blijven we op drie punten van de leidersplaats hangen, omdat in deze razend spannende competitie ook de andere topclubs het dikwijls laten afweten. Na een korte winterstop hervatten we de competitie op 8 januari tegen het Nieuw Gemeentehuis. Supporters op post!</Paragraph>
+  </Report>
+</Match>

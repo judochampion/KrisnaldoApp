@@ -1,0 +1,94 @@
+@model KrisnaldoApp.Models.Sponsor
+
+@{
+    ViewData["Title"] = "Voorbeeldmail";
+}
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+
+<div ng-app="" >
+
+    <div class="col-md-12">
+        <div class="alert alert-warning">
+            <p>Vul hier eerst de variabele gegevens in</p>
+
+            <p>Voorstel voor prijs van deze sponsor: <input type="text" ng-model="prijsvoorstel"></p>
+            <p>Bedrijfsnaam: <input type="text" ng-model="bedrijfsnaam"></p>
+            <p>Afzendernaam: <input type="text" ng-model="afzendernaam"></p>
+            <p>GSM nummer (zonder +32 en zonder nul, vb. 477069583):<input type="text" ng-model="gsmnummer"></p>
+            <p>Eventuele extra aanspreking:<input type="text" ng-model="extraaanspreking"></p>
+            
+        </div>
+        <div class="alert alert-success">
+            Hieronder kan je het resultaat zien of met de knop kan je het meteen op het klembord kopi&iuml;ren om in je GMail te plakken of in het contactformuliertje van hun website.
+            <button onclick="myFunction()">Kopieer mail naar klembord</button>
+            <b>Vergeet aub niet de Exel aan te vullen via <a  target="_blank" href="https://docs.google.com/spreadsheets/d/1Lbg03h5B07Vz0VcM5JXVJ7w1HU8-4goRCQlhNm3rvjU/edit#gid=505297403">deze link</a>.
+            </b>
+        </div>
+    </div>
+    <hr />
+    <div id="myInput">
+    <p>Geachte <span ng-bind="extraaanspreking"></span>,</p>
+    <p>Op zaterdagavond 21 april 2018 in zaal Geitenhove te Hooglede organiseren we een algemene quiz met onze voetbalploeg ("De Krisnaldos"), die uitkomt in het Roeselaars Liefhebbersvoetbal. Hierbij zijn we nog op zoek naar sponsors die ons zouden willen steunen, dit kan met behulp van prijzenmateriaal voor de deelnemende teams: <span ng-bind="prijsvoorstel"></span> zou bijvoorbeeld ideaal zijn.</p>
+    <p>We verwachten voor deze quiz een aanwezigheid van 150 &agrave; 200 personen, verdeeld over 38 teams. De prijzen kunnen vari&euml;ren van kleine gadgets tot iets meer waardevolle prijzen voor de winnaars. In ruil daarvoor zal het logo van <span ng-bind="bedrijfsnaam"></span> te zien zijn op <b>de antwoordformulieren, de drankkaarten en de presentatie zelf</b>. Als sponsor van de quiz krijgt u ook <b>extra zichtbaarheid op onze website: <a href="http://krisnaldos.be/sponsors">http://krisnaldos.be/sponsors</a></b></p>
+    <p>
+        Hieronder vindt u de link naar het Facebook evenement en de foto&acute;s van de voorbij drie edities:
+        <ul>
+            <li>Het Facebook-event: <a href="https://www.facebook.com/events/949548311859773/">https://www.facebook.com/events/949548311859773/</a></li>
+            <li>Kwisnaldo's 2015: <a href="http://krisnaldos.be/Albums/kwisnaldos2015">http://krisnaldos.be/Albums/kwisnaldos2015</a></li>
+
+            <li>Kwisnaldo's 2016: <a href="http://krisnaldos.be/Albums/kwisnaldos2016">http://krisnaldos.be/Albums/kwisnaldos2016</a></li>
+
+            <li>Kwisnaldo's 2017: <a href="http://krisnaldos.be/Albums/kwisnaldos2017">http://krisnaldos.be/Albums/kwisnaldos2017</a></li>
+        </ul>
+    </p>
+    <p>Zou <span ng-bind="bedrijfsnaam"></span> hier eventueel in ge&iuml;nteresseerd zijn? U zou ons er alvast een groot plezier mee doen. Alvast bedankt voor uw antwoord!</p>
+    <p>
+        Met vriendelijke groeten,<br />
+        <span ng-bind="afzendernaam"></span>
+        <br/>
+        <i>Bereikbaar op dit e-mailadres of via het GSM-nummer +32 <span ng-bind="gsmnummer"></span></i>
+    </p>
+        </div>
+</div>
+
+<script>
+
+    function myFunction() {
+        var copyText = document.getElementById("myInput").outerHTML;
+        html2clipboard(copyText);
+    }
+
+    function html2clipboard(html, el) {
+        var tmpEl;
+        if (typeof el !== "undefined") {
+            // you may want some specific styling for your content - then provide a custom DOM node with classes, inline styles or whatever you want
+            // just omit that argument for a default div container
+            tmpEl = el;
+        } else {
+            tmpEl = document.createElement("div");
+
+            // since we remove the element immediately we'd actually not have to style it - but IE 11 prompts us to confirm the clipboard interaction and until you click the confirm button, the element would show. so: still extra stuff for IE, as usual.
+            tmpEl.style.opacity = 0;
+            tmpEl.style.position = "absolute";
+            tmpEl.style.pointerEvents = "none";
+            tmpEl.style.zIndex = -1;
+        }
+
+        // fill it with your HTML
+        tmpEl.innerHTML = html;
+
+        // append the temporary node to the DOM
+        document.body.appendChild(tmpEl);
+
+        // select the newly added node
+        var range = document.createRange();
+        range.selectNode(tmpEl);
+        window.getSelection().addRange(range);
+
+        // copy
+        document.execCommand("copy");
+
+        // and remove the element immediately
+        document.body.removeChild(tmpEl);
+    }
+</script>

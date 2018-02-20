@@ -1,0 +1,48 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Alexander Verkouille</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>04</Month>
+    <Day>17</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>Sportief Exclusief</TeamName>
+  </Against>
+  <Score>
+    <Home>3</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Floren Bostoen</Scored>
+      <Assist>Sam Decoene</Assist>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Joachim Ally</Scored>
+      <Assist>Sam Decoene</Assist>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Alexander Verkouille</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Na ons verlies van vorige week was de promotiestress duidelijk weg. De opwarming verliep dan ook heel wat minder nerveus, er werden zelfs enkele moppen getapt. De tegenstander van vandaag was nochtans niet min, Sportief Exclusief. De ploeg die samen met ons uit reeks C is gepromoveerd, is goed op weg om een tweede maal op rij te promoveren.</Paragraph>
+    <Paragraph>De horden fans, die door de typische verkeersopstroppingen op weg naar het stadion, enkele minuten na de aftrap zich installeerden, keken verbaasd op toen ze 1-0 op het scorebord zagen staan. De naam die erop te lezen stond was die van Floren Bostoen. De derde pass van de thuisploeg werd onderschept door een attente Brecht Houvenaeghel, die technicus Sam Decoene aanspeelde. Die laatste gaf een hoge voorzet richting onze kleine krullenbol. Hij kapte zijn tegenstander mooi uit en gaf de keeper geen schijn van kans. Deze topstart gaf ons duidelijk vleugels. Sportief Exclusief slaagde er nauwelijks in ook maar één deftige kans bijeen te voetballen, terwijl wij daar stilaan een telraam voor nodig hadden. Een van die kansen was een hoekschop, nu al enkele weken steevast getrapt door Sam. Na enkele missers was het Joachim Ally die aan de eerste paal de bal in één tijd op de slof kon nemen en zo de score verdubbelde. Benjamin De Geest en Martijn Vandaele bikkelden alsof hun leven ervan afhing, wat ons zorgeloos de rust deed halen.</Paragraph>
+    <Paragraph>In de rust werd één tactische wissel doorgevoerd door trainer Carl Frimout. Seizoensrevelatie Alexander Verkouille mocht opnieuw zijn kwaliteiten bewijzen, terwijl Brecht tot grensrechter werd gebombardeerd. Dat hij die taak doodserieus neemt, bleek al snel. Sportief Exclusief kon eindelijk eens een aanval in elkaar boksen die hun hoge rangschikking rechtvaardigde… en zelfs scoren! Of zo leek het toch, ware het niet dat Brecht gezien had dat de spits nipt buitenspel liep voor hij de bal in het mandje legde. Toen echter achtte Alexander de Grote zijn moment gekomen. Na een schot van Wout Veranneman kwam de bal bij hem terecht. Hij etaleerde zijn goede vorm met een hard en geplaatst schot: 3-0. Onze in het rood geklede rivalen gaven echter niet op en gingen gretig op zoek naar een eerredder. De baardige Reinout Pattyn kon zijn tegenstander makkelijk de baas en de Hoogleedse torens Pieter-Jan Soenen en Simon De Taeye smoorden iedere aanval in de kiem. Alleen waande Pieter-Jan zich even een basketballer en probeerde hij met een botspass uit te verdedigen. “Haaaaaaands” galmde secondenlang van de tribunes en de scheidsrechter floot dan ook penalty. De spits nam zijn verantwoordelijkheid en stuurde Dries Sticker de verkeerde kant uit: 3-1. Hoewel hij een resem kansen forceerde in zijn typische stijl geraakte de naam van Wout niet meer op het scorebord. Waar hij vorige week heel beheerst de belangrijke aansluitingstreffer maakte, miste hij nu diezelfde precisie en dat tikkeltje geluk.</Paragraph>
+    <Paragraph>Door licentieproblemen van een topploeg uit reeks A en het afscheidnemende FC Groen-Wit bleek na afloop dat de 2de, 3de en 4de promoveren. Maar ook dat wordt mathematisch bijna onmogelijk door het verlies van vorige week. Echt wakker liggen we daar niet van, de voldoening van deze mooie overwinning na een 2-1 verlies in de heenmatch smaakt verdomd zoet.</Paragraph>
+  </Report>
+</Match>

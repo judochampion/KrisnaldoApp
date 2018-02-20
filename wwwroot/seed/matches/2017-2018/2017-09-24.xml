@@ -1,0 +1,36 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+	<Player>Maarten Missine</Player>
+	<Player>Sam Decoene</Player>
+	<Player>Benjamin De Geest</Player>
+	<Player>Floren Bostoen</Player>
+    <Player>Alexander Blondeel</Player>
+	<Player>Janneman Schouteten</Player>
+    <Player>Martijn Vandaele</Player>    
+	<Player>Alexander Verkouille</Player>
+    <Player>Brecht Houvenaeghel</Player>
+	<Player>Wout Veranneman</Player>
+	<Player>Joachim Ally</Player>
+	<Player>Tijs Vergote</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>09</Month>
+    <Day>024</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>Devolder Sport</TeamName>
+  </Against>
+  <Score>
+    <Home>0</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals/>
+  <Report>
+  <Paragraph>Devolder Sport, vroeger bekend als Schoenen Devolder, kwam vandaag op bezoek. Een vluchtige blik op het klassement, waar ze samen met Wivo Sport aan de kop staan te blinken, leerde ons dat dit geen katje was om zonder handschoenen aan te pakken. Een Krisnaldo, die anoniem wenst te blijven, kwam te laat en zonder wasmand opdagen. Schaamteloos probeerde hij zelfs nog de schuld in de schoenen van zijn mama te schuiven. De immer vriendelijke uitbater van de Cera schoot ons gelukkig ter hulp met vooroorlogse, oversizede, maar toch mateloos geapprecieerde reserve truitjes.</Paragraph>
+<Paragraph>De match begon niet slecht. Onze vrienden uit Ingelmunster kregen de Krisnaldomuur maar moeilijk gesloopt, maar aan de andere kant creëerden we zelf ook weinig gevaar. Enkele doorgekopte ballen en gevaarlijke corners was het enige dat we aan onze talrijke supporters konden tonen. Halfweg de eerste helft rukten we toch eens op met de hele ploeg, maar omdat we niet zuiver genoeg waren in de passing en controle, speelden we ook nu weer de bal kwijt. De goudhemden toonden zich heel wat balvaster. Met een vlijmscherpe counter over de rechterflank met een sublieme steekpass als topingrediënt konden ze keeper Brecht een eerste keer verschalken. Tot overmaat van ramp breidde Reinout de ziekenboeg in de verdediging nog wat uit te vallen met een blessure. Alexander V. stond gelukkig te popelen om zijn plaats in te nemen. Kapitein Benjamin besloot te depanneren achterin. Samen met Tijs, Janneman en Alexander B. werd de schade beperkt tot die ene tegengoal. De meest spectaculaire tussenkomst was er eentje van Alexander, die voor de neus van een aanstormende spits een scherpe voorzet kon wegkoppen.</Paragraph>
+<Paragraph>In de tweede helft sleutelden we aan onze opstelling en kozen we voor een 4-3-3 met Wout in de punt. Die leverde meteen gevaar op want na een korte dribbel vuurde Wout een hard afstandsschot uit z'n sloffen. Een korte windstoot later volgde de grootste kans op de gelijkmaker. Na een inworp van Tijs en via tussenstationnetjes Wout en Joachim, kreeg Benjamin een uitstekende schietkans. Ietwat verrast en iets te onstuimig vloog de bal spijtig genoeg over. De tijd begon meer en meer te dringen en onze verdediging trok hun stoute schoenen aan. We namen risico en besloten alles op alles te zetten, maar zo kregen we uiteindelijk het deksel op de neus. Een baardige tegenstander die zo uit het Vikingtijdperk leek te zijn geteleporteerd heerste op het middenveld. Hij ontbond zijn duivels op alweer een vlijmscherpe counter en legde met buitenkantje voet de bal in de winkelhaak. De moed zakte ons nu in de schoenen en hoe hard we ook probeerden, een eerredder zat er niet meer in.</Paragraph>
+<Paragraph>Na de wedstrijd werd Martijn tot man van de wedstrijd verkozen. Hopelijk zorgt dat er niet voor dat hij naast zijn schoenen gaat lopen en komt hij volgende week met een propere wasmand opdraven. Dan bekeren we in Rumbeke tegen RLV Re-act, een subtopper uit reeks C. Supporters op post!</Paragraph>
+  </Report>
+</Match>

@@ -1,0 +1,56 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Pieter Vermandere</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Alexander Verkouille</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Thomas Deruyter</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Janneman Schouteten</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Jonas Callewaert</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+  </Players>
+  <Time>
+    <Year>2014</Year>
+    <Month>09</Month>
+    <Day>07</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>FC Scoutaboe</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>5</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Janneman Schouteten</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Stijn Vansteenkiste</Scored>
+    </Goal>
+    <Goal sequence="4">
+      <Scored>Wout Veranneman</Scored>
+      <Assist>Stijn Vansteenkiste</Assist>
+    </Goal>
+    <Goal sequence="5">
+      <Scored>Wout Veranneman</Scored>
+      <Assist>Martijn Vandaele</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend werd de eerste competitiewedstrijd gespeeld in reeks C. Op bezoek bij FC Scoutaboe wonnen De Krisnaldo's overtuigend met een 1-5 score.</Paragraph>
+    <Paragraph>De wedstrijd begon goed met twee ploegen die voluit voor de overwinning gingen. Dit leidde tot een aangename partij voor de talrijk meegereisde fans. Na enkele kleinere kansjes voor beide ploegen kon Janneman Schouteten aanleggen om te schieten van buiten het strafschopgebied. Hij aarzelde niet en stifte de bal heerlijk in doel: 0-1. Niet veel later was het opnieuw feest wanneer Wout Veranneman alleen op doel afstormde en de bal buiten het bereik van de doelman tegen de netten plaatste: 0-2. FC Scoutaboe bleek echter een stugge tegenstander en knokte zich terug in de wedstrijd: de aansluitingstreffer liet dan ook niet lang op zich wachten. De tegenstander had nu bloed geroken en bleef drukken zetten, het was dan ook even bibberen voor De Krisnaldo's. De scheidsrechter floot net op tijd af voor rust. Ruststand: 1-2.</Paragraph>
+    <Paragraph>Na rust bleef Scoutaboe aandringen, maar ditmaal stond onze organisatie beter waardoor we nog weinig weggaven. Door de aanhoudende druk van de thuisploeg moesten we ons in de tweede helft beperken tot countervoetbal: een kolfje naar de hand van onze snelle spitsen! Eerst was er de ingevallen Stijn Vansteenkiste die de stand op 1-3 zette. Stijn bleek een echte gesel voor hun achterhoede: na de volledige linkerflank te hebben opgerold kon hij Wout Veranneman bedienen, die er 1-4 van maakte. Niet veel later volgde er opnieuw een flitsende tegenaanval. Ditmaal was het Martijn Vandaele die de verdediging het nakijken gaf: hij kon Wout Veranneman het straatje insturen, die er met zijn derde doelpunt 1-5 van maakte.</Paragraph>
+    <Paragraph>Volgende week staat onze eerste thuiswedstrijd op het programma tegen de Palace Shotters!</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

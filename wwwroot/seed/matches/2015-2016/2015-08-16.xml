@@ -1,0 +1,52 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Detlev Hessel</Player>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>08</Month>
+    <Day>16</Day>
+  </Time>
+  <Against role="home" type="tournament">
+    <TeamName>FC 't Dorp</TeamName>
+  </Against>
+  <Score>
+    <Home>3</Home>
+    <Away>6</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Detlev Hessel</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Joachim Ally</Scored>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Joachim Ally</Scored>
+    </Goal>
+    <Goal sequence="4">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="5">
+      <Scored>Floren Bostoen</Scored>
+    </Goal>
+    <Goal sequence="6">
+      <Scored>Sam Decoene</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>De Krisnaldo's winnen de 2e wedstrijd op het CERA tornooi, met doelpunten van: Detlev Hessel, Joachim Ally (2x), Wout Veranneman, Floren Bostoen en Sam Decoene.</Paragraph>
+    <Paragraph>Volgend weekend staan er 2 wedstrijden op het programma! - Zaterdag om 14.30 tegen The Rangers - Zondag om 10.00 tegen De Turbo's</Paragraph>
+  </Report>
+</Match>

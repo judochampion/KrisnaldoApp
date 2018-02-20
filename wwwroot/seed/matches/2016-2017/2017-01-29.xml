@@ -1,0 +1,55 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Janneman Schouteten</Player>
+    <Player>Tijs Vergote</Player>
+    <Player>Joachim Ally</Player>
+    <Player>Maarten Missine</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>01</Month>
+    <Day>29</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>Jong CD&amp;V Dark</TeamName>
+  </Against>
+  <Score>
+    <Home>0</Home>
+    <Away>5</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Benjamin De Geest</Scored>
+      <Assist>Sam Decoene</Assist>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Sam Decoene</Scored>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Joachim Ally</Scored>
+      <Assist>Tijs Vergote</Assist>
+    </Goal>
+    <Goal sequence="4">
+      <Scored>Janneman Schouteten</Scored>
+      <Assist>Robin Van Hulle</Assist>
+    </Goal>
+    <Goal sequence="5">
+      <Scored>Tijs Vergote</Scored>
+      <Assist>Sam Decoene</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>In Lichtervelde gingen we vandaag op zoek naar een nieuwe overwinning na de pijnlijke nederlaag van vorige week. Jong CD en V Dark, een ploeg uit de lagere regionen van reeks B, was op papier te pakken. De medische staf had zich de hele week dubbel geplooid om de voet van voorzitter Wout op te lappen, maar het mocht niet baten. Zijn comeback werd met een week uitgesteld. Gelukkig stonden enkele reserves paraat om zijn afwezigheid op te vangen.</Paragraph>
+    <Paragraph>De korte opwarming speelde ons geen parten. Al na enkele minuten viel het openingsdoelpunt. Maarten Missine, die als testspeler mocht aantreden, kon enkel foutief afgestraft worden. In de vrije trap die daarop volgde schilderde Sam Decoene de bal op het hoofd van kopbalwonder Benjamin De Geest en liet de kleine keeper weinig kans. Na een assist wou Sam het ook eens zelf een aanval afwerken. In een rommelige fase was Sam snel op de afvallende bal en knalde hij het tweede doelpunt tegen de netten. Zijn honger naar sterke statistieken was duidelijk nog niet gestild, want zijn dolgedraaide mandekker zag sterretjes toen hij nog maar eens een actie maakte op links. Met een lage schuiver leek hij Tijs Vergote te gaan bedienen, maar die toonde zich bijzonder attent en altruïstisch door op te merken dat Joachim Ally in zijn rug kwam aangesloten. Met een kleine briljante deviatie bracht hij Joachim in een mooie schietpositie. De 0-3 was een feit, wat voor de grote schare thuissupporters het laatste sprankeltje hoop deed wegdeemsteren. Robin Vanhulle, die na een foute controle van een tsjeef duidelijk sneller op de bal was dan voor de match in de kleedkamer, wou dan ook eens oprukken. Na een mooie dribbel zag hij Janneman vrij lopen en lanceerde die. De blonde verpleger twijfelde niet en knalde de vierde van de ochtend in de verste hoek. De thuisploeg snakte nu echt naar het kwartier rust zonder tegendoelpunten incasseren, maar de kelk moest eerst tot op de bodem leeg. Tijs Vergote kreeg van de voetbalgoden nog een beloning voor zijn mooie assist van even voordien. In een mooie actie kon hij schuin op de doelman af en legde hij de forfaitscore vast op assist van Sam Decoene. Trainer Carl Frimout zag dat het goed was.</Paragraph>
+    <Paragraph>Over de tweede helft kunnen we veel korter zijn. De thuisploeg had zich beter georganiseerd en aanvallen ging nu moeilijker. Het siert hen dat ze ook nog probeerden op te zetten en eenmaal moest Brecht Degezelle een katachtige redding maken om de nul op het bord te houden. De schamele oogst aan bijeengespeelde kansen aan onze kant werden vakkundig de nek omgewrongen. Een gebrek aan concentratie door de grote voorsprong leek hier de voor de hand liggende oorzaak.</Paragraph>
+    <Paragraph>En zo krabbelen we terug recht als een kat met negen levens naar de kop van het klassement. Op één punt van de eerste plaats mogen we aantreden tegen het Rozeke in de CERA. Supporters op post!</Paragraph>
+  </Report>
+</Match>

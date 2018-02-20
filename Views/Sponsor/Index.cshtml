@@ -1,0 +1,46 @@
+@model IEnumerable<KrisnaldoApp.Models.Sponsor>
+@{
+
+    ViewData["Title"] = "Alle sponsors";
+}
+<style>
+    .mosaicflow__column {
+        float: left;
+    }
+
+    .mosaicflow__item img {
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+</style>
+<div class="row">
+    <div class="col-md-12">
+        <div>
+            Hier vind je <b>een overzicht van de sponsors</b> die ons steunden om voor de quiz (21 april 2018) een mooie prijzentafel samen te stellen. Je kan doorklikken naar hun website door op het juiste logo te klikken. De Krisnaldo's danken alle sponsors, want dankzij jullie gaat geen enkele deelnemer met lege handen naar huis.
+        </div>
+
+        <hr />
+    </div>
+</div>
+<div class="row">
+
+    <div class="col-md-12">
+        <div class="clearfix mosaicflow">
+
+            @foreach (Sponsor sponsor in Model)
+            {
+                string sPictureSource = "/seed/sponsors/compressed/" + sponsor.RuwePictureNaam;
+                <div class="mosaicflow__item">
+                    <a href="@sponsor.Link" target="_blank">
+                        <img src="@sPictureSource" alt="@sponsor.DisplayNaam" width="240" style="border:1px solid #000;">
+                    </a>
+                </div>
+            }
+        </div>
+    </div>
+    
+    
+</div>
+<hr />
+<p><div><i>Ook ge&iuml;nteresseerd om onze quiz te sponsoren? Mail dan als de bliksem naar <b>dekrisnaldos@gmail.com</b>. In ruil voor prijzen in natura (of eventueel een geldsom) blinkt je logo op deze pagina en de Powerpoint van de quiz voor een publiek van bijna 200 mensen.Daarnaast komen de logo's van de 3 meest gulle sponsors op elk antwoordformulier terecht.</i></div></p>

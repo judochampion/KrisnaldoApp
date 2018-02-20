@@ -1,0 +1,46 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Alexander Verkouille</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>12</Month>
+    <Day>20</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>VPA Sleihage</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Wout Veranneman</Scored>
+      <Assist>Martijn Vandaele</Assist>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Nog voor het ochtendgloren trok de Krisnaldo karavaan naar Gits om het op te nemen tegen VPA Sleihage. Het broodje Krisnaldo viel vandaag wat zwaar op de maag van de thuisploeg, het waren de geel-blauwe die met een 1-2 overwinning de 3 punten meer naar huis namen.</Paragraph>
+    <Paragraph>De motivatie bij aanvang van de wedstrijd zat goed. Veel van onze Hoogleedse Krisnaldo's krijgen spontaan een opflakkering van energie als ze Gits grondgebied betreden en met diezelfde energie begonnen we er ook aan. Na minder dan 5 minuten spelen stond het al 0-1. De vinnig Martijn Vandaele kreeg veel ruimte en met een prachtige penseelstreek bereikte hij Wout Veranneman. Die aarzelde niet en zette ons meteen op voorsprong.</Paragraph>
+    <Paragraph>Nadien gingen we op ons elan verder. Het balbezit was voor ons en ook de meeste dreiging vond plaats aan het vijandelijke doel. Het duurde dan ook niet lang vooraleer we onze voorsprong konden verdubbelen. Na hoekschop en enige omwegen kwam de bal bij Wout Veranneman, opnieuw een raak schot van onze spits en zo kwamen we op een comfortabele 0-2 voorsprong. Iets te comfortabel, vonden sommigen, waarna we Sleihage iets teveel in de match lieten komen. Na enkele waarschuwingen moesten we dan, op slag van rust, toch een tegendoelpunt weggeven. Stand bij de rust 1-2.</Paragraph>
+    <Paragraph>Na rust moesten 2 frisse nieuwe spelers voor iets meer stabiliteit zorgen. Dit leek aanvankelijk ook te lukken met enkele mooie combinaties. Helaas liep het net iets te vaak mis bij de laatste pass of afwerking. Na zo'n 15 minuten waren veel van deze goed intenties al wat verdwenen en daalde het niveau van de wedstrijd. Het entertainment werd dan maar bezorgd door beide coaches aan de zijlijn. De mentale oorlogsvoering was begonnen. De eerlijkheid gebiedt ons wel te zeggen dat onze coach Carl Frimout ditmaal de titel van "The Special One" aan zijn Sleihaagse collega moest geven. Het inspireerde de thuisploeg wel en er kwam wat meer dreiging in hun spel. Gelukkig voor ons waren ze niet bij machte om onze verdediging te ontwrichten en beleefde doelman Lowie Frimout een rustig dagje. De beste mogelijkheden waren misschien zelfs nog voor ons. Joachim Ally aka de flankenkuiser deed enkele keren waar hij goed in was, op snelheid en kracht de flank oprollen. Helaas ontbrak het aan precisie voor doel om de wedstrijd echt dood te maken. Na een lange tweede helft kwam dan toch het verlossende fluitsignaal en nemen we met een 1-2 overwinning de 3 belangrijke punten mee.</Paragraph>
+    <Paragraph>De terugronde wordt zo uitstekend ingezet en stilletjes aan mogen we ons een middenmoter noemen in plaats van degradatiekandidaat. Volgende week is er geen voetbal. Het wordt dus wachten tot volgende jaar om onze opmars verder te zetten. Dit doen we thuis tegen GZ Tube.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

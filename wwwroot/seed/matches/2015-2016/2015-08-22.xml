@@ -1,0 +1,46 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Tijs Houvenaeghel</Player>
+    <Player>Detlev Hessel</Player>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>08</Month>
+    <Day>22</Day>
+  </Time>
+  <Against role="home" type="friendly">
+    <TeamName>The Rangers</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>3</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Stijn Vansteenkiste</Scored>
+      <Assist>Detlev Hessel</Assist>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Detlev Hessel</Scored>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Floren Bostoen</Scored>
+      <Assist>Sam Decoene</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Het veld van The Rangers Moorslede bleek moeilijk te vinden, want de GPS-dame stuurde enkele spelers de verkeerde kant uit. Met enige vertraging werd aan een brakke opwarming begonnen, terwijl de Rangers alle opwarmingsoefeningen mooi in groep afwerkten.  Maar zoals het cliche het wil: een slechte generale repititie resulteert in een prachtig concert. Terwijl sommige supporters nog hun plaatsje waren aan het zoeken op de rijkgevulde tribune dook Detlev Hessel de diepte in.  Hij schilderde een voorzet op het hoofd van Stijn Vansteenkiste. De technisch vaardige flankaanvaller pakte uit met een fantastische sierduik, al was het deze keer niet om een penalty uit te lokken, maar om de bal staalhard voorbij de keeper te koppen. De thuisploeg reageerde als door een wesp gestoken en ging dan ook furieus op zoek naar de gelijkmaker. De spitsen lagen op de loer en de ene lange bal na de andere werd richting de zone van de waarheid gekatapulteerd. Uiteindelijk moest onze verdediging zich net na de drankpauze toch eens gewonnen geven.  1-1 en alles te herdoen. De Krisnaldo’s mochten blij zijn dat ze met deze stand de dorstlessende rust haalden.</Paragraph>
+    <Paragraph>Toen de koffie van de scheidsrechter op was, begonnen we aan wat een lastige tweede helft zou worden. De thuisploeg had zichtbaar meer te lijden onder de drukkende hitte en bleken conditioneel niet zo sterk. De Krisnaldo’s creëerden nu steeds meer kansen en het was een kwestie van tijd voor dat ging resulteren in een doelpunt. Het was uiteindelijk Detlev Hessel, alweer hij, die na een rush op rechts de netten deed trillen. De thuisploeg probeerde nog wel, maar de lange ballen van de zogenaamde middenvelders ‘kissak’ of ‘coureur’ bereikten zelden hun eindbestemming. En als dat wel zo was, dan was er nog altijd Dries Sticker in wereldvorm. Hij ranselde twee kansen van dichtbij uit zijn kooi, wat de moed van de hopeloze spitsen in de schoenen deed zakken. Sam Decoene, verwikkeld in een fel duel met de sterke flankaanvaller van de Rangers, haalde in de slotfase nog de achterlijn en kon de bal achteruitleggen op Floren Bostoen. Hij twijfelde geen seconde en tikte de 1-3 eindstand binnen. Een wonderbaarlijke verrijzenis van de Messiaanse Krisnaldo, want lag hij vijf minuten eerder niet met krampen tot achter zijn oren aan de zijlijn?</Paragraph>
+    <Paragraph>Morgen moeten we alweer aan de bak, want dan staat de kraker tegen de Turbo's in het CERA toernooi op het programma. Supporters op post!</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

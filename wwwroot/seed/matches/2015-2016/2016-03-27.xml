@@ -1,0 +1,46 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>03</Month>
+    <Day>27</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>VK Zwarte Gat</TeamName>
+  </Against>
+  <Score>
+    <Home>3</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Joachim Ally</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Martijn Vandaele</Scored>
+      <Assist>Joachim Ally</Assist>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Martijn Vandaele</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Dat het zomeruur een uurtje van onze welverdiende slaap afnam, konden enkele rebelse spelers moeilijk verkroppen. Ze besloten een kwartier te laat op het appel te verschijnen, wat een nogal chaotische opwarming inluidde. Uiteindelijk verschenen we toch met de geplande basiself aan de aftrap, voor een partij tegen Het Zwarte Gat, dat als vijfde geklasseerd stonden.</Paragraph>
+    <Paragraph>In onze stilaan traditionele 4-4-2 namen we een blitz-start. Nauwelijks 5 minuten na het eerste fluitsignaal mocht de keeper de bal uit zijn mandje rapen. Hoewel hij niet gestraft was, besloot spits Joachim Ally toch weer in een hoekje van het veld te kruipen. Na een dribbel volgde een blinde voorzet, die uiteindelijk een schot bleek te gaan worden en de keeper totaal verraste. Terwijl onze tegenstander op zoek ging naar zwarte gaten in het melkwegstelsel, vonden wij er in hun verdediging. Martijn Vandaele bleef de verdedigers storen en kon zo de bal uit hun voeten ontfutselen. Een attente Joachim liep vlakbij en zette Martijn op weg richting doel. Die laatste verschalkte de keeper met een mooi schot in het dak van het doel. Maar als je tegen de vijfde speelt, blijft het natuurlijk altijd opletten geblazen. In de nasleep van een van hun vele vrije trappen dook een vijandelijke spits plots alleen op voor sluitstuk Dries Sticker. Gelukkig had hij zijn lage, harde schot klemvast. Een derde goal leek er in deze helft niet meer in te zitten, en dat had onze tegenstrever vooral te danken aan een sterke keeper. Het krachtige en geplaatste afstandsschot van Wout Veranneman had beter verdiend. Floren Bostoen kon na enkele mooie combinaties tot tweemaal trappen, maar zijn vizier stond nog niet op scherp.</Paragraph>
+    <Paragraph>Tijdens de rust kwamen we in een kleine feestroes terecht. Dat je het vel van de beer niet mag verkopen voor het geschoten wordt, werd pijnlijk duidelijk bij het begin van de tweede helft. De vervanging van Pieter-Jan Soenen leek onze verdediging uit evenwicht te hebben gebracht. Op korte tijd scoorden onze tegenstanders twee treffers, telkens van dichtbij. We lieten de kopjes echter niet hangen en de ingevallen en polyvalente Reinout Pattijn hield nu samen met Sam Decoene, Lowie Frimout en Robin Vanhulle de verdediging potdicht. Met enkele schoten uit de tweede lijn konden we gelukkig nog voor dreiging zorgen. Uiteindelijk was het opnieuw Martijn die ons verloste. Een corner die in het pak werd weggekopt belandde bij onze man van de match. Hij pakte in één tijd uit met een werelds afstandsshot. 3-2.</Paragraph>
+    <Paragraph>En zo staan we plots te blinken op een mooie vijfde plaats, op vier punten van promotie. Wie dat na onze dramatische competitiestart (4 op 21) had durven voorspellen, kreeg wellicht een enkel ticketje richting gekkenhuis voorgeschreven. Dat drie van onze laatste vier wedstrijden tegen een rechtstreekse concurrent zijn, is een enorme kans om boven onszelf uit te stijgen. Supporters op post!</Paragraph>
+  </Report>
+</Match>

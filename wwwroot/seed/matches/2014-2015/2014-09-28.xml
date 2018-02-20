@@ -1,0 +1,52 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Alexander Verkouille</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Jonas Callewaert</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Stijn Vansteenkiste</Player>
+  </Players>
+  <Time>
+    <Year>2014</Year>
+    <Month>09</Month>
+    <Day>28</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>FC Lokkedyze</TeamName>
+  </Against>
+  <Score>
+    <Home>4</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Alexander Verkouille</Scored>
+      <Assist>Floren Bostoen</Assist>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Brecht Houvenaeghel</Scored>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="4">
+      <Scored>Stijn Vansteenkiste</Scored>
+      <Assist>Wout Veranneman</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Vanochtend stond er alweer een topaffiche gepland op de CERA, De Krisnaldo's tegen FC De Lokkedyze, de geelhemden wonnen deze veldslag met 4-2.</Paragraph>
+    <Paragraph>De bezoekers begonnen furieus aan de wedstrijd en grepen ons direct bij de keel, na minder dan 5 minuten keken we al tegen een 0-1 achterstand. De eerste 20 minuten bleven we het moeilijk hebben met de snelle tegenstoten van de bezoekers en mochten we blij zijn dat de tegenstrever de score niet verder uitdiepte. Daarna konden we dan toch het evenwicht herstellen met betere combinaties. De scoutingscel van de Lokkedyze had hun huiswerk gemaakt en wist voor de wedstrijd dat "die nummer zesse" best in de gaten kon gehouden worden. Toch konden ze niet beletten dat die nummer 6, Floren Bostoen, de perfecte steekpass gaf tot bij Alexander Verkouille, die faalde niet en knikte de bal langs de doelman : 1-1. Het offensief van de Lokkedyze was nu wat stilgevallen . Het was nu aan ons om kleinere kansjes af te dwingen. Een van die kansen resulteerde in een hoekschop, Brecht Houvenaeghel kwam ingelopen en ramde de bal aan de eerste paal binnen. Op een ideaal moment, net voor rust, stonden we zo op een 2-1 voorsprong.</Paragraph>
+    <Paragraph>Na rust opnieuw een snelle start van de Lokkedyze, op hoekschop konden ze de 2-2 gelijkmaker binnenkoppen. Het was nu even pompen of verzuipen voor ons, gelukkig konden we rekenen op een uitstekend keepende Dries Sticker die ons met enkele knappe reddingen in de match hield. Ook de fitte Sam Decoene was absoluut onmisbaar in de verdediging. Net zoals in de eerste helft ging de storm na 15 minuten weer gaan liggen, na een snelle tegenstoot van ons kon Wout Veranneman de 3-2 voorsprong op het bord zetten. Niet veel later kon Alexander Verkouille goed doorzetten en landde de bal via Wout Veranneman bij Stijn Vansteenkiste. Die waagde zijn kans en maakte vanuit een onmogelijke hoek de geruststellende 4-2. Game over nu voor een moegestreden Lokkedyze en zo is onze vierde overwinning op een rij een feit.</Paragraph>
+    <Paragraph>In het klassement staan we met het maximum van de punten mee vooraan, al moeten we Sportief Exclusief laten voorgaan wegens een beter doelpuntensaldo.</Paragraph>
+    <Paragraph>Volgende week staat er een bekermatch gepland, we nemen het op tegen de Turbo's uit reeks B, op papier zijn zij favoriet maar uiteraard gaan we ons vel duur verkopen en proberen door te stoten naar de volgende ronde.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

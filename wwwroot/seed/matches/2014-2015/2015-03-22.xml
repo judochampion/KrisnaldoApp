@@ -1,0 +1,58 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Tijs Houvenaeghel</Player>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>03</Month>
+    <Day>22</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>Bourgondisch Kruis</TeamName>
+  </Against>
+  <Score>
+    <Home>0</Home>
+    <Away>7</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Martijn Vandaele</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Brecht Houvenaeghel</Scored>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Sam Decoene</Scored>
+    </Goal>
+    <Goal sequence="4">
+      <Scored>Benjamin De Geest</Scored>
+    </Goal>
+    <Goal sequence="5">
+      <Scored>Benjamin De Geest</Scored>
+    </Goal>
+    <Goal sequence="6">
+      <Scored>Sam Decoene</Scored>
+    </Goal>
+    <Goal sequence="7">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>"Een fris windje" hoorden we Frank Deboosere gisteren voorspellen op de radio en ook in de kleedkamer konden we door de nachtelijke escapades van enkele spelers een windje waarnemen, zij het dan wel iets minder fris. Op het veld naast ons was mede-titelkandidaat Sportief Exclusief tegenstrever ’t Dorp naar huis aan het spelen, dus wisten we meteen wat ons te doen stond. 't Bourgondisch Kruis bleek uiteindelijk geen partij voor De Krisnaldo's, die de wedstrijd met een overtuigende 0-7 zege afsloten.</Paragraph>
+    <Paragraph>Na een aarzelend begin, onzekerheid in onze defensie en onmondigheid in de aanval bleven we lang op een 0-0 steken. Het was wachten tot halverwege de eerste helft, wanneer de sluwe Martijn Vandaele doorbrak op rechts en de Krisnaldo's op voorsprong bracht: 0-1. Nog geen minuut later werd een voorzet vanop rechts beheerst binnengewerkt door Brecht Houvenaeghel: 0-2. Linksachter Sam Decoene, die zich stierlijk verveelde achterin en zijn offensieve kwaliteiten meer en meer kon tentoonspreiden, slaagde er ook in zijn goaltje mee te pikken: 0-3. Na die snelle opeenvolging van goals leek het erop dat we even gas konden terugnemen, maar dat was buiten kapitein Benjamin De Geest gerekend. Met een lage schuiver deed hij de netten voor een vierde keer trillen: 0-4. Net voor rust bracht hij de forfaitcijfers al op het bord door een foutje in de defensie af te straffen, ondanks het feit dat de Bourgondische verdediger zijn medespelers al tien keer had gewaarschuwd met de gevleugelde woorden "oe toch e ki die kapiteing in de goaten zeg": 0-5.</Paragraph>
+    <Paragraph>In de tweede helft raakten we opnieuw niet meteen uit de startblokken. Het vijandelijke aanvalsduo overlegde in een soort codetaaltje, waardoor we moeilijk hun tactiek konden doorzien. Insiders vertelden ons achteraf dat het een vorm van middeleeuws Engels, ook gekend onder de naam Middelengels, zou zijn. Hoewel onze centrale verdediging het Hoogleeds machtig is en de diepe spits van ’t Bourgondisch Kruis dat onmogelijk kon verstaan, slaagde hij er toch in om onze rots in de branding Dries Sticker tot enkele broodnodige tussenkomsten te dwingen.</Paragraph>
+    <Paragraph>Maar onder een immer enthousiaste en sterk spelende Sam Decoene werd alle hoop op een Bourgondisch Mirakel de grond ingeboord: 0-6. Onze diepe spits met het magische nummer 7 was dan ook maar wat blij dat hij uiteindelijk toch nog zijn goaltje kon meepikken, en zo de zevende goal van de ochtend in het mandje te leggen: 0-7. En wat heeft die dekselse Stijn Vansteenkiste dan heel de ochtend zitten doen, vraagt een aandachtige lezer zich wellicht af? Wel, hij strooide als vanouds met assists en wees er ons in de kleedkamer nog eens fijntjes op dat puntenverlies met de assistenkoning in de ploeg altijd al vermeden werd.</Paragraph>
+    <Paragraph>En zo blijven we in een nek-aan-nekrace met co-leider Sportief Exclusief richting de apotheose van deze competitie stormen. Volgende week spelen onze concurrenten tegen ’t Bourgondisch Kruis, terwijl wij het op het heilige gras van de Lokkedyze opnemen tegen de nummer 5 van de reeks, FC De Most.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

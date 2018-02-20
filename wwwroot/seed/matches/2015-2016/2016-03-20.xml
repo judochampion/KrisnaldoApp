@@ -1,0 +1,41 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Detlev Hessel</Player>
+    <Player>Joachim Ally</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Simon De Taeye</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>03</Month>
+    <Day>20</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>STM Sjotters</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>0</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Simon De Taeye</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend mochten de Krisnaldo's het in een thuismatch opnemen tegen de STM Sjotters. Na een woelige strijd hielden de Krisnaldos's verdiend de 3 punten in eigen huis na een 1-0 overwinning.</Paragraph>
+    <Paragraph>Geen hapklare brok deze week. Onze tegenstander, die als nummer 4 in het klassement geposteerd stond, beschikte over enkele prima spelers. Toch namen we al snel de bovenhand. De bal ging, net zoals de voorbije weken, goed van voet tot voet en de bezoekers kropen achteruit. Het veldoverwicht was voor ons al vielen er zo goed als geen uitgespeelde kansen te noteren. De Pittemse verdediging gaf Wout de bizon en Joachim de tank weinig ruimte en het gevaar kwam van onze middenvelders. Benjamin De Geest en Brecht Houvenaeghel waren er nog het dichtst bij al konden hun pogingen de reusachtige keeper maar weinig verontrusten. De grootste kans was zelfs nog voor de bezoekers. Na een verre uittrap van diezelfde reus kon de STM spits recht op doel afstuiven, gelukkig voor ons besluite hij hoog over. Rusten deden we bij een 0 - 0 tussenstand.</Paragraph>
+    <Paragraph>Na rust een zelfde spelbeeld. Wij eisten de bal op en de bezoekers kropen steeds meer achteruit. Wegens een groot numeriek overwicht aan verdedigers bleef het voor ons moeilijk om kansen te versieren. Even was het zelfs bibberen toen de STM spits theatraal neerging in de 16. Een mooie poging om een strafschop te versieren, gelukkig had de scheidsrechter voldoende jaren ervaring op de teller om dit stukje toneel te doorzien.</Paragraph>
+    <Paragraph>We bleven op ons elan doorzetten en lieten de bezoekers achter de bal aanhollen, de frustraties bij de mannen in het rood-blauw namen toe en naar mate de wedstrijd vorderde kregen ze meer en meer zin in een ordinaire schoppartij. Kort voor affluiten kwam dan toch de verlossende 1-0. Een goed aangesneden hoekschop van Sam Decoene werd door Simon De Taeye aan de eerste paal binnengekopt, de Cera ontplofte en de meer dan verdiende overwinning was binnen. In een moment van euforie besliste doelman Detlev Hessel om ook eens zijn technische klasse te etaleren. Mannetje uitkappen achter het steunbeen om daarna een aanval op te starten met de "mindere" rechter. Genieten voor iedere Krisnaldo supporter.</Paragraph>
+    <Paragraph>Door deze overwinning klimmen we nu een plaatsje hogerop in het klassement. We staan nu 6e en de ambitie om in de top 5 te eindigen wordt nu opnieuw realistisch. Klein minpuntje is de zware kalender die we nu voorgeschoteld krijgen al hoeven we in deze vorm van niemand schrik te hebben.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

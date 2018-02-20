@@ -1,0 +1,46 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Tijs Houvenaeghel</Player>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>03</Month>
+    <Day>15</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>SC K2</TeamName>
+  </Against>
+  <Score>
+    <Home>2</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Stijn Vansteenkiste</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Wout Veranneman</Scored>
+      <Assist>Benjamin De Geest</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend stond het duel tussen De Krisnaldo's en SC K2 op het programma. Op de akker van de Cera konden De Krisnaldo's met 2-1 winnen.</Paragraph>
+    <Paragraph>Op een slecht bespeelbaar veld was het in het begin van de wedstrijd even zoeken. Mooi voetbal was onmogelijk en dus kwam het vandaag op duelkracht aan. Tegen een stevige tegenstander duurde het dan ook even voor we echt in de match kwamen.</Paragraph>
+    <Paragraph>We eisten meer en meer de bal op, al zat er telkens weinig gevaar in onze aanvalsgolven. Het was wachten tot diep in de eerste helft wanneer Stijn Vansteenkiste naar binnen sneed en de bal met een gelukje over de doelman wipte: 1-0. Met deze krappe voorsprong doken we ook meteen de kleedkamer in.</Paragraph>
+    <Paragraph>De tweede helft begon heel wat beter. Benjamin De Geest kon Wout Veranneman diep sturen, die aarzelde niet en knalde de bal mooi in de hoek: 2-0. Daarna zakte het tempo wat en begon SC K2 meer druk te zetten. Niet veel later werden ze hiervoor ook beloond. Ondanks het feit dat een speler in buitenspelsituatie duidelijk doelman Dries Sticker hinderde, stond het plots toch 2-1.</Paragraph>
+    <Paragraph>SC K2 geloofde er terug in en speelde nu alles of niets. In het slot van de wedstrijd kwamen we nog goed weg, wanneer een dubieuze penaltyfase niet gefloten werd. Na een zwaarbevochten duel konden we uiteindelijk toch de 3 punten thuis houden en zo blijven we ook concurrent Sportief Exclusief onder druk zetten.</Paragraph>
+    <Paragraph>Volgende week nemen we het op tegen 't Bourgondisch Kruis, voorlaatste in het klassement met de meest gepasseerde verdediging uit reeks C. Het uitgelezen moment dus om ons doelsaldo wat op te krikken.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

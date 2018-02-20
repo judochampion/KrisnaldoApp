@@ -1,0 +1,44 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+    <Player>Robin Van Hulle</Player>
+	<Player>Benjamin De Geest</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Tijs Vergote</Player>    
+    <Player>Lowie Frimout</Player>
+	<Player>Alexander Verkouille</Player>
+	<Player>Pieter Vermandere</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Wout Veranneman</Player>
+	<Player>Joachim Ally</Player>
+    <Player>Bartel De Brabandere</Player>
+    <Player>Floren Bostoen</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>10</Month>
+    <Day>29</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>Dujardin Foods</TeamName>
+  </Against>
+  <Score>
+    <Home>3</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+  <Goal>
+  <Scored>Sam Decoene</Scored>
+  <Assist>Wout Veranneman</Assist>
+  </Goal>
+  <Goal>
+  <Scored>Wout Veranneman</Scored>
+  </Goal>
+  </Goals>
+  <Report>
+  <Paragraph>Deze ochtend trokken De Krisnaldo's naar Zwevezele om het op te nemen tegen Dujardin Foods, het nummer 3 in de rangschikking. Ter plaatse werden we onthaald door de dorpswijze, die ons met net iets teveel trots het hypermoderne sportcomplex voorstelde.</Paragraph>
+<Paragraph>Erg onder de indruk waren we niet, want de openingsfase van de wedstrijd was geel-blauw gekleurd. Veel balbezit en goede aanvallende intenties zorgden ervoor dat we na zo'n 5 minuten al op voorsprong kwamen. Wout legde breed op Sam, die overhoeks de 0-1 op het bord plaatste. De Zwevezelenaars kwamen daarna traag maar gestaag toch meer in de wedstrijd. Diep in de eerste helft kwamen ze via een vrije trap op gelijke hoogte. We waren even aangeslagen en de thuisploeg profiteerde er al snel van om de 2-1 te maken. Met 2-1 doken we ook de rust in.</Paragraph>
+<Paragraph>In de tweede helft teerde Dujardin vooral op hun ervaring om de voorsprong te verdedigen. Af en toe een blessure veinzen en wat druk zetten op de arbitrage leek lange tijd het succesrecept, tot een diepe bal de thuisverdediging volledig verraste. Wout profiteerde en plaatste oog in oog met de doelman de gelijkmaker binnen. Lang konden we die gelijke stand niet vast houden. De eerstvolgende aanval van de zwarthemden was prijs: 3-2. Daarna gingen we nog op zoek naar de gelijkmaker, maar helaas viel de bal net niet goed.</Paragraph>
+<Paragraph>Een 3-2 verlies dus, waardoor we in de stand nu blijven hangen op een 9de plaats. Volgende week ontvangen we oude bekende Sportief Exclusief. Tot dan!</Paragraph>
+  </Report>
+</Match>

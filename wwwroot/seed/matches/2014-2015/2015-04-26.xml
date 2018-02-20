@@ -1,0 +1,40 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>04</Month>
+    <Day>26</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>Transvaal</TeamName>
+  </Against>
+  <Score>
+    <Home>5</Home>
+    <Away>0</Away>
+  </Score>
+  <Goals />
+  <Report>
+    <Paragraph>Deze ochtend stond de wedstrijd tussen De Krisnaldo's en Transvaal op het programma. Het spreekwoordelijke ei in de broek bij de bezoekers was zodanig groot dat ze op het allerlaatste moment beslisten om forfait te geven. Zo sluiten we het seizoen af met onze makkelijkste overwinning ooit: 5-0.</Paragraph>
+    <Paragraph>Een weinig sportieve mentaliteit bij de jongens uit de Madonna in Langemark. Dat de ingesteldheid bij ons stukken beter is, bewezen we door in de gietende regen nog een onderling oefenpartijtje af te haspelen. De Krissen tegen De Naldo's bleek een waar spektakelstuk te zijn met doelpunten à volonté. Eindstand: 45-46 in het voordeel van de "vestjes".</Paragraph>
+    <Paragraph>Zo sluiten we het seizoen af op de meest frustrerende plaats: tweede, of vice-kampioen in een meer eufemistische bui. In de onderlinge duels toonden we ons tot twee keer toe beter dan de uiteindelijke kampioen, Sportief Exclusief. Helaas waren zij net iets constanter in hun prestaties. Lag het aan onze onervarenheid, de nachtelijke escapades of tactische fouten? Analisten zullen hier ongetwijfeld nog een dikke kluif aan hebben. In ieder geval willen wij de mannen van Sportief Exclusief feliciteren met hun dik verdiende titel.</Paragraph>
+    <Paragraph>Ondanks het net mislopen van de titel mogen we toch méér dan tevreden zijn over ons fantastisch debuutseizoen. Als nieuwe ploeg was het vooraf moeilijk te voorspellen waar we zouden eindigen. Met 20 overwinningen, 88 doelpunten en promotie naar reeks B hebben we toch ieders stoutste verwachtingen overtroffen. Ook op extrasportief vlak toonden De Krisnaldo's zich een hechte groep met als hoogtepunt onze quiz (Kwisnaldo's), waar iedereen zijn steentje bijdroeg.</Paragraph>
+    <Paragraph>Volgend seizoen spelen we dus in reeks B, zeg maar de tweede klasse van het RLV. Ondanks de vele spelersmakelaars die dagelijks bellen, is de eerste prioriteit toch om de huidige kern te behouden. Daarnaast zullen we deze Facebookpagina (en onze andere sociale media) volgend seizoen naar een nóg hoger niveau tillen, met nog meer flitsende beelden en "behind the scenes" materiaal in het verschiet.</Paragraph>
+    <Paragraph>Om het seizoen in stijl af te sluiten -en aan alle clichés te voldoen- volgt hieronder nog een lange lijst dank-u-wels: • Wout Veranneman als voorzitter en oprichter • Lowie Frimout als penningmeester • Brecht Houvenaeghel als secretaris • Kjell Geldhof als delegee • Simon Plancke &amp; Carl Frimout als technische staf • Tom Thevelein als hoofd van de scoutingscel • Pieter Vermandere voor het videomateriaal • Joachim Ally &amp; Annelies Veranneman voor het fotomateriaal • Bart Decorte voor het design van het logo • Raf Frimout &amp; Ludwig Willaert als sponsors • Onze trouwe 12de man (die vanaf volgend seizoen "De Ultranaldo's" heten) • Alle Kwisnaldo's deelnemers en in het bijzonder Karolien Verscheure als gastvrouw van de avond • En uiteraard alle Krisnaldo's die elke week opnieuw paraat stonden om te knallen!</Paragraph>
+    <Paragraph>Tot volgend seizoen!</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

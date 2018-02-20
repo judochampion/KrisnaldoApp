@@ -1,0 +1,44 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Alexander Verkouille</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>01</Month>
+    <Day>03</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>GZ Tube</TeamName>
+  </Against>
+  <Score>
+    <Home>2</Home>
+    <Away>0</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Joachim Ally</Scored>
+      <Assist>Benjamin De Geest</Assist>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Floren Bostoen</Scored>
+      <Assist>Brecht Houvenaeghel</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Nadat de beste wensen en “ook zoveel” werden gewenst onder de spelers konden we de kleedkamer binnenstappen. Kanariegeel bleek ook de kleur van de truitjes van de tegenstander, dus kregen we gelegenheidstruitjes in het blauw toegewezen. Sommige Krisnaldo’s zetten meteen het retro kraagje recht, andere begonnen iets bescheidener aan de opwarming. Na een eervolle minuut stilte voor het droevige overlijden van speler Wilfried Uittenhove (FC Ter Mote uit Reeks A) kon de wedstrijd op gang gefloten worden.</Paragraph>
+    <Paragraph>We begonnen aan de partij zoals de staat van onze matchbal, slapjes. De eerste vijf minuten eiste GZ Tube de bal op. Echte kansen versierden ze er niet mee en zo namen wij gaandeweg het commando over. Het moet gezegd, een erg bedrijvige Floren Bostoen, die duel na duel won, nam zijn ploeg op sleeptouw. Op een eerste echte wapenfeit was het wel een twintigtal minuten wachten, toen Brecht Houvenaeghel een afvallende bal op de buitenkant van de paal zag stranden. De keeper bedankte dan ook zijn heldhaftige paal. Dat complimentje gaf die paal blijkbaar vleugels want bij een flitsende actie van Wout Veranneman was het weer hij die de verdiende voorsprong wist te voorkomen. Reinout Pattyn zette vervolgens een actie op en zo kon Floren de keeper een eerste keer echt testen. Na een rebound van Wout belandde de bal in doel. De goal werd echter afgekeurd, omdat je nu eenmaal niet als veldspeler de bal met het woord ‘Laat’ mag opeisen. Misschien moeten we in onze ontwikkeling naar echte Krisnaldo’s Portugees beginnen spreken? Op slag van rust was het dan toch prijs. Tweemaal zelfs. Een uittrap van de volslanke keeper belandde op de blonde kruin van Benjamin De Geest, die krachtig kopte en zo gelijk Joachim Ally lanceerde. De keeper kwam uit maar net iets te laat, waardoor Joachim uit een schuine hoek de bal voorbij de keeper in het mandje kon leggen. De tweede goal viel na een mooi uitgespeelde actie waarin Wout, Floren en uiteindelijk afwerker Brecht de hoofdrolspelers waren. De keeper had geen verhaal tegen zijn pegel van dichtbij.</Paragraph>
+    <Paragraph> Over de tweede helft kunnen we kort zijn, omdat die op zijn zachtst uitgedrukt nogal zoutloos was. De Tubenaars probeerden na enkele wissels wel het tij te keren. Keeper Lowie Frimout moest dan ook enkele keren gevat uitkomen op niet echt super afgemeten steekpasjes. Verder dan enkele gevaarlijke corners kwamen ze niet. Ook wij konden niet echt meer kansen uitspelen, in de zone van de waarheid werd nogal slordig gevoetbald. Het meest opmerkelijke moment was er één met Alexander Verkouille in de hoofdrol. Hij geniet zichtbaar van het feit dat hij eindelijk terug blessurevrij is en laat geen gelegenheid onbenut om zijn onverzettelijkheid in de strijd te gooien. Een schijnbaar verloren bal kon door hem nog worden binnengehouden en doorgestoken richting de snelle Robin Vanhulle. In deze reddingsactie gleed hij door tegen een paaltje. Hij wist even niet meer van welke parochie hij was, maar gelukkig kon de medische staf achteraf enkel een klein builtje vaststellen.</Paragraph>
+    <Paragraph> Volgende week spelen we tegen de Sportwereld, een ploeg waar we onze eerste overwinning in reeks B tegen boekten.De puntenkloof met FC Groen-Wit, Sportief Exclusief en KWB Don Bosco zullen we waarschijnlijk niet meer dichten. Volgens aanmoedigende coach Dries Sticker en sponsor Carl Frimout lijkt de vierde plaats een ambitieuze maar realistische doelstelling.</Paragraph>
+  </Report>
+</Match>

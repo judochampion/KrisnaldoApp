@@ -1,0 +1,153 @@
+﻿@{
+    ViewData["Title"] = "Leeftijd vergelijken met Cristiano Ronaldo";
+}
+
+
+<div class="panel panel-info">
+    <div class="panel-heading">
+        <h3 class="panel-title">Leeftijd vergelijken</h3>
+    </div>
+    <div class="panel-body">
+        Op deze pagina zul je de mogelijkheid hebben om een webservice aan te spreken die vertelt hoeveel dagen je ouder of jonger bent dan onze held Cristiano Ronaldo. <a href="http://cloudserviceofjoachim.cloudapp.net/Service1.svc?wsdl" target="_blank">Dit is een URL</a> naar de WSDL van de webservice die ik aanspreek. De WCF is ook gehost via mijn Azure-account.
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-3">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">Invoerpaneel</h3>
+            </div>
+            <div class="panel-body">
+                <form id="geboorteform">
+                    <div class="form-group">
+                        <label class="control-label" for="dag">Dag</label>
+                        <div class="controls">
+                            <input class="form-control" type="text" name="dag" id="dag" placeholder="Dag van de maand">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label" for="maand">Maand</label>
+                        <div class="controls">
+                            <select id="maand" name="maand" class="form-control">
+                                <option value="0" selected="">Jouw geboortemaand</option>
+                                <option value="1">Januari</option>
+                                <option value="2">Februari</option>
+                                <option value="3">Maart</option>
+                                <option value="4">April</option>
+                                <option value="5">Mei</option>
+                                <option value="6">Juni</option>
+                                <option value="7">Juli</option>
+                                <option value="8">Augustus</option>
+                                <option value="9">September</option>
+                                <option value="10">Oktober</option>
+                                <option value="11">November</option>
+                                <option value="12">December</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label" for="jaar">Jaar</label>
+                        <div class="controls">
+                            <input class="form-control" type="text" name="jaar" id="jaar" placeholder="Jouw geboortejaar">
+                        </div>
+                    </div>
+                    <button type="button" class="btn btn-default btn-lg btn-block" id="geboorteform-button">Verstuur</button>
+                </form>
+
+            </div>
+        </div>
+    </div>
+    <div class="col-md-9">
+        <div class="panel panel-warning" id="warningpanel">
+            <div class="panel-heading">
+                <h3 class="panel-title">Resultaat</h3>
+            </div>
+            <div class="panel-body" id="resultdiv">
+                Hier komt het resultaat terecht. Vul eerst iets in op het invoerpaneel en klik op de blauwe knop.
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        (function ($) { })(jQuery);
+
+        $(document).ready(function () {
+            $('#geboorteform').validate({
+                rules: {
+                    dag: {
+                        required: true,
+                        range: [1, 31]
+                    },
+                    maand:
+                        {
+                            required: true,
+                            range: [1, 12]
+                        },
+                    jaar: {
+                        required: true,
+                        range: [1900, 2016]
+                    }
+                },
+                messages: {
+                    dag: {
+                        required: "Vul aub uw geboortedag in.",
+                        range:"Het moet tussen 1 en 31 liggen."
+                    },
+                    maand: {
+                        required: "Vul aub uw geboortemaand in."
+                    },
+                    jaar:{
+                        required: "Vul aub uw geboortejaar in.",
+                        range:"Het moet tussen 1900 en 2016 liggen."
+                    }
+                },
+                highlight: function (element) {
+                    $(element).closest('.form-group').addClass('has-error');
+                },
+                unhighlight: function (element) {
+                    $(element).closest('.form-group').removeClass('has-error');
+                },
+                errorElement: 'span',
+                errorClass: 'help-block',
+                errorPlacement: function (error, element) {
+                    if (element.parent('.input-group').length) {
+                        error.insertAfter(element.parent());
+                    } else {
+                        error.insertAfter(element);
+                    }
+                }
+            });
+            $('#geboorteform-button').on('click', function () {
+                if ($("#geboorteform").valid())
+                {
+                    var idag = $('#dag').val();
+                    var imaand = $('#maand').val();
+                    var ijaar = $('#jaar').val();
+                    $.ajax({
+                        type: "POST",
+                        url: "http://cloudserviceofjoachim.cloudapp.net/Service1.svc/VergelijkLeeftijdMetRonaldo",
+                        contentType: "application/json; charset=utf-8",
+                        dataType: "json",
+                        processData: "true",
+                        data: '{"jaar":"'+ijaar+'","dag":"'+idag+'","maand":"'+imaand+'"}',
+                        success: function (data) {
+                            $('#resultdiv').html(data);
+                            $('#warningpanel').removeClass("panel-warning");
+                            $('#warningpanel').removeClass("panel-danger");
+                            $('#warningpanel').addClass("panel-success");
+                        },
+                        error: function (xhr) {
+                            $('#resultdiv').html("Ongeldige datum");
+                            $('#warningpanel').removeClass("panel-warning");
+                            $('#warningpanel').removeClass("panel-success");
+                            $('#warningpanel').addClass("panel-danger");
+                        }
+                    });
+                }
+            });
+
+        });
+    }
+</script>
+

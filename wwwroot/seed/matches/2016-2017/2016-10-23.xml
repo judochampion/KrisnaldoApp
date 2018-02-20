@@ -1,0 +1,81 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Martijn Vandaele</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Simon De Taeye</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Joachim Ally</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Brecht Houvenaeghel</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>10</Month>
+    <Day>23</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>De Turbo's</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Benjamin De Geest</Scored>
+      <Assist>Martijn Vandaele</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Zondag is de dag waarop iedere Krisnaldo met een stralende glimlach wakker wordt. Zonder enige vorm van ochtendhumeur dienden de eerste Krisnaldo’s zich aan in de kantine van de CERA. Ook het omkleden verliep vlekkeloos, ware het niet dat gelegenheidskeeper zijn handschoenen al aan had voor zijn veters geknoopt waren! Gelukkig was een hulpvaardige ploegmaat paraat om de veters flink te knopen, zoals hij dat in de kleuterklas had geleerd.</Paragraph>
+    <Paragraph>Als eerste wapenfeit noteerden we een interessante kans op scoren in de derde minuut. Joachim Ally rukte op langs de flank en legde voor op Martijn Vandaele. Martijn, die voor de gelegenheid de rol van spits opnam, was nog wat onwennig en kon niet goed afdrukken. De Turbo’s waren zichtbaar aangeslagen en besloten hun turbo-modus te activeren. Door de rook van hun turbomotoren en de ochtendlijke mist zagen ze niet veel, waardoor ze veel kansen misten. Tot het geluk hen een handje hielp en de verslaggever zich even dichter waande…</Paragraph>
+    <Paragraph>Een nogal speciale pass leek eerst gewoon slecht,
+      maar door de vreemde stuit kwam hij toch bij hun spits terecht.
+      Hij rook hun kans en fusilleerde onze arme Lowie.
+      Die probeerde de bal te stoppen, maar dat lukte nie.
+    </Paragraph>
+    <Paragraph>
+      Door deze achterstand waren we niet in paniek,
+      de trainer bleef bij de vertrouwde tactiek.
+      We waren nog niet uitgeteld,
+      en kregen terug overwicht op het middenveld.
+    </Paragraph>
+    <Paragraph>
+      Reinout kreeg de bal aangespeeld in het penaltypunt,
+      hij had het op de verste hoek gemunt.
+      Onverwacht ranselde de Turbo-keeper de bal nog uit zijn kooi,
+      die safe was echt wonderbaarlijk mooi.
+    </Paragraph>
+    <Paragraph>
+      In de tweede helft ging het er beter aan toe,
+      de turbo-motor was uitgevallen en ze leken moe.
+      Spits Wout Veranneman dreigde vele malen van dichtbij,
+      en kroonde zich daardoor tot man van de partij.
+    </Paragraph>
+    <Paragraph>
+      Sam Decoene speelde Brecht Houvenaeghel aan langs de lijn,
+      en na een ferme dribbel passte hij naar Martijn.
+      Benjamin en Wout stonden klaar in de zestien,
+      en wat had onze Martijn dat weer goed gezien.
+    </Paragraph>
+    <Paragraph>
+      Wout haalde van de lucht naar de grond,
+      net waar Benjamin De Geest stond.
+      Die laatste had zijn vizier goed afgericht,
+      en bracht zo de bordjes in evenwicht.
+    </Paragraph>
+    <Paragraph>
+      Gretig gingen we nog op zoek naar het winnende doelpunt,
+      maar dat werd ons door de voetbalgoden niet gegund.
+      De keeper ontpopte zich echt tot een held,
+      we verlieten ontgoocheld het veld…
+    </Paragraph>
+    <Paragraph>Het spel was degelijk vandaag, maar we misten wat geluk in de afwerking. Een meevaller na afloop was het feit dat we ondanks het gelijkspel nog steeds aan kop staan in reeks B, al voelen we de hete adem van FC De Geite en Sleihage in onze nek. Volgende week spelen we opnieuw op de CERA, tegen KWB Don Bosco. Supporters op post!</Paragraph>
+    <Paragraph>Met deze felbevochten 2-1 overwinning zijn de Krisnaldo's opnieuw alleen koploper. Met 1/3de van de competitie achter de rug mag het bestuur terugblikken op een geslaagde start waar de ambities ingelost worden. Volgende week mogen we het opnemen tegen SV Werken. Deze keer niet op onze thuisbasis maar op het terrein van NSVD Handzame.</Paragraph>
+  </Report>
+</Match>

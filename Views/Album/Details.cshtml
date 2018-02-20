@@ -1,0 +1,45 @@
+@model KrisnaldoApp.Models.Album
+
+@{
+    ViewData["Title"] = Model.DisplayNaam;
+}
+<style>
+    .mosaicflow__column {
+        float: left;
+    }
+
+    .mosaicflow__item img {
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+</style>
+<div class="row">          
+
+    <div class="col-md-12">
+        <div class="alert alert-warning">
+            Het laden van de pagina kan even duren. Op deze pagina wordt enkel <b>een overzicht gegeven met foto's in verlaagde kwaliteit</b>. Door te klikken op een foto opent <b>een nieuwe pagina met de foto in originele topkwaliteit</b>.
+        </div>
+    </div>
+    <div class="col-md-12">
+        <div class="clearfix mosaicflow">
+            @{int teller = 1;}
+
+            @foreach (Foto f in Model.Fotos)
+            {
+                if (!f.RuweBestandsNaam.Contains(".db"))
+                {
+                    string sPictureSource = "/seed/albums/" + f.RuweBestandsNaam.Replace("\\", "/").ToString();
+                    int iPlace = sPictureSource.LastIndexOf("/");
+                    string sThumbPictureSource = sPictureSource.Remove(iPlace, 1).Insert(iPlace, "/compressed/");
+                    <div class="mosaicflow__item">
+                        <a href="@sPictureSource" target="_blank">
+                            <img src="@sThumbPictureSource" alt="Image @teller.ToString()" width="480" style="border:1px solid #000;">
+                        </a>
+                    </div>
+                   
+                }
+            }
+        </div>
+    </div>
+</div>

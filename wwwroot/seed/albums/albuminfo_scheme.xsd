@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.krisnaldos.be/albuminfo">
+  <xsd:element name="AlbumInfo">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element name="Albums">
+          <xsd:complexType>
+            <xsd:sequence>
+              <xsd:element maxOccurs="unbounded" name="Album">
+                <xsd:complexType>
+                  <xsd:sequence>
+                    <xsd:element name="DisplayName" type="xsd:string" />
+                    <xsd:element name="RawName" type="xsd:string" />
+                    <xsd:element name="Time">
+                      <xsd:complexType>
+                        <xsd:sequence>
+                          <xsd:element name="Year" type="xsd:unsignedShort" />
+                          <xsd:element name="Month" type="xsd:unsignedByte" />
+                          <xsd:element name="Day" type="xsd:unsignedByte" />
+                        </xsd:sequence>
+                      </xsd:complexType>
+                    </xsd:element>
+                    <xsd:element name="Intro" type="xsd:string" />
+                  </xsd:sequence>
+                </xsd:complexType>
+              </xsd:element>
+            </xsd:sequence>
+          </xsd:complexType>
+        </xsd:element>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+</xs:schema>

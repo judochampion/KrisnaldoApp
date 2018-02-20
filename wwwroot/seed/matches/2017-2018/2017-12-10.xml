@@ -1,0 +1,45 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Joachim Ally</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Alexander Blondeel</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Floren Bostoen</Player>
+	<Player>Pieter Vermandere</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>12</Month>
+    <Day>10</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>Blue Stars</TeamName>
+  </Against>
+  <Score>
+    <Home>3</Home>
+    <Away>5</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Sam Decoene</Scored>
+    </Goal>
+    <Goal sequence="2">
+	  <Scored>Benjamin De Geest</Scored>
+    </Goal>
+	    <Goal sequence="3">
+	  <Scored>Benjamin De Geest</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+  <Paragraph>Deze ochtend stond de wedstrijd tegen de Blue Stars op het programma. Voor aanvang van de wedstrijd was er lange tijd twijfel of de match al dan niet afgelast zou worden. Niet zichtbare lijnen en een bal die niet rolt hadden volgens letter van de voetbalwet tot een afgelasting moeten leiden. De scheidsrechter volgde echter de beslissing van zijn collega op het aangrenzende veld en blies de wedstrijd op gang. Machogedrag onder scheidsrechters, het is weer iets anders.</Paragraph>
+<Paragraph>De partij begon dus onder apocalyptische omstandigheden. Veel spelers gingen dan ook creatief aan het werk om zich warm te houden. Mutsen met bolletjes, handschoenen en fluo ondertruitjes, alles kon vandaag. Een wisselspeler van de bezoekers probeerde zich zelfs warm te houden door in volle wedstrijd de middellijn proper te vegen. Carnavaleske toestanden en topentertainment voor de comedy liefhebbers langs de zijlijn. De voetballiefhebbers daarentegen bleven letterlijk en figuurlijk in de kou staan. Over de eerste helft valt dan ook weinig te vertellen. De Wingenaars ploeterden net iets harder door de sneeuw en scoorden 3 keer, wij konden via Sam slechts 1 maal de doelman kloppen. De stand bij de rust was dan ook 1-3.</Paragraph>
+<Paragraph>De tweede helft begon beter. Voetballen met sneeuw in de rug gaat net iets beter dan met sneeuw in de ogen en via Benjamin kwamen we terug tot op 2-3. De Blue Stars konden nadien wel via een hoekschop en een strafschop hun voorsprong uitdiepen tot 2-5. Daarna hadden we -voor zover dat mogelijk was- het betere van het spel maar paal, lat en een sterke doelman beletten ons van te scoren. In de slotfase slaagde Benjamin er toch nog in om de 3-5 te maken, maar het mocht niet meer baten en zo gaan we met 3-5 de boot in. We blijven dus opnieuw met legen handen achter na een wedstrijd die nooit had mogen gespeeld worden en die absoluut niet als waardemeter kan gebruikt worden. Feit is wel dat we in de hoek blijven zitten waar de klappen vallen en dringend punten moeten rapen.</Paragraph>
+<Paragraph>Op extrasportief vlak viel er wel positief nieuws te noteren. Coach Carl Frimout stapte vorige week het huwelijksbootje in en mag zich zo de allereerste geringelde Krisnaldo noemen. Een welgemeende proficiat vanwege alle spelers!</Paragraph>
+  </Report>
+</Match>

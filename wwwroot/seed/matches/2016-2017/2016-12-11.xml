@@ -1,0 +1,34 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Lowie Frimout</Player>
+    <Player>Alexander Verkouille</Player>
+    <Player>Brecht Degezelle</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Tijs Vergote</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Tijs Houvenaeghel</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>12</Month>
+    <Day>11</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>GZ Tube</TeamName>
+  </Against>
+  <Score>
+    <Home>0</Home>
+    <Away>4</Away>
+  </Score>
+  <Goals/>
+  <Report>
+    <Paragraph>Na het interview in de Weekbode hadden we hoop op beterschap na de 0 op 6. Tegenstander van vandaag op de CERA was GZ Tube, een ploeg uit de subtop. We warmden gedisciplineerd op met de beste bedoelingen en ook de nieuwkomer in het team toonde voor het eerst zijn kunstjes aan de ploegmakkers.</Paragraph>
+  <Paragraph>We begonnen relatief goed aan de wedstrijd. Enkele kopballen en schoten uit de tweede lijn konden voor wat onrust bij de geel-zwarte tegenstander zorgen. Maar dat was jammer genoeg van korte duur. De tegenstander, met een heel erg sterke ex-eerste-ploeg-speler van Rumbeke, domineerde nu en kon vooral dreigen door forty-fivers na het halen van de achterlijn. We wonnen geen duels en lieten ons simpelweg te makkelijk wegzetten. Zonder over de pijnlijke details te gaan spreken, kregen we zo op vrij korte tijd 3 goals tegen: 0-3. Dat was een heel zware opdoffer en zo sleepten we ons echt naar de rust.</Paragraph>
+  <Paragraph>We besloten onze kopjes niet te laten hangen en de tweede helft aan te vatten alsof het nog 0-0 was. Zo kenden we een eerste opflakkering en zie je dat je met strijdlust toch ver kan geraken in een voetbalwedstrijd. De beste periode van de wedstrijd brak aan en bijvoorbeeld enkele hoekschoppen van Sam Decoene waren heel gevaarlijk. Ook een doorsteekpas kende bijna een aangenaam vervolg. Maar net toen de hoop op een wederopstand het hoogst leek te zijn, kregen we het deksel op de neus. Alweer die dekselse kapitein verschalkte onze verdediging en keeper. Met het schaamrood op de wangen en keiharde- cijfers verlieten we het veld.</Paragraph>
+    <Paragraph>Omdat er één match is uitgesteld, kunnen we nog niet de eindbalans opmaken van de heenronde. Maar toch zal iedere Krisnaldo-supporter enigszins ontgoocheld zijn dat de overwinningsroes omgeslaan is in een ware crisis. Iedereen beloofde eens heel goed in de spiegel te kijken om zijn spel bij te schaven en nadien zullen we ook elkaar moeten coachen om de goede groepssfeer opnieuw om te zetten in resultaten.</Paragraph>
+  </Report>
+</Match>

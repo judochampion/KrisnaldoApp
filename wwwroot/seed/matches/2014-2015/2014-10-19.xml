@@ -1,0 +1,56 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Alexander Verkouille</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Jonas Callewaert</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Tijs Houvenaeghel</Player>
+    <Player>Mahoney Deckmyn</Player>
+    <Player>Stijn Vansteenkiste</Player>
+  </Players>
+  <Time>
+    <Year>2014</Year>
+    <Month>10</Month>
+    <Day>19</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>VK Zwarte Gat</TeamName>
+  </Against>
+  <Score>
+    <Home>6</Home>
+    <Away>0</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Sam Decoene</Scored>
+    </Goal>
+    <Goal sequence="4">
+      <Scored>Jonas Callewaert</Scored>
+    </Goal>
+    <Goal sequence="5">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="6">
+      <Scored>Floren Bostoen</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend kwam VK 't zwarte gat op bezoek, na de misstap van vorige week konden de Krisnaldo's ditmaal met overtuigende 6-0 cijfers winnen.</Paragraph>
+    <Paragraph>Deze keer begonnen we wel fel aan de wedstrijd, de combinaties verliepen vlot en er was veel druk naar voor. Ongeveer halfweg de eerste helft werden we hiervoor beloond, Wout Veranneman kon doorbreken en prikte de bal in het dak van het doel binnen, 1-0. Nog voor rust kon Wout veranneman opnieuw doorzetten en de 2-0 langs de keeper plaatsen. Rusten deden we dus met een comfortabele 2-0 voorsprong.</Paragraph>
+    <Paragraph>In de tweede helft was onze overmacht nog duidelijker. Sam Decoene waagde zich nog eens aan een indrukwekkende rush, hij snelde alles en iedereen voorbij en wipte daarna nog eens mooi de bal over de doelman: 3-0. Niet veel later konden we opnieuw juichen, na wat gerommel in de zestien kwam de bal bij Jonas Callewaert terecht die van dichtbij de 4-0 kon binnentikken. Nog was onze honger naar goals niet gestild, even later slalomde Wout Veranneman door de bezoekende verdediging en ronde mooi af, opnieuw een hattrick voor Wout Veranneman waardoor hij weer de grote kanshebber wordt voor de topschuttersprijs. Floren Bostoen kon nog de kers op de taart zetten, vanuit de tweede lijn plaatste hij knap de bal in de linkerbenedenhoek: 6-0. Nu was het toch welletjes geweest en besloten we de bal wat in de ploeg te houden en de wedstrijd rustig uit te tikken.</Paragraph>
+    <Paragraph>Na het debacle van vorige week hadden we vandaag iets goed te maken, met een ruime 6-0 overwinning werd dit gedaan en zo blijven we in het spoor van leider Sportief Exclusief.</Paragraph>
+    <Paragraph>Volgende week opnieuw een thuismatch tegen FC De Geite.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

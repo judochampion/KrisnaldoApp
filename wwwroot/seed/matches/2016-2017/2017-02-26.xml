@@ -1,0 +1,40 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Alexander Verkouille</Player>
+    <Player>Joachim Ally</Player>
+    <Player>Sam Decoene</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>2</Month>
+    <Day>26</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>VK Zwarte Gat</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Wout Veranneman</Scored>
+      <Assist>Pieter-Jan Soenen</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Na de pijnlijke nederlaag op Don Bosco hoopten we op ons thuis-plein op de CERA opnieuw aan te knopen met de overwinning. De 3 punten tegen VK Zwarte Gat waren broodnodig om onze kansen op promotie gaaf te houden. Dit moest evenwel gebeuren zonder Brecht Houvenaeghel, en dat is iets wat we niet gewoon zijn, want Brecht is onze Timmy Simons aangezien hij in drie seizoenen nog maar 4 van de in totaal 94 competitiematchen van de Krisnaldo's miste.</Paragraph>
+    <Paragraph>De match was nog geen minuut bezig en het liep al volledig fout. Hadden we te laks opgewarmd? Waren de geelblauwen nog niet goed wakker? Feit was dat we in een recordtijd op achterstand kwamen te staan. We verdedigden als makke lammetjes en zo kon het Zwarte Gat wel heel erg makkelijk op voorsprong komen. Gelukkig herpakten we ons erna allemaal en toonden we dat we onze voet naast die van hen konden zetten. Aanvankelijk dreigden we enkele keren met voorzetten en kopballen, maar die misten precisie. Pieter-Jan Soenen tekende dan voor een primeur door rechtstreeks vanuit het hart van de verdediging een heel mooie assist te geven aan Wout Veranneman. Die besloot meteen naar zijn rechtse voet te kappen. Met een dubbele mandekking op zijn huid besloot hij meteen uit te halen en enig moooi ging die overhoeks binnen van buiten het strafschopgebied. In stijl waren de bordjes weer in evenwicht. De wedstrijd kabbelde voort, maar echte kansen waren er niet meer.</Paragraph>
+    <Paragraph>In de tweede helft werd kapitein Benjamin De Geest terug ingebracht en konden we iets dominanter gaan voetballen. Wij waren nu duidelijk de bovenliggende ploeg en gunden de keeper van de tegenstander geen minuutje rust meer. In de zone van de waarheid liep het evenwel fout. Zo was er een lading van schoten over het doel of voorzetten op het verkeerde hoofd. Ondertussen hield onze verdediging wel goed stand en keepte Brecht een gevaarlijk laag schot mooi uit zijn doel. De goede wil was er, maar de finesse niet. Tegen de gang van het spel in was het uiteindelijk VK Zwarte Gat die ons het genadeschot toediende. Op een counter met een geurtje van buitenspel kon de verbaal en fysiek sterke spits zijn tweede van de ochtend scoren.</Paragraph>
+    <Paragraph>En zo blijven we achter met een 0 op 6 en zakken we verder weg in de stand. Volgende week kunnen we hopelijk opnieuw de remonte inzetten tegen degradatiekandidaat SV Werken. Maar eerst gaan we met zijn allen lekker quizen op de Kwisnaldo's. Tot zaterdag en zondag dus!</Paragraph>
+  </Report>
+</Match>

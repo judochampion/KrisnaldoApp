@@ -1,0 +1,38 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Alexander Verkouille</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Robin Van Hulle</Player>
+  </Players>
+  <Time>
+    <Year>2014</Year>
+    <Month>11</Month>
+    <Day>30</Day>
+  </Time>
+  <Against role="away" type="cup">
+    <TeamName>Blue Stars</TeamName>
+  </Against>
+  <Score>
+    <Home>0</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals />
+  <Report>
+    <Paragraph>Deze ochtend werd de kwartfinale voor de trofee Luc Martens afgewerkt tussen De Krisnaldo's en de Blue Stars (reeks B). Na een sterke wedstrijd van Geel-Blauw verloren ze toch met 0-1 en zijn zo uitgeschakeld voor de beker.</Paragraph>
+    <Paragraph>In een mistig Cera begonnen beide ploegen wat afwachtend uit schrik om op een counter te lopen. De Blue Stars beschikten over veel gestalte en schuwden dan ook de duels niet. De Krisnaldo's bleken over net dat tikkeltje meer techniek en snelheid te beschikken en zo waren wij ook de gevaarlijkste ploeg. De bezoekers hadden een paar keer het doelhout en een sterke doelman nodig om hen recht te houden. Scoren lukte ons echter niet en dan is het een ongeschreven wet in het voetbal dat je wel eens het deksel op de neus kan krijgen. Op slag van rust moesten we dan ook een tegendoelpunt incasseren, de Blue Star spits kreeg met wat geluk de bal mee en werkte mooi af: 0-1.</Paragraph>
+    <Paragraph>Ondanks een zeer sterke eerste periode gingen we zo met een achterstand de kleedkamer in.</Paragraph>
+    <Paragraph>In de tweede helft was er weinig verandering in het spelbeeld. De Blue Stars kropen met zen allen achteruit en wij bleven kansen creëren. Het doel van de bezoekers leek wel behekst en het lukte ons maar niet om te scoren. De laatste 5 minuten gingen in en nu begonnen we de ballen in de zestien te pompen, niet echt de stijl die de Krisnaldo fans gewoon zijn. Hun reuzen achterin konden dan ook telkens de bal ontzetten en zo slaagden we er niet in om te scoren en eindigde de partij op een onverdiend 0-1 verlies.</Paragraph>
+    <Paragraph>Ondanks het verlies kunnen we met opgeheven hoofd het bekertornooi verlaten. We hebben laten zien dat we niveau van een topper uit de B-reeks zeker aankunnen. Vanaf nu ligt de focus volledig op de competie en moeten we trachten onze doelstellingen waar te maken.</Paragraph>
+    <Paragraph>Volgende week spelen we terug verder in de reguliere, afspraak om 10u10 op de Cera voor het duel tegen SC K2.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

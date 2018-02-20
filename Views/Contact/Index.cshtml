@@ -1,0 +1,50 @@
+﻿<!--model KrisnaldoApp.Models.ContactViewModels.ContactForm
+{
+    ViewData["Title"] = "Contact";
+}
+-->
+Op deze pagina kan u een bericht typen dat dan verstuurd wordt naar het bestuur van de Krisnaldo's. U krijgt snel een antwoord terug via mail. 
+<br/><br/>
+        <form class="form-horizontal" method="post" role="form" action="/Contact">
+                <div class="form-group">
+                    <label for="email" class="col-sm-2 control-label">E-mail</label>
+                    <div class="col-sm-10">
+                        <input type="email" class="form-control" id="Emailadres" name="Emailadres" placeholder="Jouw e-mailadres" required autofocus>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="name" class="col-sm-2 control-label">Naam</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control" id="Naam" name="Naam" placeholder="Jouw naam" required>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="name" class="col-sm-2 control-label">Onderwerp</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control" id="Onderwerp" name="Onderwerp" placeholder="Jouw onderwerp" required>
+                    </div>
+                </div>
+
+
+                <div class="form-group">
+                    <label for="name" class="col-sm-2 control-label">Bericht</label>
+                    <div class="col-sm-10">
+                        <textarea id="Message" name="Message" class="form-control" placeholder="Jouw Bericht" rows="8" required></textarea>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-sm-offset-2 col-sm-6">
+                        <button type="submit" class="btn btn-primary">Verstuur jouw bericht</button>
+                    </div>
+                </div>
+</form>
+<div class="col-sm-offset-2 col-sm-6">
+    <address>
+        <strong>Webmaster:</strong> <a href="mailto:joachimally@gmail.com">joachimally@gmail.com</a><br />
+        <strong>Clubbestuur:</strong> <a href="mailto:dekrisnaldos@gmail.com">dekrisnaldos@gmail.com</a>
+    </address>
+</div>
+

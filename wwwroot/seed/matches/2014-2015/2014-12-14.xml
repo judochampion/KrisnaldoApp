@@ -1,0 +1,51 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Jonas Callewaert</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Alexander Verkouille</Player>
+  </Players>
+  <Time>
+    <Year>2014</Year>
+    <Month>12</Month>
+    <Day>14</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>Bourgondisch Kruis</TeamName>
+  </Against>
+  <Score>
+    <Home>5</Home>
+    <Away>0</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Benjamin De Geest</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Alexander Verkouille</Scored>
+    </Goal>
+    <Goal sequence="4">
+      <Scored>Sam Decoene</Scored>
+    </Goal>
+    <Goal sequence="5">
+      <Scored>Pieter Vermandere</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend stond de laatste wedstrijd van de heenronde op het programma. De Krisnaldo's ontvingen 't Bourgondisch Kruis en wonnen vlotjes met 5-0.</Paragraph>
+    <Paragraph>De wedstrijd begon wat zenuwachtig, na het puntenverlies in de vorige 2 wedstrijden moest er vandaag dan ook gewonnen worden. Zoals gewoonlijk duurde het even voor we echt in de match kwamen, maar naarmate de wedstrijd vorderde konden we toch meer de bal opeisen. Ook de doelkansen kwamen, maar de bezoekers konden rekenen op een uitstekende doelman die met enkele goede reddingen de nul op het bord hield. De scheidsrechter besliste dan maar om vroegtijdig de warmte van de kleedkamer op te zoeken, waardoor we gingen rusten met een 0-0 stand.</Paragraph>
+    <Paragraph>In de tweede helft was het balbezit nu volledig voor ons en in tegenstelling tot de eerste helft lukte scoren nu wel. De bal kwam voor doel en het was het uitschuifbare been van Benjamin De Geest die de bal in doel werkte: 1-0. Niet veel later schudde Martijn Vandaele een knappe solo uit de voeten in het strafschopgebied. De Bourgondische verdediger zag maar één uitweg meer en trapte Martijn onderuit: penalty voor De Krisnaldo's. Topschutter Wout Veranneman nam zijn verantwoordelijkheid en knalde vanop 11 meter de 2-0 op het bord. De doelpuntenmachine was nu weer aangeslagen, niet veel later kon Sam Decoene doorzetten. Hij zette voor naar de tweede paal, waar Alexander Verkouille de bal net niet door de netten ramde: 3-0. Het doelpuntenfestijn was echter nog niet afgelopen. Na een hoekschop kwam de afvallende bal bij Sam Decoene terecht. Hij nam het leer in één keer op de slof en knalde staalhard binnen: 4-0. Knap doelpunt, maar ik kan beter dacht Pieter Vermandere wanneer hij enkele minuten later de bal enig mooi in de winkelhaak deed verdwijnen. Met de forfaitscore op het bord besloot de scheidsrechter dan ook om er een einde aan te maken. Eindstand: 5-0.</Paragraph>
+    <Paragraph>Zo sluiten we de heenronde af op een mooie tweede plaats. We mogen tevreden terugkijken op de geleverde prestaties maar als we kampioen willen spelen zullen we onnodig puntenverlies toch moeten vermijden. Volgende week nemen we het thuis op tegen FC Scoutaboe.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

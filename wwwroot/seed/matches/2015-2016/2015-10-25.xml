@@ -1,0 +1,38 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>10</Month>
+    <Day>25</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>Sportief Exclusief</TeamName>
+  </Against>
+  <Score>
+    <Home>2</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Stijn Vansteenkiste</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Op wat een van de laatste zonnige zondagen van 2015 moet zijn geweest, kregen we een oude bekende op ons bord, namelijk Sportief Exclusief. Onze mede-promovendus uit reeks C kent duidelijk een kortere aanpassingsperiode aan deze nieuwe reeks en kon na enkele overwinningen stilaan de aansluiting met de subtop maken.</Paragraph>
+    <Paragraph>Het verschil in de klassering was aanvankelijk niet te merken aan de partij. Verdedigend zat het goed toe en gelegenheidskeeper Lowie Frimout ranselde een mooie kopbal met een spectaculaire save uit zijn kooi. De Krisnaldo’s kwamen een aantal keren goed opzetten en het was Brecht Houvenaeghel die uiteindelijk nog de beste mogelijkheid versierde. Wout Veranneman, die verhuisd werd van diep in de spits naar de flank, voelde zich in zijn sas en na mooi combinatiespel met Benjamin De Geest kwam de bal bij Brecht terecht. Hij controleerde met de borst en nam hem op één tijd op de slof. De keeper kon opgelucht ademhalen toen hij die kanonskogel net boven de kruising zag zoeven. Er leek dus niet echt een vuiltje aan de lucht, maar het was uit dezelfde lucht dat uiteindelijk toch nog een tegengoal kwam vallen op het slechtste moment, net voor de rust. Een vrije trap vanop 40 meter werd voor doel voorgezet, en tegenspeler Akim kopte de bal mooi binnen.</Paragraph>
+    <Paragraph>Na deze plotse tegengoal werd in de kleedkamer dan ook enorm druk overlegd. De pionnetjes werden uiteindelijk verschoven. Stijn ging zich terug op de tien posteren en het middenveld werd extra bemand met technicus Robin Vanhulle. Met al dat aanvallend enthousiasme leek het tactisch ook interessant om defensief talent in te brengen onder de naam van Pieterjan Soenen. Maar die overdosis concentratie tijdens de rust resulteerde achterin in concentratieverlies net na de rust. Akim zag zijn kans en stak de bal in de rug van onze verdedigende Twin Towers. De bonkige spits Fredje Verheye wist ervan te profiteren en via een gelukje de keeper te passeren. 2-0. Maar net als vorige weken lijkt een achterstand ons extra te motiveren. We konden meer en meer drukken, hoekschoppen afdwingen en bij momenten werd de vijandige goal zelf herschapen tot een waar schietkraam. Door het vlotte combinatiespel ging de bal zodanig snel rond dat de aandachtig volgende toeschouwers over nekpijn klaagden na de match. Uiteindelijk was het, alweer, die dekselse Stijn Vansteenkiste die de oververdiende aansluitingstreffer kon binnentrappen op een afvallende bal. In de vijf minuten die daarop volgden gingen we resoluut op zoek naar de gelijkmaker, maar dat gunden de voetbalgoden ons jammer genoeg niet meer.</Paragraph>
+    <Paragraph>Hoewel we nu met 4 op 21 op de voorlaatste plaats zijn verzeild geraakt, kunnen we toch spreken over een eerste opflakkering. Na het dieptepunt van vorige week bewees de ploeg dat ze ervoor willen gaan aangezien niet één speler was uitgeweest en iedereen stipt op tijd was. Volgende week spelen we een degradatietopper tegen AC ’t Rozeke, een buitenkans om na ‘de match van de hoop’ verder uit de crisis te geraken. Want nu onze voorzitter net niet rijk genoeg bleek om Georges Leekens te overtuigen, zullen we het volledig zelf moeten doen.</Paragraph>
+  </Report>
+</Match>

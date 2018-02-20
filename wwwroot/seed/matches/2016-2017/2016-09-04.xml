@@ -1,0 +1,47 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Simon De Taeye</Player>
+    <Player>Brecht Degezelle</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Tijs Houvenaeghel</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>09</Month>
+    <Day>04</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>FC De Sportwereld</TeamName>
+  </Against>
+  <Score>
+    <Home>4</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Benjamin De Geest</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Sam Decoene</Scored>
+    </Goal>
+    <Goal sequence="4">
+      <Scored>Benjamin De Geest</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Net als de kindjes deze week met enige spanning toeleefden naar hun eerste schooldag, leefden de Krisnaldo’s toe naar hun eerste wedstrijd van de competitie. In ons tweede seizoen in reeks B hopen we beter te doen dan de 5de plaats van vorig seizoen, sommigen dromen zelfs van de promotie naar reeks A.</Paragraph>
+    <Paragraph>Zo slap als een dweil begonnen we aan de wedstrijd. De enige balcontacten die we in de eerste vijf minuten hadden waren er van onze opzet en het was dan ook niet meer dan logisch dat een sluwe doorsteekpass van de nummer tien hun spits in stelling bracht. Doelwachter Brecht Degezelle kwam nog op de spits afgestormd om de hoek te verkleinen, maar dat mocht niet baten: 1-0. Ergens mogen we wel tevreden zijn om deze vroege tegentreffer, want zo waren we meteen wakker geschud. Nu lukte het plots wel om te voetballen. Supporter Alexander Vandewalle herkende eindelijk zijn favoriete ploeg De Krisnaldo’s in het mooie combinatiespel en het grote strijdershart. Linksachter Sam Decoene probeerde het deze match met eerder atypische voorzetten, dikwijls waren het lage schuivers waar de spitsen op moesten inlopen. Kapitein Benjamin De Geest raakte er het snelst aan gewend en als een duivel uit een doosje kon hij één van die voorzetten deviëren in doel. Niet veel later kwamen we op voorsprong. Wout Veranneman kreeg de bal aangespeeld vanop een slordige 21 meter en 47 centimeter. Na een korte hoofdberekening waarin hij rekening hield met de wind, zwaarte van de bal en lengte van het gras lanceerde hij een geplaatst schot. Na een stoer zegegebaar, duidelijk afgekeken van ons Grote Voorbeeld, kon hij een slechte terugspeelbal onderscheppen. Wout kon niet trappen door een foutieve tussenkomst van de keeper. De scheidsrechter stelde orde op zaken met een penalty en gedecideerd zette Sam de 3-1 ruststand op het bord.</Paragraph>
+    <Paragraph>Onze Torhoutse rivalen waren nu even het noorden kwijt en dat kwam vooral tot uiting op het middenveld. Een karrenvracht kansen was een logisch gevolg. Helaas werd hiermee zeer onzorgvuldig omgesprongen: Floren Bostoen, Wout, Brecht Houvenaeghel, de vaak oprukkende rechtsachter Robin Van Hulle, Sam en Joachim Ally... elk had wel zijn aandeel in het potje ‘kansen missen voor gevorderden’. De kapitein zag dit met lede ogen aan en deed het dan maar zelf, hij onderschepte een uittrap van de keeper op het middenveld en liep met een fraaie dribbel het strafschopgebied in. Met een lage knal in de linkerbenedenhoek liet hij de keeper kansloos: 4-1. We zijn dan ook maar wat blij dat Benjamin zijn tennisracket terug tijdelijk aan de wilgen hangt, zodat hij zich volledig op zijn voetbalcarrière kan focussen.</Paragraph>
+    <Paragraph>En zo beginnen we uitstekend aan dit seizoen. De organisatie staat er. Volgende week spelen we om 10u10 tegen het Nieuw Gemeentehuis, de 10de van vorig seizoen. Als we nog iets efficiënter omspringen met de kansen, lijkt een nieuwe overwinning haalbaar.</Paragraph>
+  </Report>
+</Match>

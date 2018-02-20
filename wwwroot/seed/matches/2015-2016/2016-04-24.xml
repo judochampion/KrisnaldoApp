@@ -1,0 +1,41 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Janneman Schouteten</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>04</Month>
+    <Day>24</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>KWB Don Bosco</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>0</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Reinout Pattijn</Scored>
+      <Assist>Brecht Houvenaeghel</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend werd al weer de laatste competitiewedstrijd van het seizoen gespeeld. De Krisnaldo's ontvingen Don Bosco en konden hun seizoen mooi afsluiten met een 1-0 overwinning.</Paragraph>
+    <Paragraph>Ook voor onze laatste wedstrijd kregen we nog een taaie klant over de vloer. Don Bosco stond bij aanvang van de wedstrijd op de tweede plaats met 1 puntje achterstand op fiere leider Groen Wit. De bezoekers hadden dus nog heel wat om voor te spelen al leken ze zich daar bitter weinig van aan te trekken. De Torhouternaars begonnen dan ook vrank en vrij aan een evenwichtig duel. Kansen voor beide ploegen en doelman Lowie Frimout moest zich enkele keren onderscheiden. De save van de wedstrijd viel wel bij zijn collega aan de overkant te bewonderen. Na een carambole voor doel wist hij met een katachtige reflex de kopbal van Benjamin De Geest van onder de lat te duwen. Scoren lukte niet meer en zo doken we de rust in met de brilscore nog op het bord.</Paragraph>
+    <Paragraph>Na de rust namen we toch meer en meer de bovenhand en na enkele kleine kansjes was het dan uiteindelijk toch prijs. Na een mooi uitgespeelde actie over de linkerflank kon Brecht Houvenaeghel de bal voor doel zwiepen, Joachim Ally speelde even voor bliksemafleider maar het was Reinout Pattijn die de 1-0 voorsprong tegen de netten ramde. Alles leek daarna onder controle, de bezoekers leken moegestreden en hadden op dat moment nog maar weinig laten zien in de tweede helft. Even brak er toch paniek uit. Pieter-Jan Soenen wou de bal terug spelen op doelman Lowie Frimout al deed hij dat net iets te fanatiek. Een owngoal leek in de maak, onze keeper kon met een mooie duik de bal nog net uit doel slaan. Terugspeelbal oordeelde de scheidsrechter eerst maar toen dacht hij met veel nostalgie terug aan de theorielessen die hij ooit volgde op de scheidsrechtersschool. Een terugspeelbal telt namelijk alleen maar als een doelman de bal klem heeft. Een kleine zucht van opluchting al was de daarop volgende hoekschop ook niet zonder gevaar. De Torhoutse luchtmacht kon koppen aan de tweede paal maar Brecht Houvenaeghel kon de bal nog net voor de doellijn keren. Verder kwamen we niet in de problemen en mochten we de competitie in stijl afsluiten met een verdiende 1-0 overwinning.</Paragraph>
+    <Paragraph>Alle wedstrijden zijn nu afgewerkt, tijd om de eindbalans op te maken. Na een seizoen met 2 gezichten kunnen we niet anders dan tevreden zijn met een 5e plaats. Bij aanvang van het seizoen was de druk vanuit de bestuurskamer enorm, de ambitie om in de top 5 te eindigen leek na onze eerste 2 maanden onmogelijk. Gelukkig kenden we na nieuwjaar een enorme ommekeer met snel en mooi voetbal en vooral resultaten. Mede door deze ommekeer hebben we van (bijna) iedere ploeg kunnen winnen. De enigen die voor ons te sterk waren is kampioen Groen-Wit. Een dikke proficiat aan Groen-Wit !</Paragraph>
+    <Paragraph>De volgende twee weken kunnen we nog de kers op de taart zetten na een prachtig seizoen. Op zondag 1 mei spelen we namelijk de halve finale van de beker tegen de Blue Stars. Bij deze aan al onze fans een uitnodiging om ons tot in de finale te schreeuwen.</Paragraph>
+  </Report>
+</Match>

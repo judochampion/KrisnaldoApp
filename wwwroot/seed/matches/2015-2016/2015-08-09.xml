@@ -1,0 +1,42 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Bram Brackeva</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Janneman Schouteten</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Tijs Houvenaeghel</Player>
+    <Player>Stijn Vansteenkiste</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>08</Month>
+    <Day>09</Day>
+  </Time>
+  <Against role="home" type="tournament">
+    <TeamName>VC Rollegem-Kapelle</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Bram Brackeva</Scored>
+      <Assist>Floren Bostoen</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>De bal is rond en het voetbalseizoen is eindelijk begonnen. De Krisnaldo's mochten op het cera tornooi openen tegen Rollegem Kapelle. Eindstand was 1-1 tegen een ploeg die vorig seizoen toch vijfde eindigde in de A-reeks.</Paragraph>
+    <Paragraph>Het wedstrijdbegin liep wat stroef voor ons, de zomerstop had duidelijk te lang geduurd waardoor het aanvankelijk moeilijk om ons te organiseren. De Rollegemnaars leken wel al beter op elkaar ingespeeld en konden na zo'n 10 minuten de, op dat moment, verdiende 1-0 op het bord zetten. Na deze wake up call kwamen we toch beter in de wedstrijd, meer balbezit en combinaties leidden ertoe dat we vaker konden dreigen. Net voor rust konden we dan ook de bordjes in evenwicht brengen. Een slimme diepsteekpass van Floren Bostoen kwam bij onze nieuwe aanwinst terecht, Lord Brackeva twijfelde niet en steekte de bal simpel doch geniaal naar de verste hoek. Een sterk debuut dus van onze nieuwe targetspits. Stand bij de rust: 1-1.</Paragraph>
+    <Paragraph>Na rust hadden we meer veldoverwicht met enkele kleine kansjes tot gevolg. Helaas kwamen we niet tot scoren en bleef de stand gelijk. Het laatste kwartier werd nog met 10 tegen 10 afgewerkt na 2 oranje kaarten bij beide ploegen. De scherpte was bij beide ploegen nu wat weg waarna de match op een terecht 1-1 gelijkspel eindigde.</Paragraph>
+    <Paragraph>Na de wedstrijd was er ook een penalty shoot-out die we met 4-3 verloren. scoorden van op de stip: Stijn Vansteenkiste, Pieter-Jan Soenen en Bram Brackeva.</Paragraph>
+    <Paragraph>Zo beginnen we het seizoen met een 1-1 gelijkspel tegen een sterke tegenstander. Een hoopgevend resultaat voor als we straks de strijd aangaan in reeks B.</Paragraph>
+    <Paragraph>Volgende week spelen tegen FC 't Dorp, een oude bekende die het ons vorig seizoen altijd knap lastig maakte. Iedereen op zijn hoede dus !</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

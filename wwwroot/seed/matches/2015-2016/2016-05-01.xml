@@ -1,0 +1,41 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Alexander Verkouille</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>05</Month>
+    <Day>01</Day>
+  </Time>
+  <Against role="away" type="cup">
+    <TeamName>Blue Stars</TeamName>
+  </Against>
+  <Score>
+    <Home>2</Home>
+    <Away>3</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Joachim Ally</Scored>
+      <Assist>Wout Veranneman</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Op de Dag Van De Arbeid moest er niet gewerkt maar gebekerd worden. Na een mooie competitieafsluiter vorige week mochten we aantreden in de halve finale van de Trofee Ere-Schepen Geert Messiaen. Tegenstander van de dag waren de Blue Stars, een te duchten tegenstander uit reeks A.</Paragraph>
+    <Paragraph>Nadat de scheidsrechter een sigaret tot as had herleid, konden we aftrappen. Het veld lag er uitstekend bij en we brachten zo enkele uitstekende combinaties over de grond op de mat. Na een actie op links via Sam Decoene en Brecht Houvenaeghel was het een eerste keer raak. Wout Veranneman zag zijn spitsbroeder Joachim Ally aan de tweede paal klaarstaan en schilderde de bal perfect op zijn hoofd. Die laatste bedankte met een overhoekse kopbal en vierde het doelpunt zoals Cristiano Ronaldo. De toon was gezet. De Blue Stars waren duidelijk nog niet goed wakker, want een verdediger die het naliet de bal uit de gevarenzone weg te brengen werd op de huid gezeten door Joachim. De bal werd heroverd en er volgde een voorzet richting doel. Een verdediger, bang voor de inlopende Krisnaldo’s in de rug, wou de bal ontzetten maar klopte nogal ongelukkig zijn eigen doelman: 2-0. En zo ging het dominante spel nog een tijdje verder, maar in de kansen die we volgden lieten we het na de score nog verder uit te diepen, iets dat ons later in de duur zou komen te staan. Gaandeweg begon de wedstrijd te kantelen en zonder één uitgespeelde kans stond hun aansluitingstreffer al op het bord. Van op ongeveer 40 meter afstand scoorde de kapitein van de Blue Stars een enig mooi doelpunt, recht in de winkelhaak. Niet veel later kon een van hun kopbalsterke spitsen een voorzet mooi deviëren, maar de afscheidnemende Dries Sticker ranselde de bal uit zijn doel. Op de corner die daarop volgde was het echter toch raak, niemand kon de bal wegkoppen en in het pak was een kleine, sluwe tegenstander als eerste op de bal om de bal in het doel te jagen. Zo gingen we rusten bij een 2-2 stand.</Paragraph>
+    <Paragraph>In de tweede helft kwamen Robin Vanhulle en Martijn Vandaele Benjamin De Geest en Alexander Verkouille aflossen. Net als in de eerste helft konden we ook nu aanvankelijk heel dominant onze stempel drukken. Zo dominant zelfs dat centrale verdediger Simon De Taeye mee oprukte tot aan de cornervlag. Hij behield het overzicht en legde terug op Joachim, die schuin boven de kruising mikte. De volgende kansen waren vooral op stilstaande fases. Sam liet die keer op keer gevaarlijk indraaien maar mede door een goede keeper was het moeilijk om ze te benutten. Ook nu kwamen de Blue Stars terug opzetten en na een mooie actie kon hun spits de bal in één tijd op de slof nemen, gelukkig voor ons zoefde deze volley net naast. Wij zakten opnieuw wat weg en de bal geraakte niet meer echt in de zone van de waarheid. De Blue Stars kregen nu enkele gelegenheden op stilstaande fasen en diep in de tweede helft gebeurde wat iedereen vreesde: Dries haalde eerst met een katachtige reflex een knal van dichtbij uit zijn doelkader, maar de corner die daarop volgde was opnieuw dodelijk. 3-2. Met nog twee minuten op de klok besloten we over te gaan op powerplay en dit leverde nog één echte kans op: na harde duels op het middenveld en enkele tussenstationnetjes kon Wout net niet afdrukken. Zoals in alle typische bekermatchen, kwam zelfs onze keeper mee op de laatste corner, maar ook dacht mocht niet meer baten.</Paragraph>
+    <Paragraph>Met deze fel bevochten nederlaag valt het doek over dit seizoen, we bedanken al onze supporters en kijken uit naar augustus, wanneer we opnieuw aantreden in het oefentornooi van de CERA. Op de persconferentie na de match maakte een zichtbaar geëmotioneerde voorzitter bekend dat Dries Sticker afscheid neemt van De Krisnaldo's. Wedstrijden spelen op zondagochtend is niet meer te combineren met zijn job en nieuwe woonplaats (Ninove). Meteen werd ook de vacature opengezet voor een nieuwe keeper, kandidaten mogen zich altijd aanmelden via dekrisnaldos@gmail.com. Wie kandidaat is, moet zich kunnen vrijmaken op de meeste zondagochtenden tussen begin augustus en eind april.</Paragraph>
+  </Report>
+</Match>

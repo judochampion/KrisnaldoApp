@@ -1,0 +1,43 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Lowie Frimout</Player>
+    <Player>Brecht Degezelle</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Tijs Houvenaeghel</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>09</Month>
+    <Day>25</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>FC De Koolmijn</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Benjamin De Geest</Scored>
+      <Assist>Pieter Vermandere</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Na de nederlaag van vorige week verloren we onze koppositie aan FC De Geite. De supporters eisten een reactie op het veld van FC De Koolmijn in het pittoreske Langemark-Poelkapelle. Voor keeper Brecht Degezelle was het een speciale dag: hij had voor het eerst zijn wederhelft mee en de helft van de Koolmijn kent hij.</Paragraph>
+    <Paragraph>De match was nog geen volle minuut bezig en het eerste schot van Wout Veranneman was al gelost. Niet veel later zette die laatste een mooie actie op langs de linkerflank. Met een lage voorzet probeerde hij spitsbroeder Joachim Ally te bereiken, maar die miste de bal, waardoor de goed gevolgde Pieter Vermandere de keeper op de proef kon stellen. Halfweg de eerste helft kregen we een opdoffer. Nadat de bal in het nabijgelegen bloemkoolveld werd gewerkt, mocht de tegenpartij inwerpen. Onze verdediging was niet goed bij de les en zo kon een spits alleen op Brecht af. De spits twijfelde niet en speelde Brecht door de benen: 1-0. Martijn Vandaele, spelend in zijn achtertuin, was een van de aanjagers op zoek naar de gelijkmaker. Even was er opschudding toen Martijn in de sandwich werd genomen door twee tegenstanders. Met een tik op de ribben was hij even buiten adem. Dit incident en het feit dat hij in zijn achtertuin zeker niet wou verliezen, zorgde ervoor dat hij de Krisnaldo’s kool-èrig aanjaagde op zoek naar de gelijkmaker.</Paragraph>
+    <Paragraph>Onze tegenstander was een ploeg die op ervaring en techniek speelt, maar met hun oude knoken over iets minder duelkracht en conditie beschikt. Dat probeerden we uit te buiten door het tempo te verhogen in de tweede helft. Na enkele gemiste kansen begon de tijd te dringen en zaten we dan ook op hete kolen. Ook de tegenstander kon na enkele geslaagde wissels enkele keren voor gevaar zorgen, zo moest Brecht redding brengen op een mooie volley. Na een actie over rechts was het dan toch raak. De bal bleef wat hangen rond het penaltypunt en in deze rommelige fase slaagde onze nummer 7 Wout er in om de bal met links in het dak van het doel te knallen. Deze goal deed ons vertrouwen groeien als kool. De gebroeders Houvenaeghel bewezen een goede tandem te zijn op de linkerflank en ook op de rechterflank bleef Pieter de ene actie na de andere opzetten. Uiteindelijk was het die laatste die, na een mooi getrapte corner, kapitein Benjamin De Geest kon bereiken. Aan de tweede paal kopte hij de winnende treffer enig mooi binnen.</Paragraph>
+    <Paragraph>Dat de supporters zich zorgen maakten om het mindere spel is larie en apekool. Op topniveau zijn het de resultaten die tellen. Met een 9 op 12 zijn die er. Volgende week bekeren we tegen de Most in de eerste ronde van de beker. Een zware tegenstander, maar het most er eens van komen. De beker is nog altijd de kortste weg naar Europa en we zijn ontzettend ambitieus om beter te doen dan onze halve finale van vorig seizoen.</Paragraph>
+  </Report>
+</Match>

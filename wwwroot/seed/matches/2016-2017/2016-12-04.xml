@@ -1,0 +1,45 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Janneman Schouteten</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>12</Month>
+    <Day>04</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>VPA Sleihage</TeamName>
+  </Against>
+  <Score>
+    <Home>2</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Joachim Ally</Scored>   
+    </Goal> 
+  </Goals>
+  <Report>
+    <Paragraph>
+      Deze ochtend stond er alweer een nieuwe kraker in de RLV b-reeks op het programma. De Krisnaldo karavaan trok naar het feeërieke Gits (een onderdeeltje van het Hoogleedse imperium.) Na een felbevochten duel met VPA Sleihage gingen de geelblauwe paradijsvogels met 2-1 de boot in.</Paragraph><Paragraph>
+      Even schrikken was het toen we aankwamen bij het veld. Na een stevig nachtje vriezen keken we op een wit bevroren veld. Het krabbertje waarmee Martijn Vandaele eerder op de dag nog fanatiek zijn voorruit mee schoon kreeg bleek tot zijn grote verbazing onvoldoende om het terrein ijsvrij te krijgen. Na het kiezen van het gepaste schoeisel kon de wedstrijd van start gaan.</Paragraph>
+    <Paragraph>
+      We begonnen goed aan de wedstrijd en eisten onmiddellijk de bal op. De thuisploeg opteerde voor ouderwets kick and rush voetbal met voorin 2 snelle spitsen. Een van die 2 spitsen deed ons zelfs vaag aan iemand herinneren. Aanvankelijk waren we de betere ploeg maar toch viel het openingsdoelpunt aan de overkant. Een afstandsschot belandde na heel wat omwegen achter doelman Brecht Degezelle in doel. 1-0 en op achtervolgen aangewezen. We bleven daarna op dezelfde manier voetballen en dat resulteerde uiteindelijk ook in de verdiende gelijkmaker. Na een leuke serie voorzetten van links naar rechts bleef de bal hangen in de buurt van Joachim Ally en die kon, na een potje worstelen met bal en verdedigers, de 1-1 op het bord zetten. Nadien bleven we kansen creëren maar vergaten we ze af te werken. Stand bij de rust 1-1.</Paragraph>
+    <Paragraph>
+      De pistolets van de plaatselijke wandelclub"voetje voor voetje" had de Sleihagenaren duidelijk deugd gedaan want ze kwamen plots veel snediger uit de kleedkamer. Of waren wij al wat in slaap gedommeld ? Een gebrek aan duelkracht en een festival aan slechte passes en controles zorgden ervoor dat we niets meer voor elkaar kregen. Een keer waren we er wel dichtbij. Een schot van Wout Veranneman werd door de doelman op onorthodoxe wijze tegen de lat geduwd waarna de bal net voor of achter de lijn viel. Niemand die echt uitsluitsel kon brengen, de man met het fluitje gaf geen krimp en zo bleven we op 1-1 steken. De thuisploeg voerde de druk op en 10 minuten voor tijd was het prijs: 2-1. We konden daarna de scheve situatie niet meer rechttrekken.</Paragraph>
+    <Paragraph>
+      Met een 0 op 6 zakken we zo verder weg naar de 3e plaats. Volgende week sluiten we de heenronde af tegen GZ Tube.
+    </Paragraph>
+  </Report>
+</Match>

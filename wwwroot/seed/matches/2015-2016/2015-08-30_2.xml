@@ -1,0 +1,38 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Tijs Houvenaeghel</Player>
+    <Player>Mahoney Deckmyn</Player>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Janneman Schouteten</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Thomas Driegelinck</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>08</Month>
+    <Day>30</Day>
+  </Time>
+  <Against role="away" type="tournament">
+    <TeamName>FC Cera (Zaterdag-selectie)</TeamName>
+  </Against>
+  <Score>
+    <Home>0</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals/>
+  <Report>
+    <Paragraph>Deze namiddag werd de finale van het CERA tornooi afgerond. Helaas, met de zware wedstrijd van deze ochtend in de benen slaagden we er niet in om ons beste niveau te bereiken en verloren we nipt met 1-0. Na een intensief dagje voetbal zijn er echter ook heel veel positieve zaken die we moeten onthouden van deze dag.</Paragraph>
+    <Paragraph>Een andere aangename verrassing vandaag werd ons aangeboden door onze nieuwe sponsor VBD Technics. We kregen van hen een stijlvolle nieuwe training. Bij deze willen we dan ook graag Carl Frimout &amp; VBD Technics bedanken, die er zo voor zorgen dat we voortaan strak in het pak naar al onze wedstrijden kunnen.  Volgende week is er ook de start  van de nieuwe competitie tegen VPA Sleihage om 9.00 op de CERA.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

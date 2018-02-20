@@ -1,0 +1,54 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Joachim Ally</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Floren Bostoen</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>4</Month>
+    <Day>9</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>FC De Geite</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>4</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Martijn Vandaele</Scored>
+      <Assist>Brecht Degezelle</Assist>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Wout Veranneman</Scored>
+      <Assist>Brecht Houvenaeghel</Assist>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Benjamin De Geest</Scored>
+      <Assist>Pieter Vermandere</Assist>
+    </Goal>
+    <Goal sequence="4">
+      <Scored>Martijn Vandaele</Scored>
+      <Assist>Sam Decoene</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend stond de allerlaatste match en ontknoping van reeks B in de RLV competitie op het programma. De Krisnaldo's trokken voor het eerst sinds lang nog eens naar de Lokkedyze om het op te nemen tegen FC De Geite. Na een gezapige wedstrijd won geel-blauw met 1-4.</Paragraph>
+    <Paragraph>Het begin van de wedstrijd verliep evenwichtig. De heilige mat van de Lokkedyze lag er goed bij en de zijlijnen zijn nog steeds bowlinggoten. Vele Krisnaldo's mijmerden terug naar zo'n 3 jaar geleden. Op dit historische veld speelden we ooit onze allereerste wedstrijd. Het was ook de laatste kans om hier nog wat herinneringen op te halen, want volgend seizoen wordt dit stukje cultureel erfgoed afgebroken. Velen kregen een krop in de keel en net op dat moment nam FC De Geite het commando over. Gelukkig konden we alweer rekenen op een uitstekende Robin Van Hulle die alle vijandig gevaar met veel bravoure de kop indrukte.
+      De Geitenaren lieten wel veel ruimte in hun rug, iets wat ook doelman Brecht Degezelle had opgemerkt. Na een uitstekende uittrap zette hij Martijn Vandaele alleen voor doel die heel knap de 0-1 op het bord zette. 0-1 was ook de stand bij de rust.</Paragraph>
+    <Paragraph>Na een uitgebreide sanitaire stop van de thuisploeg konden we vroeg in de tweede helft de voorsprong verdubbelen. Brecht Houvenaeghel zette met een gemeten pasje Wout Veranneman alleen voor doel, die in twee tijden de 0-2 op het bord zette. Benjamin De Geest voelde dat zijn titel als Gouden Stier stilaan in het gedrang kwam. Na een scherp aangesneden hoekschop van Pieter Vermandere stond onze captain al voor de 15de maal dit seizoen op de goede plaats om de 0-3 tegen de netten te koppen. De wedstrijd was gespeeld en wat daarna volgde was een schoolvoorbeeld van een eindeseizoenswedstrijd. Een gezellig gekeuvel op een mooie lentedag. Enkele slinkse Geitenaren probeerden ook al wat antwoorden te ontfutselen voor onze volgende editie van de Kwisnaldo's. Pieter Vermandere deed alsof z'n micro niet werkte en hield zo alles goed geheim. Twee maal was er toch nog opschudding. Een diepe bal van Sam Decoene belandde bij Martijn Vandaele die met zijn 2e van de dag de 0-4 op het bord zette. In de slotminuten kon De Geite ook nog de eerredder maken en zo eindigde de partij op 1-4.</Paragraph>
+    <Paragraph>Door deze overwinning eindigen we als 2de in de competitie en promoveren we volgend seizoen naar reeks A. Ook winnen we opnieuw de fairplay trofee. Volgende week mogen we heel even nagenieten. De week erop volgt dan de halve finale van de beker tegen AC 't Rozeke, een ploeg waar we dit seizoen al tweemaal van wonnen.</Paragraph>
+  </Report>
+</Match>

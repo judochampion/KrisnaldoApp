@@ -1,0 +1,58 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Joachim Ally</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Alexander Verkouille</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>4</Month>
+    <Day>30</Day>
+  </Time>
+  <Against role="away" type="cup">
+    <TeamName>FC Lokkedyze</TeamName>
+  </Against>
+  <Score>
+    <Home>5</Home>
+    <Away>0</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Benjamin De Geest</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Joachim Ally</Scored>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Joachim Ally</Scored>
+      <Assist>Sam Decoene</Assist>
+    </Goal>
+    <Goal sequence="4">
+      <Scored>Sam Decoene</Scored>
+    </Goal>
+      <Goal sequence="5">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend was het eindelijk zover. De finale van de VDC wisselbeker, de ultieme mogelijkheid voor de Krisnaldo's om voor het eerst in hun geschiedenis een hoofdprijs in de wacht te slepen. Die kans werd optimaal benut en tegenstander FC de Lokkedyze werd met klinkende 0-5 cijfers huiswaarts gestuurd. De eerste beker is een feit !</Paragraph>
+    <Paragraph>Bij aanvang van de wedstrijd was de druk behoorlijk groot. Na de gemiste titel was dit de ideale gelegenheid om ons knappe seizoen te bekronen. Kapitein Benjamin De Geest wou zoveel mogelijk de stress weghalen en de wedstrijd zoals alle andere aan te pakken. Dat lukte ook wonderwel, Pieter-Jan Soenen had opnieuw een zichtbare kater en Robin Van Hulle arriveerde zoals altijd fashionable late.</Paragraph>
+    <Paragraph>Ook op het veld pakte alles goed uit. De 0-1 kwam er snel. Balverlies achterin bij FC de Lokkedyze en het was goaltjesdief Benjamin De Geest die met een prachtige volley kon profiteren. De massaal aanwezige Ultranaldo's konden voor een eerste keer rechtveren. Nauwelijks uitgerust van de 0-1 werd de voorsprong verdubbeld. Opnieuw balverlies achterin bij de roodhemden en ditmaal was het Joachim Ally die de 0-2 tegen de netten duwde.</Paragraph>
+    <Paragraph>De Lokkedyze besefte nu dat ze iets moesten doen en namen steeds meer het balbezit over. Wij werden in onze verdedigende stelling gedwongen maar gaven uiteindelijk geen enkele kans weg. Zoals alle moderne ploegen moest het dan ook vanuit de omschakeling komen. Net voor rust kon Martijn Vandaele knap zijn mannetje passeren, diep steken tot bij Sam Decoene die op zijn beurt Joachim Ally bediende. Onze nummer 14 knalde daarna de 0-3 op sublieme wijze tegen de netten. 0-3 was ook de ruststand.</Paragraph>
+    <Paragraph>Een mooie voorsprong aan de rust dus maar het was niet de eerste keer dat we in Rumbeke 0-3 voor stonden om het uiteindelijk toch weg te geven. In het begin van de 2e helft was het ook onmiddellijk alarmfase rood. Het was doelman Brecht Degezelle die met een fantastische reflex FC Lokkedyze het scoren kon beletten. Bij de tegenaanval die daarop volgde werd Wout Veranneman gehaakt in de zestien. De bal werd op de stip gelegd en thuisspeler Sam Decoene zette die feilloos om: 0-4 en nu leek de wedstrijd definitief gespeeld. Traditieclub FC Lokkedyze ging in hun allerlaatste wedstrijd nog op zoek naar de eerredder maar ons centrale trio achterin gunde het hen niet. Eenmaal waren ze er nog heel dichtbij maar het was goalie Brecht Degezelle die voor de 8e maal dit seizoen een clean sheet wou halen. Zo een 5 minuten voor tijd maakte het heilige nummer 7 Wout Veranneman het Krisnaldo feestje compleet. Even dollen met de tegenstander om dan kurkdroog de ballen in doel te rammen: 0-5 !</Paragraph>
+	<Paragraph>Zo behalen we voor het allereerst in de Krisnaldo historie een hoofdprijs. De champagne werd ontkurkt, sorry voor het na pak Mr de burgemeester, en de viking clap werd ingezet bij de Ultranaldo's. De Krisnaldo's genieten met volle teugen en gaan een lange feestavond tegemoet.</Paragraph>
+    <Paragraph>Op het eind van het seizoen is het ook tijd voor de dankwoordjes. Merci spelers,supporters,quizdeelnemers en Sefke om er opnieuw een fantastisch jaar van te maken. Ook vanuit de bestuurskamer luidt positivisme, promotie naar de A-reeks, de fairplaytrofee en bekerwinst.</Paragraph>
+    <Paragraph>De Krisnaldo's zullen nu even genieten van een welverdiende rust. Eind juni staat er een teambuilding op het programma en daarna vatten de voorbereidingen voor het nieuwe seizoen aan.</Paragraph>
+    <Paragraph>Tot volgend jaar !</Paragraph>
+  </Report>
+</Match>

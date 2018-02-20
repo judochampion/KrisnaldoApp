@@ -1,0 +1,36 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Janneman Schouteten</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Bram Brackeva</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>08</Month>
+    <Day>23</Day>
+  </Time>
+  <Against role="away" type="tournament">
+    <TeamName>De Turbo's</TeamName>
+  </Against>
+  <Score>
+    <Home>5</Home>
+    <Away>0</Away>
+  </Score>
+  <Goals />
+  <Report>
+    <Paragraph>Deze ochtend werd de laatste poulewedstrijd in het CERA tornooi afgerond. De Krisnaldo's wonnen met 5-0 forfait van de Turbo's.</Paragraph>
+    <Paragraph>Op het eerste zicht doen we dus een prima zaak al was de realiteit vanmorgen net iets minder rooskleurig. De Turbo's konden slecht 8 fitte spelers verzamelen en beslisten nog voor de aftrap om forfait te geven. Toch werd er nog gevoetbald. 2 Krisnaldo's beslisten om tijdelijk ons goddelijke geel-blauw in te wisselen voor een soort gepimpte West Ham United outfit. Enerzijds een bijzonder sportief gebaar, anderzijds is het ook een echte judasstreek waarvoor je bij andere ploegen zomaar in de B-kern kan belanden. Na de wedstrijd beseften deze avonturiers dat het gras niet altijd groener is aan de overkant en hebben wij ze ondertussen alweer in de armen gesloten.</Paragraph>
+    <Paragraph>De wedstrijd die daarop gespeeld werd gaat de geschiedenisboeken in als de grootste Krisnaldo nederlaag sinds onze oprichting. Het werd maar liefst 6-1. Een gebrek aan motivatie plus de zware wedstrijd van gisteren zorgde ervoor dat we op geen enkel moment in de wedstrijd meededen en zo heel makkelijk de goals cadeau gaven. Al kunnen we het ook positief bekijken, 3 van hun 6 doelpunten werd door onze overlopers gemaakt waardoor er vandaag dus toch 4 Krisnaldo doelpunten te zien waren.</Paragraph>
+    <Paragraph>Een zwakke wedstrijd dus al lag de 5-0 forfait overwinning al op voorhand vast. Hierdoor eindigen we als eerste in onze poule en spelen we volgende week voor de hoofdprijs. Om 8.30 is er de halve finale tegen de CERA en in de namiddag volgt dan nog de (troost) finale. Tot volgende week !</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

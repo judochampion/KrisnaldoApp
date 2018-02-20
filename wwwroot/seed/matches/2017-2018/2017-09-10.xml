@@ -1,0 +1,43 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+	<Player>Lowie Frimout</Player>
+	<Player>Bartel De Brabandere</Player>
+	<Player>Robin Van Hulle</Player>
+	<Player>Benjamin De Geest</Player>
+	<Player>Reinout Pattijn</Player>
+    <Player>Maarten Missine</Player>
+	<Player>Pieter Vermandere</Player>	
+    <Player>Martijn Vandaele</Player>
+    <Player>Brecht Houvenaeghel</Player>
+	<Player>Wout Veranneman</Player>
+	<Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>09</Month>
+    <Day>10</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>DC United</TeamName>
+  </Against>
+  <Score>
+    <Home>2</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals>
+  <Goal>
+  <Scored>Wout Veranneman</Scored>
+  <Assist>Martijn Vandaele</Assist>
+  </Goal>
+  <Goal>
+  <Scored>Joachim Ally</Scored>
+  </Goal>
+  </Goals>
+  <Report>
+  <Paragraph>Na het gelijkspel van vorige week was het nu tijd voor de tweede competitiematch, voor het eerst op de vertrouwde Cera bodem. Tegenstander was DC United, een ploeg met nogal wat jaartjes A-reeks ervaring op de teller. Na een gezapige opwarming onder een mooie nazomerse zon konden we de match aanvangen om 9u30 stipt.</Paragraph>
+<Paragraph>De wedstrijd kon niet beter beginnen. Na een mooie actie van dribbelkont Martijn Vandaele legde hij de bal breed voor Wout Veranneman. De sterke spits, die ook vorige week scoorde, verraste vriend en vijand door de bal enig mooi in de verste hoek te plaatsen. Na deze sterke opener plooiden we terug onder de toenemende DC-druk. Ze begonnen aan een heus cornerfestival, maar mede door onze attente driemansverdediging werd elke gevaarlijke bal feilloos weggewerkt. Ook de weinig gekadreerde afstandsschoten konden ons weinig deren. Ze werden zelfs een beetje nonchalant en het was op dat moment dat Joachim Ally op vinkenslag lag. Een terugspeelbal werd onderschept en over de keeper gelobt. 2-0. Ook Maarten Missinne, bezig aan een sterke match op links, was nog dicht bij een doelpunt toen de bal door de benen van de keeper glipte.</Paragraph>
+<Paragraph>De conditie van de tegenstander was duidelijk minder en zo kregen we in de tweede helft meer greep op het middenveld. Het spelverloop ging nu lekker over en weer. Na een verre pas van hun laatste man werd de rivaliserende spits gelanceerd, en die plaatste de aansluitingstreffer enig mooi in de linkerbovenhoek. Het was de enige keer dat keeper Brecht Degezelle in verlegenheid werd gebracht. Voor de rest speelde hij een sublieme match die hem de titel van Man van de Match opleverde. Joachim Ally, Pieter Vermandere en Wout Veranneman waren nog dicht bij een doelpunt aan de overkant. Een gemiste kans, want de 3-1 had de match echt kunnen doodmaken. Nu waren er nog enkele hete standjes voor de Krisnaldo kooi. Enkele vermeende aangeschoten handsballen werden door de sterk fluitende scheidsrechter correct beoordeeld. Met bibberende knieën haalden we tenslotte het verlossende fluitsignaal.</Paragraph>
+<Paragraph>En zo vinden we met 4 op 6 mooi aansluiting met de buik van het klassement. Volgende week trekken we naar Sint-Eloois-Winkel voor een wedstrijd tegen Wivo Sport, één van de topclubs uit reeks A. Tot dan!</Paragraph>
+  </Report>
+</Match>

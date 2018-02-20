@@ -1,0 +1,39 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+	<Player>Lowie Frimout</Player>
+	<Player>Pieter Vermandere</Player>	
+	<Player>Benjamin De Geest</Player>
+	<Player>Brecht Houvenaeghel</Player>
+	<Player>Sam Decoene</Player>
+	<Player>Floren Bostoen</Player>	
+	<Player>Tijs Vergote</Player>
+	<Player>Joachim Ally</Player>
+	<Player>Janneman Schouteten</Player>
+	<Player>Martijn Vandaele</Player>
+  </Players>
+  <Time>
+    <Year>2018</Year>
+    <Month>01</Month>
+    <Day>21</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>Devolder Sport</TeamName>
+  </Against>
+  <Score>
+	<Home>1</Home>
+	<Away>1</Away>
+  </Score>
+  <Goals>
+  <Goal>
+  <Scored>Joachim Ally</Scored>
+  <Assist>Sam Decoene</Assist>
+  </Goal>
+  </Goals>
+  <Report>
+  <Paragraph>Na de nipte nederlaag tegen koploper Wivo Sport was tweede in de stand Schoenen Devolder aan de beurt.</Paragraph>
+  <Paragraph>Ontieglijk vroeg, maar heel gastvrij werden we ontvangen in het hypoderne sportcomplex van Ingelmunster, zo gastvrij dat we zelfs een thermos koffie kregen aangereikt om op de bank te zetten. Wisselspeler Sam Decoene kon er echter niet lang opzitten, aangezien hij vlaggenman ad interim was. Al snel werd duidelijk dat we met een van de best voetballende ploegen in de reeks te maken hadden. Er werd heel vlot gecombineerd en we kregen er heel moeilijk een voetje tussen. Als dat wel lukte, probeerden we de ruimte in hun driemansdefensie te benutten met lange ballen richting de zone van de waarheid. Een bal in het zijnet van interim-spits Martijn Vandaele was hierbij het grootste wapenfeit. Aan de overkant kwam een tegendoelpunt uit de lucht vallen. Bij de eerste kans kwam nummer zeven mooi voor doel en met een mooie boogbal verschalkte hij onze doelman.</Paragraph>
+<Paragraph>In de rust werd beslist om tactisch bij te stellen. Martijn schoof een rijtje achteruit en de vlaggenstok van Sam Decoene werd doorgegeven aan Pieter Vermandere. De vermoeidheid sloeg toe bij beide ploegen. In de eerste minuten van de tweede helft was de tegenstander vastberaden om de overwinning veilig te stellen. Een zwaar offensief leidde tot verschillende kansen, maar Brecht speelde een topmatch en ranselde twee gemaakte doelpunten uit zijn kooi. Toen de overwinning veilig stellen niet leek te lukken, leek tijdwinnen hun nieuwe tactiek. Wij bleven echter voetballen en geduldig op zoek gaan naar de gelijkmaker. Brecht, Benjamin en Floren deelden de lakens uit en probeerden via tussenstationnetjes Martijn en Sam Joachim te lanceren. Na een hele match proberen werd onze inzet net voor affluiten beloond. Joachim kon op zijn Lukaku's de bal meenemen en onder de imposante keeper doorschuiven.</Paragraph>
+<Paragraph>En zo keerden we huiswaarts met een punt die voelt als een overwinning. Volgende week kunnen we die positieve noot doortrekken tegen DDT Veldegem, de voorlaatste in de stand en een iets comfortabelere zespuntenkloof met de degradatiezone slaan.</Paragraph>
+  </Report>
+</Match>

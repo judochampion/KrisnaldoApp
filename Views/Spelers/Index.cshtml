@@ -1,0 +1,76 @@
+@model IEnumerable<KrisnaldoApp.Models.Speler>
+@{   
+
+    ViewData["Title"] = "Index";
+}
+
+<div>
+    <table id="spelersTable" class="table table-striped table-bordered text-nowrap" cellspacing="0" style="width:100%;">
+        <thead>
+            <tr>
+                <th>
+                    ID
+                </th>
+                <th>
+                    Voornaam
+                </th>
+                <th>
+                   Familienaam
+                </th>
+                <th>
+                   Aantal matchen
+                </th>
+                <th>
+                    Laatste match
+                </th>
+                <th>
+                    Aantal doelpunten
+                </th>
+                <th>
+                    Details
+                </th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                string spelerlink = "http://krisnaldos.be/Spelers/" + item.VoorNaam + item.FamilieNaam.Replace(" ", "");
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.SpelerID)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.VoorNaam)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FamilieNaam)
+                    </td>
+                    <td>
+                       @item.SpelerMatchen.Count()
+                    </td>
+                    <td>
+                        @{
+                            DateTime MostRecentDateTime = new DateTime(1999, 9, 9);
+                            foreach (SpelerMatch sm in item.SpelerMatchen)
+                            {
+                                if(DateTime.Compare(sm.Match.Datum,MostRecentDateTime)>0)
+                                {
+                                    MostRecentDateTime = sm.Match.Datum;
+                                }
+                            }
+                        }
+                        @MostRecentDateTime.ToString("dd/MM/yyyy")
+                    </td>
+                    <td>
+                        @item.Goals.Count()
+                    </td>
+                    <td>
+                        <a href="@spelerlink"><i class="fa fa-info-circle fa-lg" aria-hidden="true"></i></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>

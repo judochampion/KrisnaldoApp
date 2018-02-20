@@ -1,0 +1,44 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Robin Van Hulle</Player>
+	<Player>Reinout Pattijn</Player>
+	<Player>Benjamin De Geest</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Lowie Frimout</Player>
+	<Player>Maarten Missine</Player>
+	<Player>Pieter Vermandere</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Wout Veranneman</Player>
+	<Player>Joachim Ally</Player>
+    <Player>Floren Bostoen</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>10</Month>
+    <Day>15</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>VK Denys</TeamName>
+  </Against>
+  <Score>
+    <Home>2</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+  <Goal>
+	<Scored>Brecht Houvenaeghel</Scored>
+	<Assist>Wout Veranneman</Assist>
+  </Goal>
+  <Goal>
+	<Scored>Benjamin De Geest</Scored>
+	<Assist>Pieter Vermandere</Assist>
+</Goal>
+  </Goals>
+  <Report>
+  <Paragraph>Na de hoopvolle zege van vorige week tegen rode lantaarn Ddt veldegem mochten we vandaag de tweede in de stand, VK Denys, verwelkomen op de Cera. De medische staf onder leiding van Martijn had groen licht gegeven voor de comeback van Robin en ook Pieter-Jan was opnieuw van de partij. Dit moest ons helpen om de aanvallen van de tegenpartij in de kiem te smoren, aangezien we na de blessure van Brecht D. en acute ziekte van Lowie met een keepersprobleem te kampen hadden.</Paragraph>
+<Paragraph>In de eerste tien minuten kampeerden we op de helft van de tegenstander. De druk werd stelselmatig verhoogd en het eerste schot van Wout werd gelost. Het verdiende doelpunt kwam uiteindelijk vanop de rechtse flank. Edward zette voor naar het hoofd van Wout. Die legde de bal panklaar voor Brecht H., die van dichtbij de bal overhoeks kon binnenschuiven. Onze rood-groene tegenstanders schoten wakker en namen de bovenhand. Via vlot combinatiespel over de flanken kwamen ze een eerste keer dreigen. Een ingestudeerd nummertje op corner resulteerde in een krachtig schot op doel, dat uiteindelijk met een tikje van de keeper en via de lat ongevaarlijk werd gemaakt. Niet veel later was het toch raak. Een spits kon met een doorgeschoven bal recht op ons doel af en gelegenheidskeeper Joachim stopte hem foutief af. Een terecht gefloten penalty resulteerde in de gelijkmaker. VK Denys was nu onder stoom en met een harde, lage schuiver kwamen ze op voorsprong.</Paragraph>
+<Paragraph>Supporter Brecht en coach Carl zagen weinig mogelijkheden tot tactische wissels, aangezien de invallersbank opnieuw pijnlijk leeg was. We bleven bikkelen en vochten voor elke bal. Pieter trapte een prachtige hoekschop en Benjamin kon met een volley de bal in doel deviëren. Wout was niet veel later dicht bij de winnende treffer, nadat zijn schot net niet volledig door de benen van de keeper geraakte. Onze tegenstanders dreigden met enkele vrije schoppen, die gelukkig slecht gekadreerd waren. Het spel ging snel op en af, maar echte kansen kwamen er niet meer van. Iedereen bleef braafjes verder voetballen, wat ons een zoveelste 10/10 score opleverde voor fair play.</Paragraph>
+<Paragraph>Na zes matchen, waarvan vier tegen de top vier van het klassement, kunnen we trots stellen dat geen enkele ploeg uit deze topreeks ons kan overklassen. Altijd krijgen we onze kansjes en met een serieuze portie bikkelen en een slimme organisatie geven we maar weinig weg. Volgende week spelen we opnieuw thuis tegen kwb Don Bosco, die een plaatsje voor ons staan in het klassement. Supporters op post!</Paragraph>
+  </Report>
+</Match>

@@ -1,0 +1,39 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+	<Player>Lowie Frimout</Player>
+	<Player>Sam Decoene</Player>
+	<Player>Benjamin De Geest</Player>
+	<Player>Floren Bostoen</Player>
+	<Player>Pieter Vermandere</Player>
+    <Player>Martijn Vandaele</Player>    
+	<Player>Alexander Verkouille</Player>
+    <Player>Brecht Houvenaeghel</Player>
+	<Player>Wout Veranneman</Player>
+	<Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>10</Month>
+    <Day>01</Day>
+  </Time>
+  <Against role="home" type="cup">
+    <TeamName>FC Re-Act</TeamName>
+  </Against>
+  <Score>
+    <Home>0</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals>
+  <Goal>
+  <Scored>Wout Veranneman</Scored>
+  </Goal>
+  </Goals>
+  <Report>
+  <Paragraph>Deze ochtend werd er gebekerd. De geheimzinnige loting bracht ons naar Rumbeke, waar we het opnamen tegen RLV Re-act , een nieuw opgerichte ploeg die mee aan de leiding staat in reeks C. Lowie mocht de overvolle ziekenboeg verlaten en nam zijn vertrouwde plek achterin terug in. Voor het overige weinig verrassingen in de opstelling van meester-tacticus Carl Frimout.</Paragraph>
+<Paragraph>Al vrij snel in de wedstrijd werd duidelijk dat we voetbaltechnisch de betere ploeg waren. De thuisploeg probeerde het vooral met diepe ballen, maar die werden telkens onschadelijk gemaakt door ons verdedigende trio. Voor ons was het zaak de bal snel rond te spelen en zo het lage blok van de thuisploeg te ontmantelen. Het was aandringen, maar op een grote kans voor Wout na konden we te weinig uitgespeelde kansen creëren: 0-0 aan de rust.</Paragraph>
+<Paragraph>Na de pauze eenzelfde spelbeeld: balbezit van ons en wachten tot er ruimtes ontstonden. Het was al diep in de tweede helft wanneer ons geduld uiteindelijk beloond werd. De Rumbekenaren konden een aanval onvoldoende wegwerken en Wout kon met een lage knal in de verste hoek de keeper verschalken: 0-1. De thuisploeg had hierop geen re-actie. Sterker nog, ze drongen nog aan bij de scheidsrechter om een einde te maken aan de partij. Mentale weerbaarheid, duidelijk een onbekend begrip in Rumbeke. Zonder verder in de problemen te komen speelden we de wedstrijd uit met een 0-1 overwinning op zak.</Paragraph>
+<Paragraph>Na de wedstrijd volgde een obligate penalty shoot-out. Eindelijk ook wat actie voor doelman Brecht D. Naar het beeld van de wedstrijd werden die penalty's wel heel slordig afgewerkt: 2-2. Maarten en Pieter waren de enige die vanop 11 meter het net vonden.</Paragraph>
+<Paragraph>Een 0-1 overwinning en dus bekeren we zeker verder. In een bekersysteem dat teert op het motto "we zijn allemaal winnaars" is het nu afwachten in welke categorie we verder bekeren. Volgende week weer competitievoetbal. We spelen dan tegen Ddt veldegem, een ploeg die zijn start lijkt gemist te hebben. Ideaal moment dus om te profiteren van hun vormcrisis en zo na een 0 op 6 de broodnodige punten te sprokkelen.</Paragraph>
+  </Report>
+</Match>

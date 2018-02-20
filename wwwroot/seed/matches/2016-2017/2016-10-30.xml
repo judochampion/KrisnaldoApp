@@ -1,0 +1,46 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Joachim Ally</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Brecht Houvenaeghel</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>10</Month>
+    <Day>30</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>KWB Don Bosco</TeamName>
+  </Against>
+  <Score>
+    <Home>2</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Reinout Pattijn</Scored>
+      <Assist>Wout Veranneman</Assist>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Joachim Ally</Scored>
+      <Assist>Wout Veranneman</Assist>
+    </Goal>    
+  </Goals>
+  <Report>
+    <Paragraph>Met een uurtje slaap meer op de teller begonnen de Krisnaldo's uitgerust aan de topper tegen KBW Don Bosco. Een topper die de 12-koppige selectie afsloot met een felbevochten 2-1 winst.</Paragraph>
+    <Paragraph>Dominant voetbal van de thuisploeg, dat is wat de toeschouwers te zien kregen in de eerste helft. Deze dominantie leidde ook tot een vroege voorsprong. Het was flankaanvaller Pieter Vermandere die een lage voorzet aan de rand van de 16 zag gecontroleerd worden door Wout Veranneman. Die twijfelde niet en schoot meteen op doel, gepakt door de doelman. Gelukkig was Reinout Pattijn goed gevolgd en legde de bal beheerst in doel. Veel kon Don Bosco hier niet tegenin brengen. De Krisnaldo's voetbalden gecontroleerd en kwamen amper in de problemen.</Paragraph>
+    <Paragraph>Op slag van rust was het tijd voor de 2-0. Een perfecte counter, zo penden de waarnemers van de CERA het neer. Sam Decoene was de man die de tegenaanval opzette, hij bezorgde Wout het leer die uitpakte met een steekpas richting spitsbroeder Joachim Ally. De nummer 14 stond 1vs1 tegen de vijandige doelwachter. Een kans die 'Brutus' zelden laat liggen. Drie ademstoten later was het tijd voor de welverdiende koffie.</Paragraph>
+    <Paragraph>De tweede helft was er ééntje om snel te vergeten. Zo sterk begonnen de Krisnaldo's aan de wedstrijd, zo slecht begonnen we aan de 2de periode. Don Bosco had duidelijk ingezet op de lange bal en daar hadden we het moeilijk mee. De geel-blauwe luchtmacht moest zijn meerdere erkennen. Een aansluitingstreffer bleef dan ook niet lang uit. Een voorzet werd niet goed weggewerkt en kwam in de voeten van de tegenpartij. In eerste instantie lag doelman Brecht Degezelle goed in de weg, op een tweede poging kon de verdediging de bal nog van de lijn keren. 3x is scheepsrecht moest men gedacht hebben. 2-1.</Paragraph>
+    <Paragraph>Met nog een kwartier op de klok kwam er van voetbal niet veel meer in huis. Vele luchtduels later was het toch nog eens de beurt aan de thuisploeg om een aanval op te zetten. Een aanval met nare gevolgen voor de doelman van Don Bosco. Op een listig balletje van Pieter kon Joachim Ally nog één maal op doel afgaan. Een controle verder sprong de doelman in de voeten van Joachim, die ook op volle kracht door ging. Een spijtig duel en een pijnlijk moment voor de Don Bosco-keeper, maar die kwam er blessurevrij uit - zij het van een eventueel trauma voor bonkige spitsen als Joachim. De angel was nu uit de wedstrijd, en met nog 2 minuten op de klok leek de spreekwoordelijke strijdbijl begraven.</Paragraph>
+    <Paragraph>Met deze felbevochten 2-1 overwinning zijn de Krisnaldo's opnieuw alleen koploper. Met 1/3de van de competitie achter de rug mag het bestuur terugblikken op een geslaagde start waar de ambities ingelost worden. Volgende week mogen we het opnemen tegen SV Werken. Deze keer niet op onze thuisbasis maar op het terrein van NSVD Handzame.</Paragraph>
+  </Report>
+</Match>

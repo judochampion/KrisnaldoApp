@@ -1,0 +1,37 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+	<Player>Lowie Frimout</Player>
+	<Player>Pieter Vermandere</Player>	
+	<Player>Benjamin De Geest</Player>
+	<Player>Brecht Houvenaeghel</Player>
+	<Player>Sam Decoene</Player>
+	<Player>Floren Bostoen</Player>	
+	<Player>Wout Veranneman</Player>
+	<Player>Joachim Ally</Player>
+	<Player>Janneman Schouteten</Player>
+	<Player>Martijn Vandaele</Player>
+  </Players>
+  <Time>
+    <Year>2018</Year>
+    <Month>01</Month>
+    <Day>14</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>Wivo Sport</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+  <Goal>
+  <Scored>Joachim Ally</Scored><Assist>Sam Decoene</Assist>
+  </Goal>
+  </Goals>
+  <Report>
+  <Paragraph>Deze ochtend ontvingen De Krisnaldo's fiere leider Wivo Sport.</Paragraph>
+  <Paragraph>Op een hobbelig veld botste de bal vlot van de ene naar de andere kant. Beide ploegen kozen voor de aanval en creëerden vlot kansen. Enig verschil was dat Wivo net iets efficiënter was en zo met 0-1 de rust kon induiken.</Paragraph>
+	<Paragraph>In tegenstelling tot vorige week probeerden we nu met meer overleg onze achterstand op te halen. In de tweede helft kregen we veel meer grip op de wedstrijd. Toch was het Wivo die hun voorsprong kon verdubbelen. Nadien bleven we echter geduldig op zoek gaan naar de aansluitingstreffer. Halfweg de tweede helft was het dan ook eindelijk raak. Joachim etaleerde even zijn acrobatisch en atletisch vermogen en verlengde zo een voorzet van Sam in doel. 1-2 en de jacht op de gelijkmaker was ingezet. We voetbalden daarna nog enkele grote kansen bijeen maar scoren bleek opnieuw een probleem te zijn. Zo kunnen we opnieuw geen punten halen na een wedstrijd waarin we misschien wel meer verdienden.</Paragraph><Paragraph>Volgende wacht ons een nieuwe klepper. Dan gaan we op bezoek bij Schoenen Devolder.</Paragraph>
+  </Report>
+</Match>

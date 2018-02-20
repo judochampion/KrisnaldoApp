@@ -1,0 +1,142 @@
+@model KrisnaldoApp.Models.Match
+
+@{
+    ViewData["Title"] = "Details";
+}
+@{
+    int iThuisPloegScore = 0;
+    string sThuisPloegNaam = String.Empty;
+    int iUitPloegScore = 0;
+    string sUitPloegNaam = String.Empty;
+    string sSoortMatch = String.Empty;
+    switch (Model.Type)
+    {
+        case KrisnaldoApp.Models.Type.BEKER:
+            sSoortMatch = "Bekermatch"; break;
+        case KrisnaldoApp.Models.Type.COMPETITIE:
+            sSoortMatch = "Competitiematch"; break;
+        case KrisnaldoApp.Models.Type.TORNOOI:
+            sSoortMatch = "Tornooimatch"; break;
+        case KrisnaldoApp.Models.Type.VRIENDSCHAPPELIJK:
+            sSoortMatch = "Vriendschappelijke match"; break;
+        default: break;
+    }
+    switch (Model.Rol)
+    {
+
+        case Rol.THUIS:
+            iThuisPloegScore = Model.OnzeScore;
+            iUitPloegScore = Model.HunScore;
+            sThuisPloegNaam = "De Krisnaldo's";
+            sUitPloegNaam = Model.Tegenstander;
+            break;
+        case Rol.UIT:
+            iThuisPloegScore = Model.HunScore;
+            iUitPloegScore = Model.OnzeScore;
+            sUitPloegNaam = "De Krisnaldo's";
+            sThuisPloegNaam = Model.Tegenstander;
+            break;
+        default: break;
+    }
+    string DatumVoluit = Model.Datum.ToString("D", new System.Globalization.CultureInfo("nl-BE"));
+}
+<div class="row">
+    <div class="col-md-8">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title"><b>@sThuisPloegNaam @(iThuisPloegScore) - @(iUitPloegScore) @(sUitPloegNaam)</b></h3>
+                <h6>@(sSoortMatch) op @DatumVoluit</></h6>
+            </div>
+            <div class="panel-body">
+
+                @foreach (Paragraaf p in Model.Paragrafen)
+                {
+                    <p>@p.Tekst.ToString()</p>
+                }
+
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="row">
+            <div class="col-md-12">
+                @if (Model.Goals.Count > 0)
+                {
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">Goals</h3>
+                        </div>
+                        <div class="panel-body">
+                            <ol>
+                                @foreach (Goal g in Model.Goals)
+                                {
+                                    if (g.HasAssist)
+                                    {
+                                        <li>@(g.ScorerSpeler.FamilieNaam) (assist van @(g.AssistSpeler.FamilieNaam))</li>
+                                    }
+                                    else
+                                    {
+                                        <li>@(g.ScorerSpeler.FamilieNaam)</li>
+                                    }
+                                }
+                            </ol>
+                        </div>
+                    </div>
+
+                }
+                else
+                {
+                    if (Model.OnzeScore == 0)
+                    {
+                        <div class="panel panel-danger">
+                            <div class="panel-heading">
+                                <h3 class="panel-title">Goals</h3>
+                            </div>
+                            <div class="panel-body">
+                                Geen doelpunten gemaakt.
+                            </div>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="panel panel-danger">
+                            <div class="panel-heading">
+                                <h3 class="panel-title">Goals</h3>
+                            </div>
+                            <div class="panel-body">
+                                Zelf geen doelpunten gemaakt, enkel @(Model.OnzeScore) owngoal(s).
+                            </div>
+                        </div>
+                    }
+                }
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">Spelers</h3>
+                    </div>
+                    <div class="panel-body">
+                        <ul>
+                            @foreach (SpelerMatch sm in Model.SpelerMatchen)
+                            {
+                            <li>@(sm.Speler.VoorNaam) @(sm.Speler.FamilieNaam)</li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <hr />
+        <div>
+            <a asp-action="Index">Ga terug naar de lijst met alle matchen</a>
+        </div>
+    </div>
+</div>
+

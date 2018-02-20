@@ -1,0 +1,44 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Alexander Verkouille</Player>
+    <Player>Joachim Ally</Player>
+    <Player>Brecht Houvenaeghel</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>3</Month>
+    <Day>12</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>STM Sjotters</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Benjamin De Geest</Scored>
+      <Assist>Wout Veranneman</Assist>
+    </Goal>
+      <Goal sequence="2">
+      <Scored>Wout Veranneman</Scored>
+      <Assist>Martijn Vandaele</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Op deze mooie maartse zondagochtend stond er een verre verplaatsing op het menu. In Pittem moesten we partij geven aan de STM Sjotters, die vorig jaar nog verdienstelijk de beker Sportschepen José Debels wonnen, maar nu vertoeven in de onderste regionen van het klassement. Op de koop toe bleken ze slechts met tien spelers te zijn, wat ons een iets te euforisch voorgevoel bezorgde.</Paragraph>
+    <Paragraph>In een gezapig tempo speelden we de eerste kansen bijeen. Zo waren er voorzetten van Wout Veranneman of corners van de fitte Floren Bostoen die maar nipt hun bestemming misten. De STM Sjotters waren niet echt onder de indruk en konden zelf ook een aantal keer dreigen. Dit waren de eerste in een reeks van vele reddingen van onze sterke keeper Brecht. Op een volgende corner vanop de linkerkant was het uiteindelijk toch raak. Floren zette voor en nadat de bal wat bleef hangen in het strafschopgebied kon Wout trappen. Via de binnenkant van de paal bleef hij op de doellijn verder dwarrelen. Paniekerig probeerde een verdediger de bal weg te werken, maar tevergeefs. Zijn knal kaatste terug op het lichaam van de attente Benjamin De Geest, die zo zijn twaalfde van het seizoen kon scoren. De keeper besloot ons later nog een handje te helpen toen een wel heel erg lage uittrap die in de voeten van spits Joachim Ally belandde. Onder druk van de verdedigers ging de trap echter over.</Paragraph>
+    <Paragraph>In de tweede helft werd Alexander Verkouille vervangen door de enthousiast vlaggende Robin Vanhulle. Alweer onderscheidde Brecht zich door een aantal hoge ballen sterk uit de lucht te pikken. Hij bekroonde zijn match dan ook met de titel van Man van de Match. Maar niet veel later moesten we ons toch gewonnen geven en de gelijkmaker dulden. Een hoge bal kon niet meteen weggewerkt worden en zo kwam de STM spits nogal verrassend voor doel opduiken. Deze keer was Brecht kansloos. Het leek of we toen eindelijk wakker schoten want mede door toedoen van de oprukkende back Reinout Pattyn werd de druk verhoogd. Net toen iedereen de moed had opgegeven en de eerste supporters al huiswaarts keerden om de files te vermijden, kon Wout Veranneman na een pas nog een prachtige indivduele actie opzetten. Hij draaide rond zijn as en lanceerde een shot. Het ging niet vrij snel vooruit, maar de plaatsing in de winkelhaak was perfect. Dit verlossende tweede doelpunt deed ons dan ook wijselijk beslissen om wat zekerheid in te bouwen en een late gelijkmaker uit te sluiten. Verdedigers Lowie Frimout, Robin Vanhulle en Pieter-Jan Soenen deden de deur op slot.</Paragraph>
+    <Paragraph>Aangezien de concurrentie ook wint blijven we op een punt van de leider staan met nog vier wedstrijden voor de boeg. Aangezien concurrenten FC De Sportwereld en KWB Don Bosco volgende week tegen elkaar spelen, is het voor ons een gouden kans om misschien opnieuw de koppositie in reeks B over te nemen.</Paragraph>
+  </Report>
+</Match>

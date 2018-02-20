@@ -1,0 +1,56 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Lowie Frimout</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Carl Frimout</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Tijs Houvenaeghel</Player>
+    <Player>Robin Van Hulle</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>02</Month>
+    <Day>01</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>FC De Geite</TeamName>
+  </Against>
+  <Score>
+    <Home>0</Home>
+    <Away>6</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Wout Veranneman</Scored>
+      <Assist>Brecht Houvenaeghel</Assist>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Robin Van Hulle</Scored>
+    </Goal>
+    <Goal sequence="4">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="5">
+      <Scored>Wout Veranneman</Scored>
+      <Assist>Floren Bostoen</Assist>
+    </Goal>
+    <Goal sequence="6">
+      <Scored>Pieter Vermandere</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Na een lange reeks afgelaste wedstrijden werd er deze ochtend opnieuw gevoetbald. De Krisnaldo's trokken naar De Geite en konden met een vlotte 0-6 overwinning het jaar mooi inzetten. Door de moeilijke weersomstandigheden was het lastig om in de wedstrijd te komen. Na een lange studieronde kwamen we toch meer in de wedstrijd met enkele mooie kansen. Halfweg de eerste helft kon Wout Veranneman zich dan toch eens van zijn waakhond losrukken. De weg naar doel lag open en onze nummer 7 plaatste de bal mooi naast de doelman: 0-1. De Geite zakte nu volledig in waardoor we voortdurend het balbezit hielden. Net voor rust konden we dan ook onze voorsprong verdubbelen. Brecht Houvenaeghel zette met een slim hakje Wout Veranneman alleen voor doel, die de doelman op het verkeerde been zette en zo de 0-2 maakte. 0-2 was dan ook de ruststand.</Paragraph>
+    <Paragraph>Na rust was ons veldoverwicht zo nodig nog groter. Zo kon ook Robin Vanhulle zijn eerste Krisnaldo doelpunt maken. Na een rush zoals we Kompany ze wel eens zien doen, kon hij de bal over de doelman stiften en de 0-3 op het bord zetten. Niet veel later konden we opnieuw juichen, wanneer Wout Veranneman helemaal vrij op doel kon afstormen. Hij kon ook afleggen, maar een spits zou geen spits zijn als hij niet voor eigen succes zou gaan. Aan de rand van de zestien ramde Wout de 0-4 tegen de netten. De Geite was nu helemaal K.O. geslagen en hun centrale verdediger vond er niets beter op dan in de eigen zestien wat te jongleren met de bal. Floren Bostoen zette goed druk, waarna Wout Veranneman de 0-5 simpel kon binnenleggen. In de blessuretijd kon Pieter Vermandere nog de kers op de taart zetten door de 0-6 eindstand binnen te trappen.</Paragraph>
+    <Paragraph>Zo boeken we een vlotte overwinning en staan we opnieuw alleen op de 2de plaats. Ook Wout Veranneman deed een goede zaak in de topschutterstand en dikt zijn doelpuntentotaal aan tot 20 stuks. Volgende week spelen we een thuismatch tegen VK De Reisduif.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

@@ -1,0 +1,52 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Lowie Frimout</Player>
+    <Player>Brecht Degezelle</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Janneman Schouteten</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Pieter Snoeck</Player>
+    <Player>Alexander Blondeel</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Kenzo De Sutter</Player>
+    <Player>Tijs Houvenaeghel</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>08</Month>
+    <Day>14</Day>
+  </Time>
+  <Against role="home" type="tournament">
+    <TeamName>SC K2</TeamName>
+  </Against>
+  <Score>
+    <Home>3</Home>
+    <Away>3</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Alexander Blondeel</Scored>
+      <Assist>Joachim Ally</Assist>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Joachim Ally</Scored>
+      <Assist>Alexander Blondeel</Assist>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Alexander Blondeel</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>De tweede wedstrijd van het Toernooi van de Vriendschap werd er één tegen een oude bekende uit reeks C, SC K2. Hun 14 spelers en ruime entourage boezemde ons toch enige angst in. Dit gevoel werd nog eens versterkt door het feit dat maar liefst 7 van de 12 kernspelers verstek gaven voor deze partij. Gelukkig kwamen enkele enthousiaste reservespelers ons ter hulp gesneld om toch het minimum van 11 truitjes nat te maken.</Paragraph>
+    <Paragraph>Dit keer mochten we origineel aftrappen met slechts één speler in de middencirkel, de scheidsrechter kent het reglement. Het waren de lichtblauwe tegenstanders die meteen druk zetten en na een mooi uitgespeelde aanval de score openden. We waren zichtbaar onder de indruk en geraakten niet echt onder de druk uit, waardoor de score al snel verdubbeld werd. Deze keer was het een individuele actie van ene Dempsey, gevolgd door een heel mooi schot, die onze keeper Brecht kansloos liet. We lieten de kopjes echter niet hangen. Na enkele halve kansen werd kort voor de rust onze inzet beloond met een doelpunt. Alexander Blondeel stuurde Joachim Ally naar het hoekje. Die laatste zette de bal meteen voor richting strafschopgebied. De bal kwam net iets te hoog voor spitsbroeder Wout, maar gelukkig was die dekselse Alexander goed gevolgd aan de tweede paal om met een heerlijke volley de aansluitingstreffer te scoren. Jammer genoeg slikten we toch nog een derde goal voor de rust. Een vrije trap van ons belandde in de voeten van een vijandelijke spits en op dit niveau wordt dit genadeloos afgestraft.</Paragraph>
+    <Paragraph>Drie supporters kwamen aan voor de tweede helft en dat gaf ons zichtbaar vleugels. De organisatie bij onze opponent was na enkele wissels helemaal zoek, waardoor er steeds meer ruimte kwam. In die ruimte dook Wout een eerste keer. Na het halen van de achterlijn paste hij mooi naar de vrijstaande Joachim, ware het niet dat die net voor het trappen foutief werd afgestopt. Reinout Pattyn, die goed gevolgd was, kon de verder rollende bal in één tijd binnentrappen, maar omdat er al penalty gefloten was, werd deze goal afgekeurd. Tot overmaat van ramp missen we de penalty. Gelukkig onderschepte Lowie Frimout niet veel later de bal en zo kon Alexander opnieuw Joachim lanceren. Deze kon nu vrij op de keeper afstormen en de bal in het dak van het doel knallen. De gelijkmaker hing in de lucht en de sfeer werd iets grimmiger. Zeker toen Wout op de keeper afstormde en die laatste de bal met zijn handen kaatste buiten het strafschopgebied. Dat de goal die Wout in de rebound van die actie scoorde opnieuw werd afgekeurd omdat er al gefloten was, frustreerde ons mateloos. Positief was wel dat de keeper na een gele kaart het veld moest verlaten en een veldspeler de handschoenen mocht aantrekken. Dat die nog niet goed wist waar het midden van zijn goal was, werd opportunistisch benut door matchwinnaar Alexander. Vanop 45 meter scoorde hij de verlossende gelijkmaker.</Paragraph>
+    <Paragraph>
+      In de traditionele penaltyreeks scoorden er nog drie Krisnaldo’s vanop de stip:
+      - Lowie Frimout
+      - Joachim Ally
+      - Stijn Degezelle
+    </Paragraph>
+    <Paragraph>En zo moeten we ons tevreden stellen met een magere 1 op 6 in dit tornooi. Toch mogen we trots zijn op de manier waarop we gestreden hebben voor het punt. Een dikke pluim voor de debuterende Krisnaldo’s die hier zeker hun aandeel in hebben: Kenzo De Sutter, Pieter Snoeck en Stijn Degezelle.</Paragraph>
+  </Report>
+</Match>

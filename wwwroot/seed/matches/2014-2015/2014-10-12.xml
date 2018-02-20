@@ -1,0 +1,45 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Alexander Verkouille</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Jonas Callewaert</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Robin Van Hulle</Player>
+  </Players>
+  <Time>
+    <Year>2014</Year>
+    <Month>10</Month>
+    <Day>12</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>FC 't Dorp</TeamName>
+  </Against>
+  <Score>
+    <Home>3</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Alexander Verkouille</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Alexander Verkouille</Scored>
+      <Assist>Wout Veranneman</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend stond de match tegen FC 't Dorp op het programma. Na een collectieve off-day gingen De Krisnaldo's helaas met 3-2 de boot in.</Paragraph>
+    <Paragraph>Net zoals twee weken terug kenden we opnieuw een dramatische start: na 5 minuten spelen stond het al 1-0 voor FC 't Dorp. Zo waren we al snel op achtervolgen aangewezen en was het moeilijk om in de wedstrijd te komen. Een compact spelend 't Dorp kon ons telkens makkelijk opvangen, waardoor we bijna geen enkele doelkans konden creëren. Tien minuten voor rust slaagden we er dan toch eens in om door hun achterhoede te breken: Alexander Verkouille schoof de bal met links binnen en maakte 1-1 gelijk. Met deze stand gingen we na een teleurstellende eerste helft dan ook de rust in.</Paragraph>
+    <Paragraph>We beseften dat we in tweede helft beter moesten beginnen voetballen om deze ploeg te kloppen. Na rust probeerden we ook wat hoger te spelen, maar konden onvoldoende tempo in de wedstrijd krijgen om de tegenstander te ontwrichten. Te veel slechte passes en mislukte controles maakten het onmogelijk om voor gevaar te zorgen.</Paragraph>
+    <Paragraph>De situatie werd nog dramatischer wanneer FC 't Dorp de 2-1 kon scoren. Nu probeerden we nog meer druk naar voor te zetten, maar ook dat werd afgestraft en zo stond het plots 3-1. In de slotfase konden we nog milderen tot 3-2: na een knappe combinatie via Wout Veranneman kon Alexander Verkouille zijn tweede van de dag maken. De aansluitingstreffer kwam helaas te laat en zo verliezen we voor de eerste maal in de competitie.</Paragraph>
+    <Paragraph>Laat deze wedstrijd een lesje in nederigheid zijn, die aantoont dat we geen enkele tegenstander mogen onderschatten. In het klassement komen we nu op de tweede plaats te staan en neemt leider Sportief Exclusief een kleine voorsprong. Volgende week hebben we de kans om ons te herpakken tegen 't Zwarte Gat 2.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

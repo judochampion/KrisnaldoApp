@@ -1,0 +1,38 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Jonas Callewaert</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Tijs Houvenaeghel</Player>
+    <Player>Thomas Deruyter</Player>
+    <Player>Robin Van Hulle</Player>
+  </Players>
+  <Time>
+    <Year>2014</Year>
+    <Month>11</Month>
+    <Day>23</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>Jong CD&amp;V Dark</TeamName>
+  </Against>
+  <Score>
+    <Home>0</Home>
+    <Away>0</Away>
+  </Score>
+  <Goals />
+  <Report>
+    <Paragraph>Deze ochtend trok de Krisnaldo karavaan naar Lichtervelde om het op te nemen tegen Jong CD&amp;V. Na een draak van een wedstrijd eindigde het duel op een troosteloos 0-0 gelijkspel.</Paragraph>
+    <Paragraph>Na een gezamenlijk nachtje stappen bleek het voor velen moeilijk om zondagochtend op scherp te staan. Sommigen kwamen te laat en anderen kwamen al helemaal niet, diegene die dan nog op het veld stonden leken meer op zombies dan voetballers.</Paragraph>
+    <Paragraph>Over de wedstrijd zelf valt er weinig te zeggen, op geen enkel moment konden we een vuist maken en zo kwamen we telkens te laat. Een festival aan slechte passes en controles zorgde ervoor dat de spektakelwaarde ver onder het vriespunt zakte. Het was zelfs nog Jong CD&amp;V die de beste kansen had, gelukkig voor ons stond hun vizier niet op scherp en konden we nog blij zijn met een 0-0 eindstand.</Paragraph>
+    <Paragraph>Door dit puntenverlies wipt Sportief Exclusief terug over ons en zijn we opnieuw op achtervolgen aangewezen.</Paragraph>
+    <Paragraph>Volgende week gaan we bekeren. Het bekersysteem zit behoorlijk ingewikkeld in elkaar wat u vooral moet onthouden is dat we in de hoogste reeks uitkomen dankzij onze ruime winst in de vorige ronde (4-1 tegen de turbo's). Onze tegenstander zijn de Blue Stars die momenteel mee aan de leiding staan in de B-reeks. Hopelijk zijn we volgende week frisser en kunnen we de prestatie van deze week snel vergeten.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

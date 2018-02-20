@@ -1,0 +1,35 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Maarten Missine</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Alexander Verkouille</Player>
+    <Player>Joachim Ally</Player>
+    <Player>Sam Decoene</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>2</Month>
+    <Day>19</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>KWB Don Bosco</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>0</Away>
+  </Score>
+  <Goals />
+  <Report>
+    <Paragraph>Deze ochtend werd in Wijnendale de kraker van de 21ste speeldag afgerond. De Krisnaldo's namen het er op tegen Don Bosco. Na een zware strijd moesten de geel blauwen huiswaarts keren met een 1-0 nederlaag.</Paragraph>
+    <Paragraph>Na enkele klinkende overwinningen en de heroverde koppositie moesten we het ditmaal opnemen tegen een te duchten tegenstander. Don Bosco stond 3e in de stand en bij winst konden we dus een uitstekende zaak doen. Onmiddellijk bij de aftrap was duidelijk dat Don Bosco met recht in rede meedoet bovenin het klassement. We hadden het moeilijk en mede dankzij enkele uitstekende reddingen van doelman Brecht Degezelle konden we ons gelukkig prijzen dat de score 0-0 bleef. Na zo'n 20 tal minuten kwamen we dan toch ook meer in de wedstrijd. Pieter Vermandere &amp; Wout Veranneman waren het meest bedrijvig voorin al kwam het nooit echt tot uitgespeelde kansen. Stand bij de rust 0-0 en een kleine zucht van opluchting dat we de eerste helft zonder kleerscheuren hadden overleefd.</Paragraph>
+    <Paragraph>In de tweede helft konden we dan toch enigszins de thuisploeg bijbenen qua balbezit maar de Torhoutenaren bleven dankzij hun snelle spitsen wel het gevaarlijkst. Halfweg de 2e helft gebeurde dan toch wat al veel langer in de lucht hing. Dom balverlies op het middenveld en de thuisspits kon de 1-0 op het bord plaatsen. Niet veel later volgde dan toch een sprankeltje hoop. Wout Veranneman kon de doelman lobben, die sloeg de bal weg al deed hij dat wel buiten zijn 16 meter gebied. Een logische rode kaart volgde en zo konden we nog zo'n 15 minuten tegen 10 man, inclusief onwennige doelman, spelen. Helaas konden we offensief veel te weinig forceren en kon de thuisploeg makkelijk stand houden.</Paragraph>
+    <Paragraph>Een 1-0 verlies dus en zo zakken we terug naar de 3e plaats. Volgende week spelen we tegen nummer 4: VK 't Zwarte Gat. Een ploeg die sinds de winterstop aan een indrukwekkende opmars bezig is. We rekenen daarom op onze Ultranaldo's om ons opnieuw volop te steunen.</Paragraph>
+  </Report>
+</Match>

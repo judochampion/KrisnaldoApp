@@ -1,0 +1,51 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Janneman Schouteten</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>2</Month>
+    <Day>5</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>AC 't Rozeke</TeamName>
+  </Against>
+  <Score>
+    <Home>2</Home>
+    <Away>5</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="2">
+      <Scored>Joachim Ally</Scored>
+      <Assist>Martijn Vandaele</Assist>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="4">
+      <Scored>Benjamin De Geest</Scored>
+      <Assist>Pieter Vermandere</Assist>
+    </Goal>
+    <Goal sequence="5">
+      <Scored>Brecht Houvenaeghel</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend stond alweer de 19de speeldag in de razend spannende RLV competitie op het programma. De Krisnaldo's trokken naar Koolskamp, bekend om zijn wonderlijke agrarische landschappen. De sympathieke gastheer was AC 't Rozeke. Na een flitsende wedstrijd kon het geel-blauwe legioen terug huiswaarts keren met een vooroorlogse 2-5 overwinning.</Paragraph>
+     <Paragraph>5 februari, een dag die met stip staat aangeduid in iedere Krisnaldo agenda. Het is vandaag namelijk de verjaardag van onze held: Cristiano Ronaldo dos Santos Aveiro, CR7 voor de vrienden. Een speciale dag dus en dat inspireerde ons ook. Onmiddellijk na de aftrap een felle start waarbij we onmiddellijk ten aanval trokken. De 0-1 voorsprong volgde dan ook snel. Joachim Ally zette zich in zijn typerende stijl door op de rechterflank, haalde de achterlijn en legde mooi achteruit. De thuisverdediging was zodanig onder de indruk dat ze de voorzet dan maar zelf in eigen doel trapten: 0-1.</Paragraph>
+    <Paragraph>'t Rozeke probeerde daarna te herstellen maar kreeg geen millimeter ruimte van de Krisnaldo pletwals. Wie pletwals zegt, zegt Joachim Ally want niet veel later stoomde hij al opnieuw op doel af. Deze keer probeerde hij het over links, op kracht en snelheid langs al de verdedigers om daarna de doelman in de korte hoek te kloppen: 0-2. Door onze aanhoudende pressing werd de thuisploeg meer en meer tot foute passes gedwongen. Een van die foute passes werd onderschept door Wout Veranneman, na een sterke rush en een knappe slalom doorheen de verdediging plaatste hij koelbloedig de 0-3 op het bord. De Koolskampenaars in zak en as en wij monopoliseerden de bal.
+      De 0-4 die daaruit volgde was zonder twijfel de mooiste van de ochtend. Een aanval waarbij ongeveer iedere Krisnaldo een voet in had, 't Rozeke werd volledig uit verband gespeeld en het was uiteindelijk Pieter Vermandere die de bal op het hoofd van kapitein Benjamin De Geest schilderde:0-4. De honger naar goals was echter nog niet gestild. Brecht Houvenaeghel intercepteerde de bal op het middenveld, gezwind langs enkele verdedigers om daarna de onfortuinlijke thuisdoelman overhoeks te verschalken. Net zoals vorige week dus opnieuw 0-5 aan de rust.</Paragraph>
+    <Paragraph>Perfect naar analogie met de week voordien was de tweede helft opnieuw een heel stuk minder. Enige verschil was dat de tegenstander van vandaag daar wel beter van kon profiteren. Halfweg de tweede helft kreeg 't Rozeke een strafschop. Een uitgelezen kans voor de thuisploeg al had iedere Krisnaldo toen al vertrouwen in een goede afloop. Penaltyspecialist Brecht Degezelle koos de goede hoek en stopte op indrukwekkende wijze de 11 meter. Op de counter kregen we daarna enkele grote kansen maar het overzicht en de scherpte die er in de 1e helft was ontbrak nu. Uiteindelijk moesten we toch nog 2 tegendoelpunten incasseren. Een kleine domper al primeerde toch de euforie na een knappe 2-5 overwinning.
+      Wat dit betekent in het klassement kunnen we u helaas nog niet meegeven. Bij het ter perse gaan van dit journalistieke hoogstandje was de RLV webmaster nog bezig zijn PC te updaten naar Windows 95. Wij deden in ieder geval wat we moesten doen, namelijk winnen en als het even kan het doelsaldo wat aanscherpen. Volgende week staat de clash om de CERA op het programma tegen de Turbo's. Tot dan!</Paragraph>
+  </Report>
+</Match>

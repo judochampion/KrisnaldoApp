@@ -1,0 +1,56 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Brecht Degezelle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Janneman Schouteten</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Alexander Blondeel</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>08</Month>
+    <Day>07</Day>
+  </Time>
+  <Against role="away" type="tournament">
+    <TeamName>VC Rollegem-Kapelle</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Sam Decoene</Scored>
+      <Assist>Wout Veranneman</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>We zijn er aan begonnen! De jacht naar eeuwige roem en triomftochten is begonnen. De Krisnaldo's begonnen het seizoen 2016-2017 tegen Rollegem Kapelle en verloren na een meer dan aangename wedstrijd met 1-2.</Paragraph>
+    <Paragraph>
+      Na een veel te lange zomerstop zou je verwachten dat de wedstrijd pas langzaam op gang zou komen maar met 2 aanvallend ingestelde ploegen kwam daar weinig van in huis. De Rollegemnaars, die in reeks A spelen, beschikten over voldoende voetballende kwaliteiten en lieten de bal goed rondgaan. Ook wij speelden aardig mee al resulteerde dat aanvankelijk tot weinig doelrijpe kansen.Halfweg de eerste helft dan toch wat opschudding. Wout Veranneman zette zich goed door en leek de doelman aan de eerste paal te vloeren, niet over de lijn oordeelde de scheidsrechter en ook bij de herneming van Joachim Ally zag de brave man er geen doelpunt in. Een discutabele fase en een duidelijk pleidooi voor doellijntechnologie op de CERA. Doelpunt of niet ons vertrouwen nam wel toe en we begonnen steeds meer druk uit te oefenen. Op hoekschop kopte Benjamin De Geest op de kruising en ook een poging van Sam Decoene eindigde op de paal. Rusten deden we bij 0-0.
+    </Paragraph>
+    <Paragraph>
+      De opzet van de 2e helft liep wat moeizaam. Iedereen zag op het afgelopen EK dat de regelgeving omtrent de aftrap volledig veranderd zijn. Onze scheidsrechter had jammer genoeg een maand onder een rots geleefd en koos voor het klassieke concept. Op zich maakt het weinig uit al is het toch opmerkelijk dat een zogenaamde voetballiefhebber dit niet weet. Na dit kleine akkefietje konden we weer verder en namen we meer en meer het commando over, na enkele kleinere kansjes was het dan toch raak. Joachim Ally kon zich goed doorzetten over de rechterflank, legde daarna goed af bij Wout Veranneman, die zag zijn poging van dichtbij nog door de doelman gered maar gelukkig was Sam Decoene goed gevolgd en jaagde hij de bal het dak van het doel in: 1-0. Een verdiende voorsprong.
+    </Paragraph>
+    <Paragraph>
+      De blauwhemden hadden op dat moment nog maar weinig laten zien in de 2e helft tot ze plots na een hoekschop via een afvallende bal staalhard de gelijkmaker konden scoren.1-1, onhoudbaar voor debutant Brecht Degezelle en alles te herdoen.
+      Vol goede moed en een tikkeltje naïviteit gingen we verder op zoek naar een 2e goal. Maar dat de voetbalwetten soms bikkelhard kunnen zijn werd in de slotminuten pijnlijk duidelijk, op de tegenaanval kregen we nog een 2e tegendoelpunt te verwerken en verloren we met 1-2. Een pijnlijk verlies dus al was het wedstrijdverloop toch veelbelovend met het oog op de RLV competitie.
+    </Paragraph>
+    <Paragraph>
+      Na de wedstrijd volgde er ook nog een penaltyreeks, die wonnen we wel met 4-3. Scoorden vanop de stip:
+      - Sam Decoene
+      - Lowie Frimout
+      - Janneman Schouteten
+      - Brecht Houvenaeghel
+    </Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

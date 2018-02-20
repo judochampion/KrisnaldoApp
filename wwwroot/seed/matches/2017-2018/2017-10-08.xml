@@ -1,0 +1,44 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+	<Player>Alexander Blondeel</Player>
+	<Player>Lowie Frimout</Player>
+	<Player>Joachim Ally</Player>
+	<Player>Sam Decoene</Player>
+	<Player>Benjamin De Geest</Player>
+	<Player>Floren Bostoen</Player>
+    <Player>Robin Van Hulle</Player>	
+	<Player>Janneman Schouteten</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Wout Veranneman</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>10</Month>
+    <Day>08</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>DDT Veldegem</TeamName>
+  </Against>
+  <Score>
+    <Home>2</Home>
+    <Away>3</Away>
+  </Score>
+  <Goals>
+    <Goal>
+  <Scored>Joachim Ally</Scored>
+  </Goal>
+    <Goal>
+  <Scored>Joachim Ally</Scored>
+  </Goal>
+  <Goal>
+  <Scored>Wout Veranneman</Scored>
+  </Goal>
+  </Goals>
+  <Report>
+  <Paragraph>Deze ochtend trokken De Krisnaldo's naar Ddt veldegem. Tot onze grote ontgoocheling stond er ons geen agressieve garagist op te wachten, maar kregen we een warm welkom in de Veldegemse infra-fra-structuur.</Paragraph>
+<Paragraph>Alle Krisnaldo's verschenen dan ook gemotiveerd aan de aftrap voor deze toch wel belangrijke wedstrijd. De openingsfase verliep evenwichtig, maar na minder dan 5 minuten moest Alexander geblesseerd het strijdtoneel verlaten. De troosteloze lege bank kon ons niet helpen en dus waren we genoodzaakt de wedstrijd met 10 man verder te zetten. De thuisploeg nam hierdoor al snel het commando volledig over en niet veel later stond het ook 1-0. Het leek een lastige ochtend te worden, maar we toonden ons weerbaar. Martijn zakte een rijtje achteruit waardoor de verdedigende stellingen beter gehandhaafd konden worden. Voorin was het voor snelle jongens Wout en Joachim loeren op de omschakeling. Naar het einde van de eerste periode toe kwamen we op die manier ook op gelijke hoogte. Joachim kon zich centraal op kracht en snelheid doorzetten om dan technisch beheerst af te werken: 1-1. De roodhemden leken even aangeslagen en in het slot van de eerste helft kwamen we na pogingen van Sam en Brecht Houvenaeghel nog bijna op voorsprong.</Paragraph>
+<Paragraph>1-1 aan de rust en de Veldegemnaren trokken de kleedkamer in. Wij kozen ervoor om buiten onze rust te nemen en zo voeling te houden met de grasmat. Een schijnbaar banaal verschil maar wij begonnen wel duidelijk veel feller aan de tweede helft. Een voorzet vanop links werd door Floren goed achteruit gekopt en Joachim frommelde de 1-2 voorbij de onfortuinlijke doelman. We gingen even op dat elan verder en versierden enkele hoekschoppen. Ook daarop toonde Joachim zich heel aanwezig, maar pech en een sterke doelman hielden hem van een hattrick. De dieselmotor van de thuisploeg kwam nu toch weer gang waardoor we verder toch de wedstrijd opnieuw moesten ondergaan. Verdedigend sloten we prima de rangen waardoor we geen enkele kans weggaven. Helaas is zo laag verdedigen altijd een beetje spelen met vuur en kon Veldegem toch de 2-2 gelijkmaker binnenprikken. De thuisploeg had nu bloed geroken en ging voluit voor de overwinning. Ze lieten daarbij veel ruimte in de rug en dat weet de altijd op de loer liggende Wout als geen ander te benutten. Zijn (afgeweken) schot paste precies onder de lat en zo zette onze nummer 7 de 2-3 eindstand op het bord.</Paragraph>
+<Paragraph>Technisch was het zeker niet de beste wedstrijd maar om met 10 man 2-3 te gaan winnen in Veldegem onderstreept nog maar eens ons grote mentale en fysieke vermogen. Door deze 3 punten nestelen we ons nu in de buik van het klassement. Volgende week komt het nummer 2, VK Denys, op bezoek.</Paragraph>
+  </Report>
+</Match>

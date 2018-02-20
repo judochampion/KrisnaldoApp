@@ -1,0 +1,44 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Janneman Schouteten</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>02</Month>
+    <Day>28</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>De Turbo's</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Brecht Houvenaeghel</Scored>
+      <Assist>Floren Bostoen</Assist>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Janneman Schouteten</Scored>
+      <Assist>Wout Veranneman</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend stond de stadsderby op het programma. De Krisnaldo's namen het op tegen De Turbo's. Na een pittige duel in "De Strijd om de CERA" mocht geel-blauw huiswaarts keren met een meer dan verdiende 1-2 overwinning.</Paragraph>
+    <Paragraph>Het wedstrijdbegin verliep wat stroef mede door een bevroren ondergrond en een veld die eruit ziet als de Westhoek anno 1918. Na een korte aanpassingsperiode aan de vervelende stuiten namen we toch de bovenhand. De bal ging goed rond en de thuisploeg kroop achteruit. De turboverdedigers hadden hun handen vol met enerzijds een sterke Joachim Ally en via de linkerflank kwam het gevaar van de vinnige Martijn Vandaele. Voeg daarbij nog goed opkomende backs en een infiltrerend middenveld, dan weet je dat we het systeem van meestertacticus Carl Frimout zo stilaan onder de knie hebben. Na enkele kleinere kansen en vele hoekschoppen werd ons overwicht uiteindelijk ook verzilverd in een 0-1 voorsprong. Floren Bostoen maakte de actie over rechts, legde mooi af en het was Brecht Houvenaeghel die de bal in de linkerbenedenhoek binnenduwde. Een verdiende voorsprong, helaas hebben de voetbalgoden het op ons gemunt dit seizoen. 5 minuten voor de rust kregen we toch een doelpunt tegen. Een goal die letterlijk en figuurlijk uit de lucht kwam gevallen. De turbospits knalde vanop zo'n 40 meter de bal recht vooruit en als bij wonder viel het leer achter onze verbouwereerde doelman Lowie Frimout in doel. Als die spits het zo bedoeld had is het een wereldgoal al durven we hier toch van een grote portie geluk spreken. Na deze domper gingen we de kleedkamer in met een 1-1 gelijkspel.</Paragraph>
+    <Paragraph>Na rust een zelfde spelbeeld. Het balbezit was voor ons en Reinout Pattyn dirigeerde het spel. Mogelijkheden waren er genoeg maar een stevige turboverdediging en een goede doelman zorgden ervoor dat de bordjes in evenwicht bleven. 10 minuten voor affluiten was de verlossende 1-2 dan toch een feit. Na een actie van Wout Veranneman was het Janneman Schouteten die de bal staalhard in de benedenhoek ramde. Eindelijk stond het 1-2 en de overwinning mocht ons deze keer niet ontglippen. De thuisploeg begon nu toch wat meer aan te dringen maar Simon De Taeye &amp; Pieter-Jan Soenen hielden de boel goed op slot. We kwamen niet meer in de problemen en konden zo de wedstrijd met een verdiende 1-2 overwinning afsluiten.</Paragraph>
+    <Paragraph>In het klassement verstevigen we zo onze plaats in de middenmoot. De heimelijke ambitie om in de top 5 te eindigen koesteren we nog steeds al wordt ook ons bekeravontuur minstens even interessant. De kortste weg naar Europa wordt wel eens gezegd, voor ons misschien wel de kortste weg om eindelijk eens een hoofdprijs in de wacht te slepen.</Paragraph>
+  </Report>
+</Match>

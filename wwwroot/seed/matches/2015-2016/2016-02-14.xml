@@ -1,0 +1,43 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Janneman Schouteten</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>02</Month>
+    <Day>14</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>AC 't Rozeke</TeamName>
+  </Against>
+  <Score>
+    <Home>2</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Joachim Ally</Scored>
+      <Assist>Wout Veranneman</Assist>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Benjamin De Geest</Scored>
+      <Assist>Sam Decoene</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Na twee afgelastingen op rij waren de Krisnaldo’s enorm blij dat ze eindelijk nog eens het veld op konden. Op de CERA in Ardooie ontvingen we de rode lantaarn van de B-reeks. Dat wordt een makkelijke overwinning hoor ik je al denken. Op deze mooie Valentijnsdag had A.C. ’t Rozeke echter geen 7 anjers en rozen mee, maar dertien oerdegelijke spelers, die vastbesloten waren het ons zo moeilijk mogelijk te maken.</Paragraph>
+    <Paragraph>Moeder Natuur had nogal veel last van een overvolle blaas deze week, het veld lag er dan ook drassig bij toen er afgetrapt werd. De boomlange Dries Sticker, die zijn comeback maakte na een vervelende knieblessure, moest al meteen enkele hoge ballen uit de lucht plukken. Maar het was aan de overkant dat de score geopend werd. Na een mooi opgebouwde aanval kwam de bal bij Wout Veranneman terecht. Hij behield mooi het overzicht en vond via een voorzet zijn spitsbroeder Joachim Ally aan de tweede paal, die overhoeks de bal in het mandje buffelde. Net als tegen Werken werd er ook nu weer aan een cornerfestival begonnen. Vanop beide kanten zorgde linksachter Sam Decoene voor afgemeten voorzetten, die keer op keer voor gevaar zorgden. Zo was de duelkrachtige Wout er heel dicht bij om na een assist ook een goaltje mee te pikken. Helaas stond er nog een Rozeke-speler klaar om zijn kopbal van de lijn te halen. Geheel tegen de gang van het spel in kwamen de hekkensluiters toch langszij. Met het nodige geluk versierden ze een penalty. Dries probeerde de baardige Joey op het verkeerde been te zetten, maar helaas, de gelijkmaker was een feit. Wout kon dit maar moeilijk verkroppen en besloot meteen de vijandelijke keeper te torpederen. De keeper kon de bal niet klem nemen en Janneman Schouteten was goed gevolgd. Onbesuisd mikte hij de bal van dichtbij nog over. Hoge bomen vangen veel wind, luidt het spreekwoord… maar blijkbaar ook soms ballen. Toen beide ballen in de bomen vast bleken te zitten, besloot de scheidsrechter de eerste helft twee minuten voor tijd af te fluiten.</Paragraph>
+    <Paragraph>De koffie van de scheidsrechter was op en daarmee ook onze welverdiende rusttijd. In deze rusttijd werd er uiteraard druk gediscussieerd over hoe we deze partij toch nog in ons voordeel konden beslechten. Trainer Carl Frimout toverde een konijn uit zijn hoed. Martijn Vandaele, die niet gestart was door maagklachten, mocht het veld betreden als spelverdeler. Dat deed hij duidelijk veel liever dan de WC-bril warm houden de nacht voordien, want onder zijn impuls volgden er een resem kansen. Het overgrote deel van die kansen werd echter geneutraliseerd door Rozeke-topverdediger Korneel, die de match in de match met Krisnaldo-schoonbroer Pieter-Jan lijkt gewonnen te hebben. Gelukkig was het cornerfestival nog altijd niet afgelopen, en het was uiteindelijk onze Grote Leider, Kim Jong-Un, euh… ik bedoel Benjamin De Geest, die ons verloste met een van zijn typische kopbalgoals. Een overwinning leverde dit niet op, want net voor affluiten was er nog een klein misverstandje in onze anders heel goed georganiseerde verdediging. 2-2 was het toch wel frustrerende eindverdict.</Paragraph>
+    <Paragraph>Volgende week moet het beter, want dan spelen we tegen onze Sleihaagse vrienden voor de kwartfinales van de beker. Twee dagen eerder staat er echter een even belangrijk evenement op het programma, de tweede editie van de Kwisnaldo’s!</Paragraph>
+  </Report>
+</Match>

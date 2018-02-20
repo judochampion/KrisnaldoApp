@@ -1,0 +1,51 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Robin Van Hulle</Player>
+	<Player>Reinout Pattijn</Player>
+	<Player>Benjamin De Geest</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Lowie Frimout</Player>
+	<Player>Pieter Vermandere</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Wout Veranneman</Player>
+	<Player>Joachim Ally</Player>
+    <Player>Bartel De Brabandere</Player>
+    <Player>Floren Bostoen</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>10</Month>
+    <Day>22</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>KWB Don Bosco</TeamName>
+  </Against>
+  <Score>
+    <Home>4</Home>
+    <Away>0</Away>
+  </Score>
+  <Goals>
+    <Goal>
+  <Scored>Wout Veranneman</Scored>
+  </Goal>
+    <Goal>
+  <Scored>Martijn Vandaele</Scored>
+  <Assist>Wout Veranneman</Assist>
+  </Goal>
+    <Goal>
+  <Scored>Sam Decoene</Scored>
+  <Assist>Joachim Ally</Assist>
+  </Goal>
+    <Goal>
+  <Scored>Floren Bostoen</Scored>
+  </Goal>
+  </Goals>
+  <Report>
+  <Paragraph>Vanochtend stond de partij tegen mede-promovendus KWB Don Bosco op het menu, de snoodaards die ons vorig jaar de titel in tweede afsnoepten. Nu hadden we eindelijk de kans om revanche te nemen. Met maar liefst twee wisselspelers, de comeback van Brecht in doel én een jarige op het plein waren we er helemaal klaar voor.</Paragraph>
+<Paragraph>Kapitein Benjamin bewees meteen dat hij goed had opgelet in de cursus waarzeggen en won de toss. Hij koos om te blijven staan, waardoor de tegenstander mocht opzetten. Met vlot combinatiespel probeerden ze ons te domineren. In het middenveld ging dit aardig, maar vanaf ze de zone van de waarheid naderden waren centrale verdigers Robin en Pieter-Jan er telkens met een gepaste tussenkomst. Na een kwartiertje kwamen ook wij meer in ons spel. Brecht zette mooi voor en de kopbal van Joachim ketste jammer genoeg af op de paal. De eerste goal liet niet lang meer op zich wachten. Pieter stuurde vanop de eigen helft een spectaculair hoge bal richting het Ardooise luchtruim. Met de lieftallige hulp van een 'stekkende' zon was de Torhoutse verdediger verblind en kopte hij naaste de bal. Aasgier Wout was heel attent, controleerde het leer en schoof de bal makkelijk binnen. Dat hij het ook kan als aangever, bewees Wout enkele tellen later. Martijn, die vandaag zijn leeftijd al met eentje had verhoogd, deed hetzelfde met de score. Opzetten hoefde niet meer aangezien de scheids meteen affloot voor een welverdiend kwartiertje rust.</Paragraph>
+<Paragraph>Coach Carl zag dat onze wisselspelers stonden te popelen om het veld te betreden. Robin mocht na het knappe verdedigende werk gaan rusten voor Reinout, en Floren kwam erin voor assistgever Pieter. De in het blauw uitgedoste verdedigers bleven maar blauwtjes lopen. Na zwak uitvoetballen onderschepte Joachim de bal. Hij legde de bal breed, waarop de snel opgerukte Sam de derde van de ochtend kon binnenknallen. De match was gespeeld en het tempo zakte nu dramatisch. Rechtsback Lowie, sterk op dreef de laatste weken, stak onze Hoogleedse krullenbol Floren verschillende malen diep. Bij elke kans die daaruit resulteerde, vatte hij slim post voor de afvallende bal. En wanneer dat ene kansje zich aandiende, pakte hij de keeper tegenvoets voor zijn eerste van het seizoen. De forfaitscore kwam nu akelig dichtbij, maar het mocht niet zijn. De mooie dribbel en ditto schot van Benjamin en het kanonschot van Wout hadden beter verdiend.</Paragraph>
+<Paragraph>Na twee thuismatchen volgt volgende week opnieuw een verplaatsing naar het verre Zwevezele voor een match tegen Dujardin Foods. Een te duchten tegenstander, want met zes goals hebben ze de topscorer van reeks A in hun rangen.</Paragraph>
+  </Report>
+</Match>

@@ -1,0 +1,67 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Janneman Schouteten</Player>
+    <Player>Joachim Ally</Player>
+    <Player>Sam Decoene</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>2</Month>
+    <Day>12</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>De Turbo's</TeamName>
+  </Against>
+  <Score>
+    <Home>8</Home>
+    <Away>0</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Benjamin De Geest</Scored>
+      <Assist>Martijn Vandaele</Assist>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Benjamin De Geest</Scored>
+      <Assist>Joachim Ally</Assist>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Brecht Houvenaeghel</Scored>
+      <Assist>Joachim Ally</Assist>
+    </Goal>
+        <Goal sequence="4">
+      <Scored>Floren Bostoen</Scored>
+      <Assist>Wout Veranneman</Assist>
+    </Goal>
+    <Goal sequence="5">
+      <Scored>Joachim Ally</Scored>
+      <Assist>Floren Bostoen</Assist>
+    </Goal>
+    <Goal sequence="6">
+      <Scored>Sam Decoene</Scored>
+      <Assist>Floren Bostoen</Assist>
+    </Goal>
+    <Goal sequence="7">
+      <Scored>Joachim Ally</Scored>
+    <Assist>Wout Veranneman</Assist>
+    </Goal>
+     <Goal sequence="8">
+      <Scored>Sam Decoene</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+   <Paragraph>Na de twee klinkende uitzeges van de voorbije weken kwamen we na drie weken opnieuw op de CERA voetballen. De tegenstanders waren de Turbo's, een stugge ploeg waar we in de heenronde op 1-1 bleven tegen steken. Op het vroege uur van kwart voor negen werd de match op gang gefloten door de kordate scheidsrechter.</Paragraph>
+<Paragraph>We grepen de tegenstander meteen naar de keel. Sam Decoene zette een mooie actie op en speelde het balletje breed op Martijn Vandaele. De sluwe nummer tien zag echter dat kapitein Benjamin De Geest iets beter stond opgesteld en liet de bal verrassend richting hem rollen. Die laatste kreeg vrij veel tijd aan de rand van het strafschopgebied en verschalkte de keeper met een laag afstandsschot in de rechterbenedenhoek. Nauwelijks vijf minuten later onderschepte onze kapitein een bal en stak Joachim Ally diep. Die zette voor en na een wat twijfelachtig optreden van de katerende keeper tekende alweer Benjamin voor zijn elfde van het seizoen. De derde goal was er één met een typische dribbel van Wout op links. Hij passte naar Joachim, die de bal even kon bijhouden. Brecht Houvenaeghel was goed gevolgd en vroeg op het juiste moment de bal. Met een knal prikte hij de 3-0 tegen de touwen. En zo leek na een kwartier voetballen de match beslist. De vierde van de ochtend begon weer met dribbelkont Wout. Nu zag hij de dappere Floren Bostoen zich slim vrijlopen voor het doel. 4-0. Maar de vijfde, nee, die ging nog niet binnen. Met slechts 4-0 op het scorebord doken we zo de kleedkamer in. Zelfkritisch als we zijn waren we niet helemaal tevreden, aangezien we de vorige twee wedstrijden vijf doelpunten voor stonden aan de rust.</Paragraph>
+<Paragraph>In de tweede helft leken de Turbo's hun turbo-knop toch gevonden te hebben. Ze kwamen enkele keren opzetten en een kopbal van dichtbij was hun beste kans van de ochtend. In de counter die daarop volgde kon Floren Joachim lanceren. De verdediging van de Turbo's stond wel heel hoog opgesteld, waardoor de aanvallers konden vertrekken van hun eigen helft en zo buitenspel vermeden. Joachim aarzelde wat maar kon de vijfde van de ochtend toch onder de keeper binnenschuiven. De zesde was misschien nog het mooist van allemaal, omdat die toont dat we heel volwassen voetballen. Onze keeper Brecht speelde Sam aan, die meteen Floren lanceerde. Omdat Floren enig mooi de bal in een volley in het mandje legde, kon Brecht zelf een pre-assist op zijn conto schrijven. Nummer zeven begon bij rugnummer zeven. Wout legde af op spitsbroeder Joachim, die de bal nu kon afschermen van zijn verdediger en in een vallende beweging de keeper overhoeks kon kloppen. En nee, het was nog niet genoeg... ook Sam achtte zijn kans schoon om nog eens op wandel te gaan en slalomde zich voorbij enkele Turbopionnetjes naar het achtste doelpunt. En onze verdediging, die beleefde een rustige ochtend. En als er dan eens een doorbraak was van onze tegenstander, smoorden ze die aanval meteen in de kiem. Het laatste fluitsignaal moet nog nooit zo verlossend geklonken hebben voor de Turbo's.</Paragraph>
+<Paragraph>Door het gelijkspel van GZ Tube en en VK Zwarte Gat nemen we op twee concurrenten een iets grotere voorsprong. Overtuigend blijven we alleen op kop. Volgende week volgt een topper tegen KWB Don Bosco, die ons op de hielen staat als derde in het klassement. Supporters op post!</Paragraph>
+  </Report>
+</Match>

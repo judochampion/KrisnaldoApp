@@ -1,0 +1,50 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Janneman Schouteten</Player>
+    <Player>Maarten Missine</Player>
+    <Player>Alexander Verkouille</Player>
+    <Player>Bartel De Brabandere</Player>
+    <Player>Benjamin De Geest</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>3</Month>
+    <Day>26</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>VPA Sleihage</TeamName>
+  </Against>
+  <Score>
+    <Home>4</Home>
+    <Away>0</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Benjamin De Geest</Scored>
+    </Goal>
+      <Goal sequence="2">
+      <Scored>Bartel De Brabandere</Scored>
+      <Assist>Benjamin De Geest</Assist>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Martijn Vandaele</Scored>
+    </Goal>
+    <Goal sequence="4">
+      <Scored>Sam Decoene</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Zondagmorgen. Terwijl de gemiddelde Vlaming zijn gordijnen opentrok en het ideale weer aantrof om de koersfiets van stal te halen en een tochtje met de vrienden te ondernemen, maakten De Krisnaldo’s zich op om een partijtje voetbal te spelen tegen VPA Sleihage. Uitgeslapen en vol goede moed was de opdracht simpel voor vandaag: zelf winnen en hopen op puntenverlies bij de koploper om nog kans te maken op de titel.</Paragraph>
+    <Paragraph>De partij begon aarzelend en het spel ging op en neer. Maar na een tiental minuten werd het duidelijk dat De Krisnaldo’s de bovenhand haalden en gingen dan ook op zoek naar het eerste doelpunt. Een eerste corner van de geelhemden werd door de Sleihaagse torens nog weggewerkt, maar een tweede corner was dan toch raak. Benjamin en Pieter raakten allebei de bal, maar het was uiteindelijk Benjamin die het doelpunt op zijn naam kreeg. Zo blijft hij zijn ambities gaaf houden om topscorer te worden bij De Krisnaldo’s dit jaar. Onze spitsen zijn gewaarschuwd. Niet veel later werd opnieuw een aanval opgezet door de onzen. Benjamin zijn schot werd eerst nog gepareerd door de keeper, maar gelukkig was Bartel goed gevolgd en legde zo de tweede goal in het mandje wat tevens ook de ruststand werd.</Paragraph>
+    <Paragraph>Met het inbrengen van Maarten ‘the Missile’ Missinne werd de tweede helft op gang gefloten. Tijdens de rust werd het duidelijk dat we zo snel mogelijk op zoek moesten naar de verlossende derde goal om VPA Sleihage niet in de match te laten komen. Een boodschap die Martijn Vandaele duidelijk had begrepen. Na enkele minuten in de tweede helft drong hij door op de linkerflank en zette de keeper op het verkeerde been door aan de achterlijn de bal nog netjes tussen de linkerpaal en de bezoekende keeper te placeren. De 3-0 was een feit, maar het zette onze Krisnaldo’s nog meer aan om voor het volgende doelpunt te gaan. Het overwicht werd nu nog duidelijker en onze keeper Brecht ging een rustige tweede helft tegemoet. Door de ijzersterk spelende verdediging kon hij al dagdromen over de ongetwijfeld sensationele koers die hem deze middag te wachten staat. Na een actie centraal werd Janneman foutief afgestopt op een vijftal meter van het strafschopgebied. Sam zette zich achter de bal en, nadat hij in de eerste helft al het doelhout trof met een vrije trap, was het deze keer wel raak met een harde knal in de linkerhoek van het doel. 4-0 en de tegenstand compleet choco gespeeld. Op het einde van de tweede helft kregen we nog kansen maar vergaten deze af te werken. Ook Sleihage kreeg nog een uitstekende kans op de eerredder, maar de kans werd van dichtbij naast getrapt. Zo werd de wedstrijd afgefloten met een 4-0 overwinning voor De Krisnaldo’s.</Paragraph>
+    <Paragraph>Onze opdracht was volbracht. Helaas liet ook KWB Don Bosco geen steek vallen met een 1-6 overwinning, waardoor we op 1 punt blijven hangen van de koppositie. Nog twee wedstrijden te gaan in deze razend spannende ontknoping van reeks B in het RLV. Volgende week op zoek naar de drie punten in de voetbaltempel van Rumbeke!
+    Deze ochtend trok de Krisnaldo karavaan naar het vredige Dominiek Savio waar de stoere mannen van VK 't zwarte gat klaar stonden om onze scalp te veroveren. De Krisnaldo's waren hen echter iets te vlug af en wonnen verdiend met 1-2.</Paragraph>
+  </Report>
+</Match>

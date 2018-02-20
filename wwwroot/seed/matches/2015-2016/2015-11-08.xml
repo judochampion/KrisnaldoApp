@@ -1,0 +1,44 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Alexander Blondeel</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>11</Month>
+    <Day>08</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>De Turbo's</TeamName>
+  </Against>
+  <Score>
+    <Home>2</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Benjamin De Geest</Scored>
+      <Assist>Stijn Vansteenkiste</Assist>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Wout Veranneman</Scored>
+      <Assist>Stijn Vansteenkiste</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Na twee uitmatchen konden de fans deze week eindelijk nog eens op het vertrouwde veld van de CERA hun helden komen aanmoedigen. Tegenstanders van dienst waren de ervaren Turbo’s, een ploeg waar we in de voorbereiding al eens tegen wonnen. Na de overwinning van vorige week hoopten we in deze nieuwe degradatietopper ons definitief te lanceren richting veiliger wateren.</Paragraph>
+    <Paragraph>De match begon niet zoals gehoopt. Na nog geen twee minuten op de klok kwamen we al op achterstand. Er was niet eens sprake van een echte kans. Misschien dat de spits iets te veel tijd kreeg om aan te leggen, maar het was toch vooral door zijn individuele klasse dat hij vanop zo’n 2 decameter mooi aanlegde en keeper Lowie Frimout verschalkte. De vroege achterstand prikkelde ons om er een geanimeerde wedstrijd van te maken. Kans na kans werd bijeengevoetbald op verschillende manieren: nu eens langs de rechterflank van Joachim Ally, dan eens met een lange bal richting targetspits Wout Veranneman, niet veel later met een mooi gecombineerde aanval waar op links Sam Decoene alles en iedereen overvleugelde. Zo veel variatie in de karrenvracht kansen, zo weinig variatie in het resultaat: geen doelpunt. De bal wou er frustrerend genoeg maar niet in, en die frustraties minderden niet als we zagen dat de tegenstander al in de eerste helft begon tijd te winnen.</Paragraph>
+    <Paragraph>Gelukkig stond er daar al een hele helft een enthousiaste grensrechter klaar om in te komen, die dekselse Stijn Vansteenkiste. Als nieuwe linksmidden trok hij het spel meteen naar zich toe en probeerde zo openingen te forceren. Maar te veel slordigheden in zijn spel zorgden ervoor dat dat niet meteen kansen opleverde. Het gevaar kwam nu vooral van de oprukkende middenvelders Benjamin De Geest, Floren Bostoen en Brecht Houvenaeghel. De ploeg maande Stijn dan ook aan zich te herpakken en het was uiteindelijk op een assist van hem dat Benjamin De Geest een mooie kopbalgoal maakte. Erop en erover zou je denken, maar het tegengestelde bleek waar. De Turbo’s sloegen opnieuw hun turbomotor aan en na een verre uittrap van de keeper kon die vinnige spits tegen de gang van het spel in scoren: 1-2. De mentale veerkracht van de Krisnaldo’s zorgde er echter voor dat dit niet de eindstand werd. Na een vijandelijke corner kwam de bal bij Stijn die Wout in de diepte zag duiken. Die omspeelde knap de uitgekomen keeper en scoorde zo uit een onmogelijke hoek de oververdiende gelijkmaker. De scheidsrechter keek naar zijn hippe digitale horloge en zag dat er geen tijd meer was voor een derde goal, waardoor we ontgoocheld handjes schudden na deze toch wel faire match.</Paragraph>
+    <Paragraph>Dit is een match waar we ongetwijfeld meer verdienden dan een schamel punt, maar toch vooral moeten besluiten dat we er nog lang niet zijn. Het moet net iets scherper en vooral een stuk efficiënter om in reeks B resultaten neer te zetten. Zeker als we volgende week de derde uit de stand, KWB Don Bosco, het vuur aan de schenen willen leggen.</Paragraph>
+  </Report>
+</Match>

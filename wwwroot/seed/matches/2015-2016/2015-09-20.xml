@@ -1,0 +1,52 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Alexander Blondeel</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>09</Month>
+    <Day>20</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>FC De Sportwereld</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>5</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Benjamin De Geest</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Sam Decoene</Scored>
+    </Goal>
+    <Goal sequence="4">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="5">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend mochten De Krisnaldo's naar het mondaine Torhout trekken om het op te nemen tegen De Sportwereld.De troepen van coach Carl Frimout wonnen met 1-5 en lieten zo,eindelijk, hun eerste overwinning in de B-reeks optekenen.</Paragraph>
+    <Paragraph>Een mooie nazomerdag liet De Krisnaldo's inspireren tot verzorgd combinatievoetbal. De 0-1 voorsprong liet dan ook niet lang op zich wachten. Op hoekschop kwam de bal na wat omwegen bij verloren zoon Benjamin De Geest terecht en die knikte van dichtbij binnen. Zo kwamen we, net als de voorbije 2 weken, opnieuw snel op voorsprong. Een voorsprong vasthouden was ons echter nog niet gelukt. Op jacht naar een veiligere marge dus. Na enkele gemiste pogingen kon Wout Veranneman zich doorzetten en van dichtbij de 0-2 hoog in het dak van het doel te rammen. De sportwereld wou zich nu toch enigszins herpakken en liet ons even achter de bal aanhollen. 1 keer waren ze ook gevaarlijk maar doelman Lowie Frimout ging goed plat om het gevaar te keren. Stand bij de rust:0-2.</Paragraph>
+    <Paragraph>In de tweede helft hadden we de zaken volledig onder controle. Het verdedigende duo Van Hulle-Ally gaf de thuisploeg geen kans en voorin kregen onze spitsen veel ruimte om zich offensief volledig uit te leven. Plezier hadden ze wel maar afwerken blijft toch een heikel punt. Het was linksachter Sam Decoene die dan maar eens toonde hoe het wel moet. Onze nummer 5 kreeg een zee van ruimte en plaatste de bal beheerst in de verste hoek:0-3. Wout Veranneman had goed opgelet en deed nog geen minuut later precies hetzelfde:0-4. Onze absolute vedette Stijn Vansteenkiste wist dan al dat de eerste 3 punten binnen waren en beperkte zich tot een zondagse wandeling. Nadenkend of hij deze avond met de Lamborghini of de Ferrari naar de carré afzakt. De sportwereld kon daarna nog de eer redden. Een onhoudbare bal voor onze goalie en het stond 1-4. Het slotakkoord was wel nog voor ons, Martijn Vandaele liet zijn tegenstander nog maar eens sterretjes zien. Zijn poging strandde op de paal maar gelukkig was Wout Veranneman goed gevolgd en hij tikte de 1-5 eindstand binnen. Een eerste hattrick voor onze spits en zo wordt hij stilaan weer de nachtmerrie van iedere verdediger.</Paragraph>
+    <Paragraph>De eerste overwinning is binnen na een zeer goede wedstrijd waarbij we op geen enkel moment in de problemen kwamen. Hopelijk zijn we nu gelanceerd en kunnen we op dit elan verder gaan. Ook in het klassement maken we nu een grote sprong voorwaarts en staan we nu op een mooie 5e plaats.</Paragraph>
+    <Paragraph>Volgende week nog eens een thuismatch, om 10.10 nemen we het op tegen het Nieuw Gemeentehuis.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

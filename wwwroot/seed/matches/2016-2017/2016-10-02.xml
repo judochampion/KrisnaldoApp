@@ -1,0 +1,51 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Tijs Houvenaeghel</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Janneman Schouteten</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Lowie Frimout</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>10</Month>
+    <Day>2</Day>
+  </Time>
+  <Against role="away" type="cup">
+    <TeamName>FC De Most</TeamName>
+  </Against>
+  <Score>
+    <Home>2</Home>
+    <Away>5</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Janneman Schouteten</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Janneman Schouteten</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend stond de eerste ronde van de beker op het programma. De Krisnaldo's mochten het opnemen tegen Fc de Most en verloren na een dramatische partij met 2-5.</Paragraph>
+    <Paragraph>Mede door een zware blessurelast kwamen we met een experimenteel elftal aan de aftrap. Lowie Frimout stond met knikkende knieën onder de lat en voorin kon Brecht Houvenaeghel onze vertrouwde bonkige targetspits Joachim Ally niet doen vergeten. Allemaal excuses die kunnen tellen, al ligt de oorzaak toch vooral bij het grote gebrek aan concentratie en inzet. Dit zijn zaken die dringend moeten verbeteren willen we een rol van betekenis spelen in de competitie. Over de wedstrijd zelf valt vanuit het standpunt van de Krisnaldo's weinig te melden. De bezoekers kregen in de eerste helft 4 doelpunten met een gigantisch grote strik cadeau. Gelukkig was Janneman Schouteten er nog om met een knap afstandschot te milderen tot 1-4.
+    </Paragraph>
+    <Paragraph>De tweede helft verliep iets beter of minder slecht. Het was opnieuw Janneman die ons kon terugbrengen tot op 2-4 maar in de slotminuten kregen we toch nog een vijfde doelpunt om de oren.</Paragraph>
+    <Paragraph>
+      Na de wedstrijd volgde er nog een penalty shootout, die wonnen we wel met 5-3.
+      Scoorden vanop elf meter:
+      - Pieter Vermandere
+      - Sam Decoene
+      - Wout Veranneman
+      - Brecht Houvenaeghel
+      - Robin Van Hulle
+    </Paragraph>
+    <Paragraph>Een wedstrijd om snel te vergeten dus. Volgende week zijn we dan ook aan onszelf verplicht om voor ons thuispubliek revanche te nemen. Tegenstander van dienst heet jong CD&amp;V Dark. Tot dan !</Paragraph>
+  </Report>
+</Match>

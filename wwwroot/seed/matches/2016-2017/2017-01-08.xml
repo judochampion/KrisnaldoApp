@@ -1,0 +1,51 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+<Player>Brecht Degezelle</Player>
+<Player>Reinout Pattijn</Player>
+<Player>Robin Van Hulle</Player>
+<Player>Lowie Frimout</Player>
+<Player>Sam Decoene</Player>
+<Player>Brecht Houvenaeghel</Player>
+<Player>Benjamin De Geest</Player>
+<Player>Floren Bostoen</Player>
+<Player>Martijn Vandaele</Player>
+<Player>Wout Veranneman</Player>
+<Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>1</Month>
+    <Day>8</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>Nieuw Gemeentehuis</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>3</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Benjamin De Geest</Scored>      
+    </Goal> 
+    <Goal sequence="2">
+      <Scored>Sam Decoene</Scored>
+    </Goal> 
+    <Goal sequence="3">
+        <Scored>Sam Decoene</Scored>      
+        <Assist>Martijn Vandaele</Assist>
+    </Goal> 
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend werd het voetbaljaar 2017 op gang getrapt.De Krisnaldo's hadden de feestdagen goed verteerd en wonnen met 1-3 tegen 't Nieuw Gemeentehuis.</Paragraph>
+    <Paragraph>
+      Het was even zoeken in het mistige Kachtem tot er plots 2 doelen opdoken achter een verlaten fabrieksgebouw. Ook op het veld zou het even zoeken worden want tactisch genie Martijn Vandaele had tijdens de winterstop niet stilgezeten en kwam op de proppen met een nieuwe opstelling. Nadat hij de looplijnen uit de doeken deed begonnen we vol goede moed aan de wedstrijd. De nieuwe tactiek leek te werken, we namen de bovenhand en de meeste dreiging kwam van ons. Het duurde dan ook niet lang voor we op een 0-1 voorsprong kwamen. Een hoekschop bleef hangen voor doel, Benjamin De Geest reageerde het snelst en knalde ons op voorsprong. De reactie van de Kachtemnaars liet niet lang op zich wachten en via enkele vlotte combinaties duwden ze ons in de loopgraven. Sterk bewapende loopgraven wel want door het masterplan van Martijn Vandaele kon de thuisploeg nooit echt gevaarlijk zijn. Op die manier konden we zonder kleerscheuren de rust induiken.
+    </Paragraph>
+    <Paragraph>
+      Ook in de tweede helft kwamen we sterk uit de kleedkamer. Daklat,paal en een vreemde beslissing van de scheidsrechter zorgden ervoor dat we onze voorsprong niet konden verdubbelen. Het spreekwoordelijk deksel op de neus volgde dan ook redelijk snel. U gelooft het nooit maar ook dit had Martijn Vandaele voorspeld. Een losgebroken Nieuw Gemeentehuizenaar kon alleen op doel afstormen en plaatse de bal koelbloedig naast doelman Brecht Degezelle. Alles terug te herdoen en dat deden we ook. Joachim Ally zette zich in zijn gekende stijl goed door en legde af op spitsbroeder Wout Veranneman. Zijn poging werd knap uit doel geslagen. Helaas voor de thuisploeg was het een veldspeler met ambitie als keeper die de bal uit doel sloeg en zo verdween de bal op de stip. Sam Decoene nam zijn verantwoordelijkheid en plaatste ons vanop 11 meter op een 1-2 voorsprong. De thuisploeg ging daarna op zoek naar de gelijkmaker. Toen een van hun aanvallen werd afgeslagen leek de bal over de zijlijn te belanden. Het was centrale verdediger Robin Vanhulle die sneller dacht en sneller liep dan de rest op het veld en op die manier de perfecte counter opzette. Hij opende op Martijn Vandaele die Sam Decoene perfect bediende en onze nummer 5 zette zo de 1-3 op het bord. 't Nieuw Gemeentehuis hing nu volledig in de touwen en zo winnen we onze eerste wedstrijd in 2017. De nieuw gemeentehuizenaren toonden zich na afloop weinig rancuneus en trakteerden ons op een fris glaasje bubbels, chateau hôtel de ville naar verluidt.
+    </Paragraph>
+    <Paragraph>
+      Na een lange reeks zonder overwinningen halen we eindelijk nog eens de 3 punten. In een knotsgekke competitie staan we nu samen met 3 andere ploegen mee op kop. Volgende week is het dus alweer van moeten, dan trekken we nog eens naar de Lokkedyze om het op te nemen tegen de Geite. Tot dan!
+    </Paragraph>
+  </Report>
+</Match>

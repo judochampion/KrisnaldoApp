@@ -1,0 +1,44 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Alexander Verkouille</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Jonas Callewaert</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Robin Van Hulle</Player>
+  </Players>
+  <Time>
+    <Year>2014</Year>
+    <Month>10</Month>
+    <Day>26</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>FC De Geite</TeamName>
+  </Against>
+  <Score>
+    <Home>2</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Jonas Callewaert</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Vandaag stond de wedstrijd De Krisnaldo's tegen FC De Geite gepland, de wedstrijd eindigde op een 2-2 gelijkspel.</Paragraph>
+    <Paragraph>Zoals ons de laatste tijd veel te vaak overkomt namen we vandaag opnieuw een dramatische start, binnen de eerste minuten kon De Geite de score openen. Daarna kwamen we pas heel moeizaam in de wedstrijd. Het was pas naar het einde van de eerste helft toe dat we weer op niveau begonnen te voetballen, uiteindelijk kregen we ook enkele goeie mogelijkheden maar het bezoekend keeperke kon zijn netten schoon houden. Rusten deden we dus met een 0-1 achterstand.</Paragraph>
+    <Paragraph>Tijdens de rust wisten we dat het beter moest, we kwamen dan ook als leeuwen uit de kleedkamer met een furieuze start van de tweede helft, constant druk naar voren met enkele goeie mogelijkheden. Niet veel later bezweek De Geite dan ook onder die druk. De doelman kon een schot van Brecht Houvenaeghel niet klemmen, Jonas Callewaert was echter goed gevolgd en knalde de gelijkmaker binnen. Erop en erover dacht iedereen nu en even later begon Wout Veranneman aan een fantastische ren, oog in oog met de doelman bleef hij koelbloedig en schoof de bal binnen, 1-2. De buit leek nu binnen ook al omdat FC De Geite in de tweede helft nog absoluut niets had laten zien. In de slotminuten gaven we toch nog de overwinning uit handen, op een vrije trap konden de bezoekers de bal in deviëren, 2-2 dus.</Paragraph>
+    <Paragraph>Door de tegengoal in de slotfase werd het dan toch nog een pijnlijk gelijskspel. Toch is er ook nog goed nieuws want na de wedstrijd bleek dat leider Sportief Exclusief verloren heeft tegen FC Lokkedyze (dank u Lokkedyze) en zo komen we tot op 2 punten van de koppositie.</Paragraph>
+    <Paragraph>Volgende gaan we voor het eerst sinds lang nog eens op verplaatsing. De krisnaldo's trekken naar Moorslede om het op te nemen tegen VK De Reisduif.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

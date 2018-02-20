@@ -1,0 +1,38 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>04</Month>
+    <Day>19</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>VK Zwarte Gat</TeamName>
+  </Against>
+  <Score>
+    <Home>2</Home>
+    <Away>0</Away>
+  </Score>
+  <Goals />
+  <Report>
+    <Paragraph>Voor het eerst in de rijke historiek van De Krisnaldo's werden we verwacht in het idyllische Dominiek Savio te Gits. Op dezelfde morzel grond waar Erwin Vervecken de basis legde voor zijn wereldtitel in 2007, moesten wij onder een bijna even talrijke schare supporters een nieuwe hindernis in de titelrace zien te nemen. VK Zwarte Gat 2 gaf ons partij, een ploegje dat vinnigheid en jeugdigheid door de tand des tijds ingeruild heeft voor tonnen ervaring. Was het onderschatting van onzentwege omdat ze in de onderste regionen van het klassement vertoeven? Was het omdat de helft van de ploeg iets te diep in het glas had gekeken tijdens hun nachtelijke escapades? Of speelden de hormonen ons parten, met al die mooie deernes langs de zijlijn?</Paragraph>
+    <Paragraph>Joost mag het weten, maar wat de verslaggever wel weet is dat we iets te laks aan de opwarming en bijgevolg de wedstrijd begonnen. Dit resulteerde in een resem kansen voor de tegenpartij en veel afval in ons spel. En hoewel er gaandeweg de eerste helft enkele schuchtere pogingen gedaan werden om het spel bij te sturen, de juiste man vinden bleef aartsmoeilijk. Gelukkig behoedde sluitstuk Dries Sticker ons van erger en konden we zonder te scoren met een gevleide gelijkstand de kleedkamers induiken.</Paragraph>
+    <Paragraph>In de kleedkamer besefte iedereen dat het beter moest en de donderpreek van delegee Kjell Geldhof miste zijn effect niet. Een krachtig beginoffensief aan het begin van de tweede helft leverde een karrenvracht aan kansen op, maar geen doelpunten. Wie kans na kans mist krijgt het deksel op de neus, om het met een voetbalcliché te zeggen, en zo geschiedde. In één van hun aartsgevaarlijke counters wisten de mannen van het Zwarte Gat zowaar te scoren. Eerst leek het gevaar in de kiem gesmoord door een stoere tussenkomst van Robin Van Hulle, maar door het aanhoudende storen van de thuisspits slaagde die er toch in om de bal voorbij de keeper in het mandje leggen.</Paragraph>
+    <Paragraph>Na het slikken van deze bittere pil lieten we de kopjes niet hangen en konden we de druk op de tegenstander gaandeweg opvoeren. Helaas tikte de tijd genadeloos weg in ons nadeel en voetbalde de tegenstrever volgens het motto "weg is weg", wat het zoeken naar de voetballende oplossing compliceerde. Enkele wanhoopsschoten links en rechts en twee niet gefloten penalty’s later leek ons doelpuntencijfer nog steeds op een bolletje met een gat erin. De plichtsbewuste scheidsrechter maakte er niet veel later een einde aan en met het schaamrood op de wangen druipten we het veld af. Hoewel de lentezon voor een aangename temperatuur zorgde, leek de sfeer in de kleedkamer onder het vriespunt te zakken door dit doodjammer puntenverlies. Grote afwezige Stijn Vansteenkiste zal er ons volgende week ongetwijfeld op wijzen dat dat met hem in de ploeg altijd al vermeden werd.</Paragraph>
+    <Paragraph>Met drie punten achterstand, twee overwinningen minder dan leider Sportief Exclusief en nog één speeldag voor de boeg zijn we nu mathematisch zeker van de tweede plaats in de eindrangschikking. Deze nederlaag betekent ook meteen het einde van de zegereeks van 10 overwinningen op rij dit kalenderjaar. 19 april 2015 gaat aldus de geschiedenis in als de Slag om Dominiek Savio: de dag dat De Krisnaldo’s definitief uit de titelkoers geslagen werden, exact 200 jaar nadat Napoleon het hoofd moest buigen in de Slag om Waterloo.</Paragraph>
+    <Paragraph>Uiteraard vinden we het bijzonder jammer dat we er niet in geslaagd zijn om te scoren tegen kanker, wat de opzet was van deze wedstrijd. Omdat de strijd tegen kanker ons nauw aan het hart ligt, willen we echter benadrukken dat we alsnog een bijdrage willen leveren aan de "Iedereen tegen Kanker" campagne. We hebben unaniem beslist dat de actie wordt doorgetrokken naar volgende week, waar we het in een laatste thuismatch opnemen tegen Transvaal. Bij deze willen we ook nog Sportief Exclusief feliciteren met hun oververdiende titel.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos #volgendeweeknieuwepogingomtescorentegenkanker</Paragraph>
+  </Report>
+</Match>

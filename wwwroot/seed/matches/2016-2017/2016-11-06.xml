@@ -1,0 +1,48 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Joachim Ally</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Brecht Houvenaeghel</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>11</Month>
+    <Day>06</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>SV Werken</TeamName>
+  </Against>
+  <Score>
+    <Home>0</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Joachim Ally</Scored>
+      <Assist>Martijn Vandaele</Assist>
+    </Goal>    
+  </Goals>
+  <Report>
+    <Paragraph>
+      Het Krisnaldo-schip is het veiligst in de CERA-haven, maar dat is uiteindelijk niet waar het voor gemaakt is. Na een lange reeks thuiswedstrijden waren we dan ook maar wat blij dat we koers konden zetten naar nieuwe horizonten, het reusachtig grote veld van NSVD Handzame. Doordat de scheidsrechter iets later was, kregen we ruim de tijd om stevig op te warmen en op doel te trappen. Keeper Brecht Degezelle wist het toen nog niet, maar toen moest hij veel meer reddingswerk verrichten dan in de wedstrijd zelf.
+    </Paragraph>
+    <Paragraph>
+      Matig of gezapig zijn adjectieven die de eerste wedstrijdhelft het best kunnen beschrijven. De beide partijen begonnen vol goede bedoelingen, maar echt uitgespeelde kansen kwamen er niet uit. Het waren vooral enkele sterke jongens op het middenveld die al het Krisnaldo-gevaar in de kiem smoorden. En als het dan toch eens lukte, was de laatste man telkens attent genoeg om de angel uit de aanval te halen. Het was al over halfweg toen we vrij onverwacht toch een doelpunt zagen. Een te korte terugspeelbal op de keeper werd heel sluw onderschept door Wout Veranneman. Die dreef de bal richting het penalty-punt en werkte dan beheerst af in de linkerbenedenhoek. De verdediger sloeg zichzelf voor het hoofd, want hij besefte dat in deze gesloten wedstrijd, de impact van deze te korte terugspeelbal immens was. Uit de tweede lijn volgden nog enkele schoten van Brecht Houvenaeghel en Sam Decoene.
+      </Paragraph>
+    <Paragraph>In de rust ging het er vrij ontspannen aan toe. Niemand had veel dorst in dit miezerige weertje, maar toch waren de flessen water handig voor Sam. Net voor hij gewisseld werd voor Reinout Pattijn, steelde hij de show door de bottle-flip challenge met glans te doorstaan. Zoals in de meeste matchen, volgden er in de tweede helft meer kansen. Het verschil in conditie met de tegenstander resulteert dan automatisch in meer ruimte. Pieter Vermandere, duidelijk baas over zijn rechtstreekse tegenstander, kon zich enkele keren onderscheiden met mooie acties en dito voorzetten. Benjamin De Geest, die volgens de tegenstander niet te stuiten valt door zijn lengte van “twjee mèters nolf”, kopte verschillende keren maar heel nipt over. Tien minuten voor tijd volgde de verlossing. Joachim Ally en Martijn Vandaele deden een dubbele één-twee (is dat dan een twee-vier?) en dankzij de zoveelste assist van Martijn kon Joachim de eindstand 2-0 vastleggen. De tegenstander kon nu geen vuist meer maken. We geven een pluim aan de verdediging, die vandaag bestond uit Sam, Reinout, Pieter-Jan Soenen, Robin Van Hulle en Lowie Frimout: na 9 competitiewedstrijden hebben de geel-blauwe paradijsvogels nog maar 7 tegendoelpunten geslikt.</Paragraph>
+    <Paragraph>
+      Met 20 punten uit 9 matchen blijven we stevig aan de leiding. Een gunstige positie die we zondag op de CERA mogen verdedigen tegen de STM Sjotters. Supporters op post!</Paragraph>
+  </Report>
+</Match>

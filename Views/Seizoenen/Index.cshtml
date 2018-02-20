@@ -1,0 +1,52 @@
+@model IEnumerable<KrisnaldoApp.Models.Seizoen>
+@{
+
+    ViewData["Title"] = "Alle seizoenen";
+}
+<table id="seizoenTable" class="table table-bordered text-nowrap" cellspacing="0" style="width:100%;">
+    <thead>
+        <tr>
+            <th>
+                ID
+            </th>
+            <th>
+                Naam
+            </th>
+            <th>
+                Aantal matchen in totaal
+            </th>
+            <th>
+                Aantal competitiematchen
+            </th>
+            <th>
+                Competitie-statistieken
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+            {
+
+                <tr>
+                    <td>
+                        @item.SeizoenID
+                    </td>
+                    <td>
+                        @item.SeizoenNaam
+                    </td>
+
+                    <td>
+                        @item.Matchen.Count()
+                    </td>
+                    <td>
+                        @item.Matchen.Where(m=>m.Type == KrisnaldoApp.Models.Type.COMPETITIE).Count()
+                    </td>
+                    <td>
+                        <a href="/Seizoenen/CompetitieStatistieken/@item.SeizoenNaam"><i class="fa fa-newspaper-o fa-lg" aria-hidden="true"></i></a>
+                    </td>
+                </tr>
+        }
+    </tbody>
+</table>
+
+    

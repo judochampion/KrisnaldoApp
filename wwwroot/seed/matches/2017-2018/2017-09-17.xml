@@ -1,0 +1,44 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+	<Player>Lowie Frimout</Player>
+	<Player>Sam Decoene</Player>
+	<Player>Benjamin De Geest</Player>
+	<Player>Diederik Huyghelier</Player>
+    <Player>Maarten Missine</Player>
+	<Player>Matthijs Germonprez</Player>
+    <Player>Martijn Vandaele</Player>    
+	<Player>Tijs Vergote</Player>
+    <Player>Brecht Houvenaeghel</Player>
+	<Player>Wout Veranneman</Player>
+	<Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>09</Month>
+    <Day>17</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>Wivo Sport</TeamName>
+  </Against>
+  <Score>
+    <Home>4</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+  <Goal>
+  <Scored>Maarten Missine</Scored>
+  <Assist>Wout Veranneman</Assist>
+  </Goal>
+  <Goal>
+  <Scored>Joachim Ally</Scored>
+  <Assist>Martijn Vandaele</Assist>
+  </Goal>
+  </Goals>
+  <Report>
+  <Paragraph>Na een sterke 4 op 6 was het tijd om ons een eerste keer te meten met één van de topploegen uit reeks A, Wivo Sport. De ploeg uit Sint-Eloois-Winkel draait al jaren mee aan de kop van het klassement. Iedereen kwam flink op tijd en zo starten we professioneel met gedisciplineerde warming-up oefeningen onder leiding van kapitein Benjamin De Geest.</Paragraph>
+<Paragraph>In de eerste helft eiste Wivo Sport het balbezit op. Ze speelden de bal aardig rond, maar buiten enkele afstandsschoten werd onze keeper maar weinig op de proef gesteld. Aan de overkant werd er een stuk efficiënter gevoetbald. Zo was er een verre inworp van Tijs Vergote, die lichtjes gedevieerd werd door Wout Veranneman. Maarten Missinne lag sluw op de loer en tikte de bal in de verste hoek. Lang konden we niet van onze voorsprong genieten. Een vluchtige voorzet vanop rechts dwarrelde over alle verdedigende hoofden heen en zo kon de diepe spits de bal overhoeks binnenkoppen. Wout kreeg later een kans op om ons opnieuw op voorsprong te brengen, maar na een mooie actie ging zijn schot voorlangs. Martijn Vandaele, de dekselse nummer tien van De Krisnaldo’s, zag dan zijn moment aangebroken. Met een geniale doorsteekpass precies op maat lanceerde hij Joachim Ally. Die laatste kon de bal door de benen van de keeper tegen de netten rammen. Ruststand: 1-2.</Paragraph>
+<Paragraph>Zoals wel vaker dit seizoen slagen we er in de tweede helft in om meer druk te zetten. Onze jeugdige conditie zit daar ongetwijfeld voor iets tussen. Het gevaarlijkste wapenfeit was een krachtig afstandsschot van Wout Veranneman, die door de keeper tegen de binnenkant van de paal werd gedevieerd. Licht concentratieverlies speelde ons parten. Op twee minuten tijd verliezen we onze voorsprong en komen we zelfs op een achterstand te staan. 3-2. In wat volgt tonen we onze vechtersmentaliteit. De talrijk meegereisde supporters zagen dat de 3-3 in de lucht hing. Een kopbal van Benjamin vloog bijna binnen. Maar net voor tijd werd het uiteindelijk nog 4-2, waardoor we met hangende kopjes het veld verlieten.</Paragraph>
+<Paragraph>Na de nummer één mogen we het volgende week opnemen tegen de nummer 2 uit reeks A, Devolder Sport. Afspraak om 9u30 op de Cera.</Paragraph>
+  </Report>
+</Match>

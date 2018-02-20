@@ -1,0 +1,41 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Alexander Verkouille</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Robin Van Hulle</Player>
+  </Players>
+  <Time>
+    <Year>2014</Year>
+    <Month>12</Month>
+    <Day>07</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>SC K2</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Brecht Houvenaeghel</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend werd de wedstrijd tussen SC K2 en De Krisnaldo's afgewerkt. De Krisnaldo's bleven steken op een 1-1 gelijkspel.</Paragraph>
+    <Paragraph>De wedstrijd begon vurig, de raad van coach Simon Plancke om de ballen naar voor te pompen werd opgevolgd. Helaas leverde dit weinig op. T2 Carl Frimout opperde daarna om toch wat meer over de grond te spelen. Met resultaat, we kwamen meer in de wedstrijd en creëerden veel kansen maar telkens zonder resultaat. Net zoals vorige week kregen we dan opnieuw het deksel op de neus, de SC K2 spits kreeg de bal met wat geluk mee en hij faalde niet: 1-0. De druk werd nog opgevoerd en we bleven kansen creëren, dat we aan de rust niet konden scoren was een half mirakel.</Paragraph>
+    <Paragraph>In de tweede helft was het zo goed als eenrichtingsverkeer. Kans na kans werd de nek omgewrongen en de situatie begon er stilaan wanhopig uit te zien. Uiteindelijk was het Brecht Houvenaeghel die liet zien hoe je wel moet scoren, hij kreeg de bal aan de rand van de zestien en plaatste mooi in de benedenhoek: 1-1. De hoop laaide weer op en we gingen voluit voor de overwinning maar scoren lukte wederom niet en zo bleven we steken op een 1-1 gelijkspel.</Paragraph>
+    <Paragraph>Zo vlot we scoorden in het begin van het seizoen, zo moeizaam gaat het nu. De laatste 2 wedstrijden waren qua combinaties en spel misschien wel de beste die we speelden, alleen wordt het dringend tijd dat er iemand opstaat die de weg naar de netten kan vinden.</Paragraph>
+    <Paragraph>In het klassement staan we nu 3 punten achter op Sportief Exclusief en voelen we ook de hete adem van FC Lokkedyze in onze nek. Volgende week nemen we het op tegen het Bourgondisch Kruis. Een nieuwe kans om te tonen dat we met dit mooie voetbal ook een resultaat kunnen neerzetten.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

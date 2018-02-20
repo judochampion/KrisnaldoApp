@@ -1,0 +1,44 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Robin Van Hulle</Player>
+	<Player>Reinout Pattijn</Player>
+	<Player>Benjamin De Geest</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Martijn Vandaele</Player>    
+    <Player>Lowie Frimout</Player>
+	<Player>Pieter Vermandere</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Wout Veranneman</Player>
+	<Player>Joachim Ally</Player>
+    <Player>Floren Bostoen</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>11</Month>
+    <Day>05</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>Sportief Exclusief</TeamName>
+  </Against>
+  <Score>
+    <Home>2</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+  <Goal>
+  <Scored>Sam Decoene</Scored>
+  </Goal>
+    <Goal>
+  <Scored>Joachim Ally</Scored>
+  <Assist>Brecht Houvenaeghel</Assist>
+  </Goal>
+  </Goals>
+  <Report>
+  <Paragraph>Na helse regenbuien deze nacht was Moeder Natuur nog niet gedaan met haar kleine boodschap. Ook was er slecht nieuws vanuit de medische staf: Lowie en Reinout vielen in de aanloop naar deze wedstrijd ziek uit. Sportief Exclusief vormde een haalbare kaart, aangezien ze dit seizoen minder op dreef zijn en hun puntenaantal op één hand te tellen is. De scheidsrechter kwam niet opdagen, maar gelukkig had de afgevaardigde van onze tegenstander ervaring en deed hij met plezier dienst als gelegenheidsscheidsrechter.</Paragraph>
+<Paragraph>De match begon gezapig. Onze tegenstander was aan de aftrap verschenen exclusief sterspeler 'Akim', wat toch een serieuze aderlating is voor hun aanvallend compartiment. Op het middenveld heersten Brecht en kapitein Benjamin, mentaal gesterkt door de aanwezigheid van zijn WAG aan de zijlijn, als vanouds. Pieter, die voor het eerst opereerde als rechtsback, vomde met rechtsmidden Floren een goede tandem die menig voorzetten richting de zone van de waarheid produceerde. Helaas misten ze eerst wat hoogte en precisie om echt voor gevaar te zorgen. Het was vanop de andere flank dat het eerste doelpunt viel. Sam brak door op links en schilderde de bal op zijn Quaresma’s met buitenkantje rechts over de keeper in het doel. Niet veel later konden we de voorsprong verdubbelen. Brecht H. legde de bal af en Joachim kon met een volley de bal in doel werken. Zonder in de problemen te komen haalden we het eerste fluitsignaal.</Paragraph>
+<Paragraph>In de tweede helft verging het ons minder goed. Een voorzet van de Izegemnaren belandde ongelukkig tegen de arm van Robin. Een licht gefloten penalty en de aansluitingstreffer was het harde gevolg. We beseften dat deze krappe voorsprong om miserie vragen was. Maar hoewel we echt de intentie hadden te scoren, leek het voor de buitenstaanders wel een ordinair spelletje “latje trap”. Floren, Martijn en Benjamin zelfs tot tweemaal toe, zagen hun droom op een nieuw doelpunt op het doelkader uiteenspatten. En zoals het voetbalcliché het betaamt, krijg je dan het deksel op de neus. Vijf minuten voor tijd nam een tegenstander een afvallende bal in één tijd op de slof. De bal vloog tegen de binnenkant van de paal en via de rug van Brecht D. in het doel. Teleurgesteld dropen we af bij het horen van het laatste fluitsignaal.</Paragraph>
+<Paragraph>Na een 1 op 6 belandden we vanuit de subtop terug in de middenmoot op een 9de plaats. Volgende week volgt de topper tegen FC Cera.</Paragraph>
+  </Report>
+</Match>

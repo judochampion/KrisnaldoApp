@@ -1,0 +1,40 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Joachim Ally</Player>
+    <Player>Alexander Verkouille</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>01</Month>
+    <Day>22</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>FC De Koolmijn</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Sam Decoene</Scored>
+      <Assist>Joachim Ally</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Het was toch even schrikken toen de Krisnaldo’s hun oogjes openden voor wat opnieuw een feestelijke voetbalochtend zou moeten worden. Siberisch koud was het. Sommige spelers wisten niet welk schoeisel ze zouden dragen om FC De Koolmijn te trotseren. Toen we toekwamen op de CERA volgde de tweede rariteit. De match bleek twintig minuten uitgesteld door organisatorische problemen. We lieten het allemaal niet te veel aan ons hart komen en kwamen gemotiveerd aan de aftrap om gedeeld aan kop van het klassement te blijven.</Paragraph>
+    <Paragraph>Beide partijen begonnen afwachtend aan de match. Na een studieronde, die vooral bestond uit het evenwicht zoeken op deze ijspiste, kwamen de mijnwerkers verschillende keren opzetten. Zij hadden vrij snel door dat combineren in deze omstandigheden moeilijk is en kozen resoluut de kaart van de afstandsschoten. Op een kwartier tijd vuurden ze een aantal schoten af die niet meer op een hand te tellen waren. De meesten misten het kader en als ze dan wel eens tussen de palen en onder de lat dreigden te komen, ranselde keeper Brecht ze mooi uit zijn doel. Wij bleven echter de combinaties zoeken en kwamen zo tot de grootste kans van de eerste helft. Een actie van Pieter Vermandere op rechts resulteerde in een mooie voorzet. De mee oprukkende Brecht Houvenaeghel kon in een bos van mijnersbenen de bal even bijhouden. De sluwe spits Wout rook zijn kans en kon van dichtbij de vijandelijke keeper testen. Jammer genoeg gooide die zich edelmoedig in de baan van het schot en tot overmaat van ramp blesseerde onze nummer zeven zich in deze actie. Net als de echte Ronaldo in de EK-finale probeerde hij nog even, maar moest hij uiteindelijk toch de strijd staken. Krijger Alexander Verkouille stond gelukkig klaar om hem te vervangen. Met een bleke brilscore konden we tijdelijk gaan opwarmen in de kleedkamer.</Paragraph>
+    <Paragraph>In de tweede helft mochten we aanvallen op het stuk veld dat al iets meer ontdooid was. Een stuk veld dat ons combinatiespel beter verdroeg en zo kwamen we ook tot onze beste acties. Een lage voorzet van vleugelback Sam Decoene, die werd gedevieerd door kapitein Benjamin De Geest, was hier het meest gevaarlijke wapenfeit. De openingsgoal viel jammer genoeg aan de overkant. In een rommelige fase bleek een mijnwerker het snelst op de bal en kon hij van dichtbij Brecht verschalken. In lichte paniek wilden we de overwinning té graag. Door ontstuimig meeverdedigen veroorzaakten we twee penalty’s. De eerste penalty werd gemist, maar de tweede was raak. Tien minuten voor tijd keken we zo tegen een pijnlijke 0-2 achterstand aan. Onze vechtlust werd gelukkig nog beloond met een welverdiende eerredder. Na een actie van vleugelaanvaller Joachim Ally op rechts en een briljant overstapje van Alexander kon Sam de 1-2 net voor affluiten mooi binnenschuiven.</Paragraph>
+    <Paragraph>Pijnlijk is dat we op negen matchen van het einde slechts 5de staan, op drie punten van de leider. De ploegen zijn ongelooflijk aan elkaar gewaagd, wat betekent dat geen enkele match in deze knotsgekke competitie voorspelbaar is. Volgende week spelen we tegen Jong CD &amp;V Dark, die gerangschikt staat in de onderbuik van het klassement. Supporters op post!</Paragraph>
+  </Report>
+</Match>

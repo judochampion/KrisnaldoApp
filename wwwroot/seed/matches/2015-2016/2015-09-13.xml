@@ -1,0 +1,47 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Janneman Schouteten</Player>
+    <Player>Louis Driegelinck</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Alexander Blondeel</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Bram Brackeva</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>09</Month>
+    <Day>13</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>GZ Tube</TeamName>
+  </Against>
+  <Score>
+    <Home>3</Home>
+    <Away>3</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Stijn Vansteenkiste</Scored>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Joachim Ally</Scored>
+      <Assist>Sam Decoene</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend trokken De Krisnaldo's naar het hippe en bruisende Rumbeke om de degens te kruisen met GZTube. Na een boeiende wedstrijd moesten we vrede nemen met een 3-3 gelijspel.</Paragraph>
+    <Paragraph>We begonnen sterk aan de wedstrijd, met mooie combinaties en veel aanvalslust waren we de gevaarlijkste ploeg. Halfweg de eerste helft kon Wout Veranneman doorzetten, de thuisploeg kon hem enkel nog foutief afstoppen waardoor de bal op de stip belandde. Onze nummer 7 zette zich zelf achter de bal en plaatste de 0-1 op het bord. Een verdiende voorsprong en alles leek onder controle tot we net voor rust toch nog, op vrije trap, de gelijkmaker tegen kregen. Stand bij de rust:1-1.</Paragraph>
+    <Paragraph>Na een donderpreek van gelegenheidscoach van Dries Sticker begonnen we enthousiast aan de 2e helft. Een hoge pressing en veel snelheid zorgde ervoor dat GZ Tube nog moeilijk tot voetballen toe kwam. Toch kwamen we, 5 minuten ver in de tweede helft, op een 2-1 achterstand na dom balverlies. Daarna toonden we een vechtlust die de Krisnaldo's maakt tot wat ze geworden zijn, wereldsterren. Er kwamen veel kansen waarbij de afwerking telkens net niet goed genoeg was. Het was wachten op de flits van Stijn'aldo' Vansteenkiste die met een knap afstandsschot de bordjes terug in evenwicht bracht: 2-2. Erop en erover dachten we nu. Een uitspraak die Joachim Ally wel heel letterlijk nam toen hij op hoekschop boven iedereen uittorende en de 2-3 voorsprong staalhard binnenkopte. De eerste 3 punten leken binnen, ook al omdat GZTube in de tweede helft nog maar weinig had laten zien. Helaas zijn de voetbalgoden ons de laatste weken niet echt gunstig gezind en moesten we diep in blessuretijd toch nog de 3-3 toestaan.</Paragraph>
+    <Paragraph>Op die manier zijn we slecht uit de startblokken met een 1 op 6. Met het goede voetbal van vandaag telt er volgende week dan ook maar 1 ding: winnen. Onze tegenstander heet de Sportwereld en de wedstrijd vindt plaats om 09.15 in Torhout.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

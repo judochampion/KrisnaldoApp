@@ -1,0 +1,104 @@
+﻿<SponsorInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.krisnaldos.be/Sponsorinfo">
+  <Sponsors>
+    <Sponsor>
+      <DisplayName>Weba</DisplayName>
+      <RawPictureName>weba.png</RawPictureName>
+      <Link>http://www.weba.be</Link>
+    </Sponsor>
+    <Sponsor>
+      <DisplayName>Standaard Boekhandel Ooststraat Roeselare (Trui Vanlerberghe)</DisplayName>
+      <RawPictureName>standaardboekhandel.png</RawPictureName>
+      <Link>http://www2.standaardboekhandel.be/nl/winkels/roeselare</Link>
+    </Sponsor>
+    <Sponsor>
+      <DisplayName>DreamLand</DisplayName>
+      <RawPictureName>dreamland.png</RawPictureName>
+      <Link>http://www.dreamland.be</Link>
+    </Sponsor>
+    <Sponsor>
+      <DisplayName>De Wijnbeurs</DisplayName>
+      <RawPictureName>wijnbeurs.png</RawPictureName>
+      <Link>http://www.wijnbeurs.be</Link>
+    </Sponsor>
+    <Sponsor>
+      <DisplayName>Delaware</DisplayName>
+      <RawPictureName>delaware.png</RawPictureName>
+      <Link>http://www.delawareconsulting.com/nl-be</Link>
+    </Sponsor>
+    <Sponsor>
+      <DisplayName>Poco Loco</DisplayName>
+      <RawPictureName>pocoloco.png</RawPictureName>
+      <Link>http://www.pocoloco.be/</Link>
+    </Sponsor>
+    <Sponsor>
+      <DisplayName>Oxygen Fitness</DisplayName>
+      <RawPictureName>oxygen.png</RawPictureName>
+      <Link>http://oxygenfitness.be/</Link>
+    </Sponsor>
+    <Sponsor>
+      <DisplayName>Bowling Stones Izegem</DisplayName>
+      <RawPictureName>bowlingizegem.png</RawPictureName>
+      <Link>http://www.bowlingstonesizegem.be</Link>
+    </Sponsor>
+    <Sponsor>
+      <DisplayName>Brantano</DisplayName>
+      <RawPictureName>brantano.png</RawPictureName>
+      <Link>http://www.brantano.be</Link>
+    </Sponsor>
+    <Sponsor>
+      <DisplayName>C &amp; A</DisplayName>
+      <RawPictureName>c-and-a-logo.png</RawPictureName>
+      <Link>http://www.c-and-a.com/be/nl/shop/index.html</Link>
+    </Sponsor>
+    <Sponsor>
+      <DisplayName>Omer</DisplayName>
+      <RawPictureName>omer.png</RawPictureName>
+      <Link>http://www.omer.be/nl</Link>
+    </Sponsor>
+    <Sponsor>
+      <DisplayName>Cartamundi</DisplayName>
+      <RawPictureName>cartamundi.png</RawPictureName>
+      <Link>http://cartamundi.com/nl/</Link>
+    </Sponsor>
+    <Sponsor>
+      <DisplayName>Soubry</DisplayName>
+      <RawPictureName>Soubry.jpg</RawPictureName>
+      <Link>http://www.soubry.be/</Link>
+    </Sponsor>
+    <Sponsor>
+      <DisplayName>Barry Callebaut</DisplayName>
+      <RawPictureName>barry-callebaut.jpg</RawPictureName>
+      <Link>https://www.barry-callebaut.com/</Link>
+    </Sponsor>
+      <Sponsor>
+      <DisplayName>Eurotuin</DisplayName>
+      <RawPictureName>eurotuin.png</RawPictureName>
+      <Link>https://www.eurotuin.be/nl</Link>
+    </Sponsor>
+        <Sponsor>
+      <DisplayName>Mulder</DisplayName>
+      <RawPictureName>mulder.png</RawPictureName>
+      <Link>http://www.muldernaturalfoods.com/?lang=nl</Link>
+    </Sponsor>
+    <Sponsor>
+      <DisplayName>Club Brugge</DisplayName>
+      <RawPictureName>clubbrugge.jpg</RawPictureName>
+      <Link>www.clubbrugge.be</Link>
+    </Sponsor>
+      <Sponsor>
+      <DisplayName>Buurtslagers</DisplayName>
+      <RawPictureName>buurtslagers.png</RawPictureName>
+      <Link>http://www.buurtslagers.be/</Link>
+    </Sponsor>
+        <Sponsor>
+      <DisplayName>Bonap</DisplayName>
+      <RawPictureName>bonap.png</RawPictureName>
+      <Link>http://www.bonap.be/</Link>
+    </Sponsor>
+          <Sponsor>
+      <DisplayName>Renmans</DisplayName>
+      <RawPictureName>renmans.png</RawPictureName>
+      <Link>http://www.renmans.be/</Link>
+    </Sponsor>
+</Sponsors>
+</SponsorInfo>

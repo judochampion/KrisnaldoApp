@@ -1,0 +1,49 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Alexander Blondeel</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>12</Month>
+    <Day>13</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>VK Zwarte Gat</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Joachim Ally</Scored>
+      <Assist>Wout Veranneman</Assist>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Floren Bostoen</Scored>
+      <Assist>Joachim Ally</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>
+      De laatste match van de heenronde werd een verplaatsing naar Dominiek Savio in Gits. Een plek waar we minder goede herinneringen aan overhielden toen we er eind vorig seizoen na een onverwacht verlies tegen VK Zwarte Gat 2 uit de titelrace werden geknikkerd. Nu we een reeksje hoger spelen, mochten we aantreden tegen de grote broertjes van VK Zwarte Gat 1. De wedstrijdvoorbereiding verliep niet bepaald vlekkeloos. De tactische bespreking in de kleedkamer duurde nogal lang aangezien de wedstrijdkledij wat op zich liet wachten. De nobele Stijn Vansteenkiste, al enkele weken aan de kant door een blessure, wou zijn ploeg toch nog iets bijbrengen als keeper. Maar na nauwelijks drie parades in de opwarming tastte hij weer naar zijn knie. De kine wist meteen hoe laat het was en zo kreeg Martijn Vandaele de kans om zich in doel te bewijzen. Hij was zodanig blij dat hij een gat in de lucht sprong en meteen ook sceptici bewees dat hij makkelijk aan de lat kon.
+    </Paragraph>
+    <Paragraph>
+      De scheidsrechter vond het welletjes en besloot de partij op gang te fluiten. De tegenstander bleek slechts met tien spelers te zijn, wat natuurlijk voor de nodige vrije ruimte zorgde. Deze ruimte werd uitstekend benut door ons driekoppige middenveld, die de spitsen keer op keer lanceerde. Maar die blonken aanvankelijk vooral uit in het verkwanselen van mooie kansen en zo groeide de ongerustheid bij de talrijk meegereisde supporters. Een verzachtende omstandigheid was wel het extreem modderige gebied voor de goal van de tegenpartij, waardoor iedere schuivende bal ineens stopte met schuiven. Op slag van rust kwam er dan toch een oververdiende goal: Sam Decoene zette een actie op met revelatie Reinout Pattyn op links, die Wout Veranneman wist te bereiken. Wout behield het overzicht en legde de bal opzij voor Joachim Ally. De bal belandde via de binnenkant van de paal in het mandje.
+    </Paragraph>
+    <Paragraph>In de pauze klaagde men steen en been over het gebrek aan efficiëntie en we wisten dan ook wat ons te doen stond: zo snel mogelijk de score uitbouwen. Maar net als in de eerste helft leek dit een moeilijke klus. Keer op keer liep het fout in de zone van de waarheid: Benjamin De Geest, Brecht Houvenaeghel, Sam, Alexander Blondeel, Reinout Pattyn, Wout en Joachim... bijna alle Krisnaldo’s waagden wel eens hun kans, maar zonder succes. “Dan zal ik het maar doen”, moet de zelfverzekerde Floren Bostoen gedacht hebben want toen hij de bal onderschepte op het middenveld zette hij Joachim op weg op de rechterflank. Net voor het bereiken van de achterlijn legde die laatste de bal achteruit en de mee-opgerukte goaltjesdief Floren gaf de keeper geen schijn van kans. Maar toen sloeg de steeds verbeterende sfeer helaas plots helemaal om. Na een onschuldig ogende kopbal kwam een tegenstander slecht neer en was het meteen duidelijk dat deze onfortuinlijke speler met een beenbreuk de strijd moest staken. Omdat er een ambulance moest gebeld worden en de tegenstander nog met slechts negen verder zou kunnen, werd de partij vroegtijdig stopgezet en meteen overgegaan tot het protocollaire handjesschudden. Uiteraard wensen De Krisnaldo’s de pechvogel een spoedig herstel.</Paragraph>
+    <Paragraph>Over onze eigen match kunnen we niet supertevreden zijn, daarvoor lag de efficiëntie te laag. Toch kunnen we de heenronde met een positief gevoel afsluiten. Nadat we na een erbarmelijke 4 op 21 bijna de rode lantaarn kregen toegewezen, hebben we ons goed herpakt en met een 11 op 18 toch al een negende plaats in het klassement veroverd. Langs deze weg willen we ook onze achterban bedanken voor hun steun. Zij zijn dan ook uitgenodigd op de eerste wedstrijd van de terugronde volgende week, tegen VPA Sleihage. #WeAreKrisnaldos
+    </Paragraph>
+  </Report>
+</Match>

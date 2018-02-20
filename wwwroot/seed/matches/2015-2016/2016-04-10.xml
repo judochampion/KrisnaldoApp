@@ -1,0 +1,41 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Janneman Schouteten</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>04</Month>
+    <Day>10</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>FC Groen-Wit</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Wout Veranneman</Scored>
+      <Assist>Floren Bostoen</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Vandaag gingen we op bezoek bij de fiere leider FC Groen-Wit in het verre Rekkem. Dat dit dorp vlakbij de Franse grens ligt, mochten enkele Krisnaldo’s ondervinden toen ze even verkeerd reden en werden onderworpen aan een grenscontrole. Toen bleek dat er geen dubbele bodem in hun voetbalzak zat, konden ze beschikken. Bij het wandelen naar de kleedkamer viel de grootte van het met zon overgoten veld meteen op.</Paragraph>
+    <Paragraph>Al van de eerste seconde werd duidelijk waarom FC Groen-Wit op kop staat. Ze combineren technische vaardigheden, met duelkracht en speloverzicht. Wat ook meteen opviel was de talrijke menigte, het leek of niemand in Rekkem was binnen gebleven voor deze topper in klasse B. Na een kleine schietkans van Martijn Vandaele in de eerste minuut, nam onze tegenstander de bovenhand. In een van hun talrijke aanvallen kwam een afvallende bal bij de kapitein te recht. Hij had een zee van tijd om een mooi afstandsschot voor te bereiden, die heel sluw door de vijandelijke spits in doel werd gedevieerd. 1-0. In al dat aanvallend geweld hadden ook wij enkele schaarse kansen. Zo kon Joachim Ally plotseling recht op doel afstevenen tussen enkele verdedigers door. De keeper kwam goed uit en ging plat om zich in de baan van het schot te leggen. Volgens de analisten was een lobje hier slimmer geweest. De linkermiddenvelder van FC Groen-Wit was er niet gerust in en besloot op eigen houtje de voorsprong te gaan verdubbelen. Na een mooie dribbel kon hij met een gelukje, aan de rand van het strafschopgebied, Dries Sticker verschalken. Lowie Frimout moest dan al het veld met een knieblessure verlaten en zo kreeg krijger Janneman Schouteten onverwacht al in de eerste helft zijn kans om de rechtsback over te nemen. Ruststand: 2-0.</Paragraph>
+    <Paragraph>De tweede helft begonnen we met nieuwe moed. Het was duidelijk dat onze tegenstander conditioneel minder sterk stond. Hun aanvallen werden keer op keer in de kiem gesmoord door attente Krisnaldo’s, zoals Pieter-Soenen, Brecht Houvenaeghel en Sam Decoene. Af en toe zorgde die herovering in een kans. Rechtermiddenvelder Floren Bostoen zwerfde plots op links en kon daar onverwacht een assist geven op Wout Veranneman. De spits, die na enkele weken droog te staan de eerste helft wou bezinnen op de bank, tekende voor de aansluitingstreffer. Hij schuwde het duel niet en werkte heel beheerst af in de linkerbenedenhoek. De tegenstander voelde zich niet meer op zijn gemak en etaleerde nog een ander talent: tijdwinnen. In de weinige tijd die er zo nog restte konden we toch nog enkele keren gevaarlijk opzetten. Het spitsenduo Wout en Joachim konden elk nog één keer richting het doel koppen en Floren werd een aantal keren gevaarlijk diep gestoken in zijn linkerhoek. Brecht probeerde het door het leer in één tijd op de slof te nemen, maar ook zijn bal mistte het doelkader. Zo strompelden we het veld af met het ontgoochelende aantal van nul punten.</Paragraph>
+    <Paragraph>FC Groen-Wit is erin geslaagd onze droom om alsnog te promoveren aan diggelen te slaan en zelf een serieuze stap richting titel te maken. Maar niet getreurd, na een 6-1 nederlaag in de heenmatch toont het resultaat van deze match nog maar eens aan dat we als ploeg gegroeid zijn doorheen de competitie. Volgende week, op de voorlaatste speeldag, ontvangen we op het heilige gras van de CERA Sportief Exclusief.</Paragraph>
+  </Report>
+</Match>

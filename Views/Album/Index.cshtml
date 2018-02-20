@@ -1,0 +1,26 @@
+@model IEnumerable<KrisnaldoApp.Models.Album>
+@{
+
+    ViewData["Title"] = "Alle albums";
+}
+<div class="row">
+    @foreach (var item in Model)
+    {
+        string sPictureSource = "\"http://www.krisnaldos.be/seed/albums/thumbnails/" + item.RuweNaam + "-bg.jpg\"";
+        
+            <div class="col-md-4 col-sm-6 col-xs-12 clearfix">
+                <div class="thumbnail">
+                    <div style="height:200px;">
+                        <div style="height:200px;display:block;background-image:url(@sPictureSource.ToString());"></div>
+                    </div>
+                    <div class="caption">
+                        <h5><b>@item.DisplayNaam</b></h5>
+                        <p>@item.Intro</p>
+                        <h5><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;@item.Datum.Day/@item.Datum.Month/@item.Datum.Year | <a href="/Albums/@item.RuweNaam"><i class="fa fa-search" aria-hidden="true"></i>&nbsp;Toon dit album</a></h5>
+                    </div>
+                </div>
+            </div>
+
+        
+    }
+    </div>

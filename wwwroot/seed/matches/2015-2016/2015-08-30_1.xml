@@ -1,0 +1,50 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Tijs Houvenaeghel</Player>
+    <Player>Mahoney Deckmyn</Player>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Janneman Schouteten</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Thomas Driegelinck</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>08</Month>
+    <Day>30</Day>
+  </Time>
+  <Against role="away" type="tournament">
+    <TeamName>FC Cera</TeamName>
+  </Against>
+  <Score>
+    <Home>4</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals>  
+    <Goal sequence="1">
+      <Scored>Benjamin De Geest</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Stijn Vansteenkiste</Scored>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Benjamin De Geest</Scored>
+    </Goal>
+    <Goal sequence="4">
+      <Scored>Stijn Vansteenkiste</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>De Krisnaldo's wonnen zonet hun halve finale tegen de CERA met 4-1. Twee spelers namen elk twee doelpunten voor hun rekening, Stijn Vansteenkiste en Benjamin De Geest.Het was een overwinning om duimen en vingers van af te likken.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

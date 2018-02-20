@@ -1,0 +1,58 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Bartel De Brabandere</Player>
+    <Player>Brecht Degezelle</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>08</Month>
+    <Day>21</Day>
+  </Time>
+  <Against role="away" type="tournament">
+    <TeamName>Nieuw Gemeentehuis</TeamName>
+  </Against>
+  <Score>
+    <Home>4</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Floren Bostoen</Scored>
+      <Assist>Joachim Ally</Assist>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Floren Bostoen</Scored>
+      <Assist>Bartel De Brabandere</Assist>
+    </Goal>
+    <Goal sequence="4">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Op een historisch laat tijdstip stond vandaag de derde match van het Tornooi van de Vriendschap op het programma. Tegenstander was het Nieuw Gemeentehuis, die vorig seizoen 10de werd in onze reeks B. Voorbereidingsmatchen worden typisch gebruikt om enkele nieuwe spelers te laten debuteren. Deze match vormde hierop geen uitzondering met Hoogledenaar Bartel De Brabandere als rechtsback.</Paragraph>
+    <Paragraph>De match begon veelbelovend. Er werd veel vanop links een opening gezocht, waardoor Sam Decoene en Pieter Vermandere na goed samenspel spits Wout konden in stelling brengen. In een van de eerste kansen scoorde onze voorzitter: vanuit een schuine hoek verraste hij de keeper met een traag, maar geplaatst schot. Op dit elan werd voortgevoetbald, maar vreemd genoeg konden we onze voorsprong niet vergroten. Ons enorme overwicht konden we niet vergroten. Een van de oorzaken was dat we nogal dikwijls in hun gewiekste buitenspelval liepen. Dachten ze dat er nog maar net nieuw gras gezaaid was in onze 16 of waren onze verdedigers Simon De Taeye en Pieterjan Soenen zo angstsaanjagend? Joost mag het weten, maar dat onze tegenstander bijna nooit in Brecht Degezelle zijn buurt kwam was een voldongen feit.</Paragraph>
+    <Paragraph>In het begin van de tweede helft brak onze meest efficiënte periode aan. Enkele acties vanop de Hoogleedse rechterflank volgden elkaar op. Zo lanceerde rechtsback Bartel met een inworp Joachim Ally, die zijn mandekker kon afschudden. Rechtermiddenvelder Floren Bostoen volgde goed en koos positie voor de doelmond. Een simpele pas achteruit en beheerste knal in het dak van het doel bleek voldoende om de score te verdubbelen. En niet veel later liet Floren de keeper een derde bal uit zijn mandje rapen. Nu was het Bartel die zelf de flank afschuimde en Floren aanspeelde. Een lob in één tijd, dit was met voorsprong de mooiste treffer van de ochtend! Na de 3-0 werd er verder vlot gecombineerd en probeerden we met enkele flankwissels variatie in ons spel te leggen. Ook enkele hoekschoppen leverden nog wat gevaar op. Zo slaagde kapitein Benjamin er met de hulp van een stuntelig wegkoppende verdediger in om de bal twee keer de lat te laten raken. Uiteindelijk was het Wout die een te korte terugspeelbal genadeloos afstrafte. Hij stormde op de keeper af en probeerde de bal door de benen te spelen. Toen dat niet lukte en de bal op de benen van de keeper kaatste, kreeg hij gelukkig nog een herkansing die hij niet liet liggen. Dat we na deze mooie vier goals nog een tegengoal slikten, zal wellicht te wijten zijn aan een licht concentratieverlies en verdient niet meer dan een voetnoot.</Paragraph>
+    <Paragraph>
+      Zoals gebruikelijk eindigen matchen in dit tornooi met een strafschoppenreeks. Scoorden voor de Krisnaldo’s vanop de stip:
+      - Wout Veranneman
+      - Sam Decoene
+      - Pieter Vermandere
+    </Paragraph>
+    <Paragraph>Volgende week spelen we de kleine finale om 10 u tegen oude bekende Sportief Exclusief. Het belooft dan ook een mooie affiche te worden waar voetbalsupporters gratis van kunnen meegenieten. Het is ook een unieke kans om onze trofeeënkast verder aan te vullen.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

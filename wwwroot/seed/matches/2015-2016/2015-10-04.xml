@@ -1,0 +1,42 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Alexander Verkouille</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>10</Month>
+    <Day>04</Day>
+  </Time>
+  <Against role="home" type="cup">
+    <TeamName>Blue Stars</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Stijn Vansteenkiste</Scored>
+      <Assist>Wout Veranneman</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend trokken De Krisnaldo's naar Wingene. Ondanks het vroege uur en de vele kilometers was er ook een grote delegatie Ultranaldo's aanwezig. Mede door hun vurig supporteren speelde geel-blauw 1-1 gelijk in een potig bekerduel tegen de Blue Stars, een ploeg die uitkomt in de A reeks.</Paragraph>
+    <Paragraph>De wedstrijd begon evenwichtig met gevaar langs beide kanten. Na ongeveer een kwartier spelen kregen we via strafschop de uitgelezen kans om op voorsprong te komen, helaas was het Wingense doel net iets te klein en bleef de brilscore op het bord staan. De thuisploeg had hieruit vertrouwen getankt en kon niet veel later de 1-0 scoren. Ons antwoord liet niet lang op zich wachten met enkele uitstekende kansen. Alleen ontbreekt het ons op dit moment wat aan scorend vermogen om deze kansen te verzilveren. Ruststand:1-0.</Paragraph>
+    <Paragraph>Na rust zakten de Wingenaars ver terug waardoor we veel ruimte kregen om te voetballen. Eenmaal was de thuisploeg gevaarlijk op de counter maar doelman Joachim Ally hield ons met een katachtige reflex in de wedstrijd. Voor het overige waren wij voortdurend baas. Het tactische strijdplan van coach Kenzo De Sutter zat goed ineen en de blue stars werden volledig achteruit gedrongen. Na een prima actie van Robin Van Hulle en Wout Veranneman was het uiteindelijk Stijn Vansteenkiste die van dichtbij de verdiende 1-1 binnenkopte. We gingen daarna nog op zoek naar het winnende doelpunt maar daar was geen tijd meer voor. 1-1 en dus strafschoppen.</Paragraph>
+    <Paragraph>De Blue Stars bleken net iets koelbloediger en wonnen de strafschoppenreeks met 5-3. Scoorden voor De Krisnaldo's: Joachim Ally - Stijn Vansteenkiste (Panenka) - Martijn Vandaele. Wat dit verlies op strafschoppen betekent in een nogal complex bekersysteem is nog niet duidelijk. Wellicht spelen we de volgende ronde voor een iets kleinere beker.</Paragraph>
+    <Paragraph>Volgende week spelen we tegen SV Woumen. Winnen is een must willen we meedoen bovenin het klassement.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

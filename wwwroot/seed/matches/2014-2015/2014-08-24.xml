@@ -1,0 +1,63 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Jonas Callewaert</Player>
+    <Player>Tom Thevelein</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Mahoney Deckmyn</Player>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Robin Van Hulle</Player>
+  </Players>
+  <Time>
+    <Year>2014</Year>
+    <Month>08</Month>
+    <Day>24</Day>
+  </Time>
+  <Against role="away" type="tournament">
+    <TeamName>Palace Shotters</TeamName>
+  </Against>
+  <Score>
+    <Home>8</Home>
+    <Away>0</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Floren Bostoen</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Stijn Vansteenkiste</Scored>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Benjamin De Geest</Scored>
+    </Goal>
+    <Goal sequence="4">
+      <Scored>Stijn Vansteenkiste</Scored>
+    </Goal>
+    <Goal sequence="5">
+      <Scored>Brecht Houvenaeghel</Scored>
+    </Goal>
+    <Goal sequence="6">
+      <Scored>Jonas Callewaert</Scored>
+    </Goal>
+    <Goal sequence="7">
+      <Scored>Jonas Callewaert</Scored>
+    </Goal>
+    <Goal sequence="8">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend stond de tweede ronde van het tornooi "De Lokkedyze" op het programma. Tegenstander de Palace Shotters werd met een droge 8-0 terug naar huis gestuurd.</Paragraph>
+    <Paragraph>Voor aanvang van de wedstrijd was er even paniek toen onze doelman onverwachts niet kwam opdagen. Carl Frimout stelde zich dan maar kandidaat om te depanneren in doel. Ondanks het gebrek aan ervaring als doelman stond hij met een ongelofelijke présence te keepen waar vriend en vijand schrik van kreeg. De zorgen voor de wedstrijd waren echter totaal overbodig, want bijna direct na aftrap kon Floren Bostoen de score openen. Niet veel later volgde al de 2-0, na een doelpunt van Stijn Vansteenkiste. Nog voor het kwartier kon Benjamin De Geest de bordjes op 3-0 zetten. Het vierde doelpunt was misschien nog het mooiste: na een aanval uit het boekje, die begon bij ons centrale duo achterin, kon Stijn Vansteenkiste zijn tweede goal maken en de stand op 4-0 zetten. De Krisnaldo's hadden er echter nog geen genoeg van: nog voor de rust kon Brecht Houvenaeghel de forfaitscore op het bord zetten.</Paragraph>
+    <Paragraph>Na rust verliep het spel moeizamer: de vele overtredingen haalden het tempo uit de wedstrijd, waardoor we ons sprankelende spel niet meer konden spelen. Het was dan ook wachten tot diep in de tweede helft wanneer goaltjesdief Jonas Callewaert tweemaal kon toeslaan en de score aandikte tot 7-0. Goalgetter Wout Veranneman wachtte tot de laatste seconden om zijn goaltje mee te pikken en de finale 8-0 cijfers vast te leggen.</Paragraph>
+    <Paragraph>Na de wedstrijd was er opnieuw de gebruikelijke penalty shoot-out. Voor de eerste maal slaagden we er niet in deze te winnen: onze ingevallen doelman zat nog ergens halfweg tussen de Lokkedyze en dromenland en kon dit keer geen elfmeter stoppen. Hij moest dan ook rekenen op een misser van de tegenstander. De penalty's eindigden uiteindelijk op 4-4. Scoorden voor de Krisnaldo's:</Paragraph>
+    <Paragraph>Onze goalie Wout Veranneman Lowie Frimout Carl Frimout</Paragraph>
+    <Paragraph>Volgende week wacht ons de huidige leider van dit tornooi, 't Kloefke. Supporters op post!</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

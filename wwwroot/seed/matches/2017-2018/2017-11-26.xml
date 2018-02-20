@@ -1,0 +1,43 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Detlev Hessel</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Joachim Ally</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Floren Bostoen</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>11</Month>
+    <Day>26</Day>
+  </Time>
+  <Against role="away" type="cup">
+    <TeamName>FC De Geite</TeamName>
+  </Against>
+  <Score>
+    <Home>2</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Sam Decoene</Scored>
+    </Goal>
+    <Goal sequence="2">
+	  <Scored>Martijn Vandaele</Scored>
+      <Assist>Joachim Ally</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+  <Paragraph>Net als vorige week was het bar koud, waardoor het 'ontdooien van een autoruit' als geldig excuus werd aanzien om 5 minuutjes te laat te komen. Na een mindere reeks in de competitie was het tijd om in de bekercompetitie de rug te rechten. Tegenstander van dienst in deze kwartfinale was Fc De Geite Fanpage, een sympathieke ploeg uit de buik van reeks B die we in april nog met 4-1 klopten.</Paragraph>
+<Paragraph>In de eerste helft viel er weinig te beleven. De scheidsrechter leidde deze makke eerste helft autoritair en liet daar weinig ruimte voor tegenspraak. De Geite ontving al snel twee gele kaarten voor protest. Voetballend kwamen ze opzetten met enkele strakke voorzetten, maar centrale verdediger ad interim Benjamin kopte de meeste ballen feilloos weg. Al mag hij ook spreken van een tikkeltje geluk toen hij bij een strakke voorzet net geen owngoal maakte. De grootste kans kwam er op aangeven van Sam. Die gewiekste en aalvlugge nummer 5 speelde een diepe bal richting het strafschopgebied en Wout ging op snelheid met de bal aan de haal. Jammer genoeg gooide keeper Deceuninck zich als een leeuw voor de bal. Het was meteen ook Wout z'n laatste wapenfeit, want een flauwe ademstoot later werd hij foutief afgestopt in het strafschopgebied. Met een blessure aan de rechterenkel mankte hij van het veld. Tot overmaat van ramp was de reservebank alweer pijnlijk leeg en mochten we nog een helft met z'n tienen bikkelen.</Paragraph>
+<Paragraph>De tweede helft was er een met meer spektakel. Tegenstander Tommy knalde op onze doelwachter Brecht. De rebound viel jammer genoeg in de voeten van een andere aanvaller die ons zonder medelijden op achterstand zette. In een 4-4-1 opstelling probeerden we de bakens te verzetten. Een kwartier voor tijd lukte dat ook, toen linkermiddenvelder Sam een vrije trap staalhard in de winkelhaak knalde. 'Vooruit met de Geit' dachten De Krisnaldo's, want nauwelijks 5 minuten later stonden we al op voorsprong. Een pasje opzij van Joachim werd opgepikt door Martijn, die de bal over de glijdende keeper tegen de touwen jaagde. Een unieke kans om de wedstrijd helemaal dood te maken op strafschop ging net naast. En zoals het voetbalcliché het voorschrijft, krijg je dan het deksel op de neus. Een steekpass richting spits Arne en een mooie slalom voorbij onze keeper Brecht zorgden voor de pijnlijke gelijkmaker.</Paragraph>
+<Paragraph>De penaltyreeks was razend spannend. Jammer genoeg misten wij één penalty terwijl de tegenstander foutloos bleef. Ondanks de ontgoocheling toonden we ons beleefd en braaf in het handjes schudden, goed wetende dat we qua trofeeën in het seizoen 2017-2018 alles op de fair-play beker zullen moeten zetten.</Paragraph>
+  </Report>
+</Match>

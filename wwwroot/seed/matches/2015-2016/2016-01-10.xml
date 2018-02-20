@@ -1,0 +1,35 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>01</Month>
+    <Day>10</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>FC De Sportwereld</TeamName>
+  </Against>
+  <Score>
+    <Home>0</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals/>
+  <Report>
+    <Paragraph>Zondag is sportdag! Aangezien het deze week wel stevig geregend had, reden we met een bang hart voor eventuele afgelasting naar onze heimat, de CERA. Maar eenmaal aangekomen werd duidelijk dat er ging gevoetbald worden vandaag. Onze Krisnaldo’s moesten immers FC De Sportwereld in de ogen kijken vandaag, een ploeg die maar 1 plaats hoger stond in het klassement. Er moest dus gewonnen worden om in de eerste kolom van het klassement te komen.</Paragraph>
+    <Paragraph>De match werd op gang gefloten en beide ploegen begonnen furieus aan de wedstrijd. Zowel wij als de tegenpartij boksten mooie acties in elkaar, maar helaas werd bij ons teveel weg gestampt en te weinig nagedacht in de gevarenzone. Bij de tegenstanders was dit niet het geval waardoor het na 5 minuten al 0-1 stond. Het sein aan ons om wakker te schieten en heel wat rustiger te werk te gaan. Naarmate de eerste helft vorderde kwamen we meer in de wedstrijd en waren we ook rustiger voor de goal, maar een doelpunt scoren zat er nog niet in. Zo gingen we rusten met een 0-1 achterstand.</Paragraph>
+    <Paragraph>Tijdens de pauze werden enkele tactische verschuivingen doorgevoerd en werd ook Benjamin in de ploeg gegooid om voor gevaar te zorgen voor de goal. Vanaf het fluitsignaal werd dan ook druk gezet naar voor waardoor de tegenpartij eventjes sterren zag. De tweede helft was bijgevolg eenrichtingsvoetbal. Helaas lukte het ons niet om die zuurverdiende gelijkmaker te maken. Uitstekende voorzetten werden niet benut, kopkansen werden van de lijn gekeerd en schietkansen gingen voorlangs. We voelden echter dat de goal erin zat en bleven druk zetten. Dit leidde echter tot enkele stevige counterkansen van de tegenpartij. Gelukkig waren onze centrale verdedigers Pieter-Jan en Robin bij de les en haalde keeper Lowie met een tijgerachtige sprong nog een bal uit de rechterbenedenhoek. Zo bleef het echter 0-1 tot het eindsignaal en moesten we zonder punten terug afdruipen. Qua voetbal zit het wel snor, maar opnieuw vergeten we van onze kansen af te werken. En om onze nummer 10 Martijn te citeren: "Aj geen doelpunten makt, kundje nie winnen é!"</Paragraph>
+    <Paragraph>Zo zien we FC de Sportwereld terug drie punten uitlopen en blijven we op de 8ste plaats in het klassement hangen. Tijd om volgende week te schitteren tegen het Nieuw Gemeentehuis en om onze doelstelling van zo rap mogelijk in de eerste kolom terecht te komen kracht bij te zetten. Volgende week zondag worden onze Krisnaldo’s dan ook in topvorm verwacht! Supporters op post!</Paragraph>
+  </Report>
+</Match>

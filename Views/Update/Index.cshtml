@@ -1,0 +1,25 @@
+﻿@model KrisnaldoApp.Models.UpdateDatabase
+@{
+    ViewData["Title"] = "UpdateDatabase";
+}
+Op deze pagina kan u een bericht typen dat dan verstuurd wordt naar het bestuur van de Krisnaldo's. U krijgt snel een antwoord terug via mail.
+<br /><br />
+<form class="form-horizontal" method="post" role="form" action="/Update">
+
+ 
+
+
+    <div class="form-group">
+        <label for="name" class="col-sm-2 control-label">Paswoord</label>
+        <div class="col-sm-10">
+            <textarea id="Password" name="Password" class="form-control" placeholder="Jouw Bericht" rows="8" required></textarea>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-sm-offset-2 col-sm-6">
+            <button type="submit" class="btn btn-primary">Verstuur jouw bericht</button>
+        </div>
+    </div>
+</form>
+

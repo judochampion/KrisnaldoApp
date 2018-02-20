@@ -1,0 +1,161 @@
+@model KrisnaldoApp.Models.StatistiekViewModels.CompetitieStatistiek
+
+
+@{
+    ViewData["Title"] = "Competitiestatistieken van het seizoen " + Model.Seizoen.SeizoenNaam;
+}
+<div class="row">
+    <div class="col-md-12">
+        <div>
+            Hier vind je <b>een overzicht van de competitie @Model.Seizoen.SeizoenNaam</b>. Matchen in de beker, vrienschappelijke matchen en toernooienwedstrijden zijn buiten beschouwing gelaten.
+        </div>
+        <hr />
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">Weetjes</h3>
+            </div>
+            <div class="panel-body">
+                <ul>
+                    <li>
+                        We hebben al @Model.AantalGespeeldeMatchen matchen gespeeld en hebben er nog @Model.NogTeSpelenMatchen te gaan.
+                        <div class="progress">
+                            <div class="progress-bar" role="progressbar"
+                                 aria-valuenow="@Model.GespeeldPercentage" aria-valuemin="0" aria-valuemax="100" style="@Model.AantalMatchenStyleWidthAttribute">
+                                @Model.GespeeldPercentage % Compleet
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        Hiervan hebben we @Model.AantalMatchenGewonnen matchen gewonnen, @Model.AantalMatchenGelijk keer gelijkgespeeld en @Model.AantalMatchenVerloren keer het onderspit moeten delven.<div class="progress">
+                            <div class="progress-bar progress-bar-success" role="progressbar" style="@Model.AantalMatchenGewonnenStyleWidthAttribute">
+                                @Model.AantalMatchenGewonnen
+                            </div>
+                            <div class="progress-bar progress-bar-warning" role="progressbar" style="@Model.AantalMatchenGelijkStyleWidthAttribute">
+                                @Model.AantalMatchenGelijk
+                            </div>
+                            <div class="progress-bar progress-bar-danger" role="progressbar" style="@Model.AantalMatchenVerlorenStyleWidthAttribute">
+                                @Model.AantalMatchenVerloren
+                            </div>
+                        </div>
+                    </li>
+                        @if (Model.AantalGoalsGescoord==0){
+                            <li>We hebben nog niet gescoord.</li>
+                        }
+                        else if(Model.AantalGoalsGescoord == 1)
+                        {
+                            <li>We hebben al 1 goal gescoord.</li> 
+
+                        }else
+                        {
+                            <li>We hebben al @Model.AantalGoalsGescoord goals gescoord.</li>
+
+                        }
+                    @if (Model.AantalTegenGoalsGeIncasseerd == 0)
+                    {
+                        <li>We hebben nog geen tegengoals geslikt.</li>
+                    }
+                    else if (Model.AantalTegenGoalsGeIncasseerd == 1)
+                    {
+                        <li>We hebben al 1 tegengoal geslikt.</li>
+
+                    }
+                    else
+                    {
+                        <li>We hebben al @Model.AantalTegenGoalsGeIncasseerd tegengoals geslikt.</li>
+
+                    }
+
+
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">De Trouwe Hond</h3>
+            </div>
+            <div class="panel-body">
+                <ol>
+                    @foreach (KeyValuePair<string, int> entry in Model.dGespeeldDic.OrderByDescending(pair => pair.Value))
+                    {
+                        @if (@entry.Value == 1)
+                        {
+                            <li>@entry.Key: @entry.Value wedstrijd</li>
+                        }
+                        else
+                        {
+
+                            <li>@entry.Key: @entry.Value wedstrijden</li>
+                        }
+                    }
+                </ol>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">De Gouden Stier</h3>
+                    </div>
+                    <div class="panel-body">
+                        <ol>
+                            @foreach (KeyValuePair<string, int> entry in Model.dScoorDic.OrderByDescending(pair => pair.Value))
+                            {
+                                @if (@entry.Value == 1)
+                                {
+                                    <li>@entry.Key: @entry.Value goal</li>
+                                }
+                                else
+                                {
+
+                                    <li>@entry.Key: @entry.Value goals</li>
+                                }
+
+                            }
+                        </ol>
+
+                    </div>
+                </div>
+            </div>
+    <div class="col-md-4">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">De Behulpzame Otter</h3>
+                    </div>
+                    <div class="panel-body">
+                        <ol>
+                            @foreach (KeyValuePair<string, int> entry in Model.dAssistDic.OrderByDescending(pair => pair.Value))
+                            {
+
+                                @if (@entry.Value == 1)
+                                {
+                                    <li>@entry.Key: @entry.Value assist</li>
+                                }
+                                else
+                                {
+
+                                    <li>@entry.Key: @entry.Value assists</li>
+                                }
+
+                            }
+                        </ol>
+                    </div>
+                </div>
+            </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <hr />
+        <div>
+            <a asp-action="Index">Ga terug naar het overzicht van alle seizoenen</a>
+        </div>
+    </div>
+</div>
+

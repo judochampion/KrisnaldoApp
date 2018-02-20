@@ -1,0 +1,40 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Lowie Frimout</Player>
+    <Player>Alexander Verkouille</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Jonas Callewaert</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Tijs Houvenaeghel</Player>
+    <Player>Mahoney Deckmyn</Player>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Thomas Deruyter</Player>
+  </Players>
+  <Time>
+    <Year>2014</Year>
+    <Month>08</Month>
+    <Day>31</Day>
+  </Time>
+  <Against role="away" type="tournament">
+    <TeamName>'t Kloefke</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Thomas Deruyter</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Als laatste wedstrijd van het tornooi "De Lokkedyze" kwamen de Krisnaldo's deze ochtend tegenover 't Kloefke te staan. Een gelijkspel volstond om de tweede plaats veilig te stellen, wat ons uiteindelijk ook lukte.</Paragraph>
+    <Paragraph>Dit gebeurde echter niet probleemloos. Door een actie op snelheid kwam 't Kloefke al snel op voorsprong in de eerste helft. De Krisnaldo's waren meteen wakker en vastberaden om het tij te keren. Ondanks het éénrichtingsvoetbal en de regen aan kansen slaagden we er een hele poos niet in om de bal in de netten van de tegenstander te krijgen.</Paragraph>
+    <Paragraph>Halfweg de tweede helft kwam dan uiteindelijk toch de verlossing: na een rebound plaatste Thomas Deruyter het leer koelbloedig in doel. Nadien bleven de kansen komen, zonder resultaat helaas. Eindscore: 1-1. De gebruikelijke penalty shoot-out eindigde op 3-3, met alweer twee mooie saves van ons keeperke. Scoorden op penalty voor de Krisnaldo's:</Paragraph>
+    <Paragraph>Lowie Frimout Keeperke Benjamin De Geest</Paragraph>
+    <Paragraph>De Krisnaldo's mogen trots zijn op de geleverde prestaties. Als recent opgerichte ploeg is een tweede plaats op het toernooi van De Lokkedyze een heel mooi resultaat. De toon is gezet, nu vol vertrouwen op naar de competitie!</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

@@ -1,0 +1,48 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Simon De Taeye</Player>
+    <Player>Brecht Degezelle</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Matthijs Germonprez</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Tijs Houvenaeghel</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>09</Month>
+    <Day>11</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>Nieuw Gemeentehuis</TeamName>
+  </Against>
+  <Score>
+    <Home>3</Home>
+    <Away>0</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Wout Veranneman</Scored>
+      <Assist>Pieter Vermandere</Assist>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Joachim Ally</Scored>
+      <Assist>Martijn Vandaele</Assist>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Sam Decoene</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend stond alweer de 2e competitiewedstrijd op het menu. De Krisnaldo's ontvingen 't Nieuw Gemeentehuis. Geel Blauw won met overtuigende 3-0 cijfers en mag zich voor minstens 1 week leider noemen.</Paragraph>
+    <Paragraph>Voor aanvang van de wedstrijd was er aan enthousiasme geen gebrek. De stadionomroeper riep alle namen af en de massaal aanwezige ultranaldo's scandeerden luidkeels alle spelersnamen. Sommige Krisnaldo's bleven er bescheiden onder, anderen waanden zich nu al de vedette.
+      Een ding was zeker, het enthousiasme werkte. Onze eerste bal voorwaarts werd direct omgezet in een doelpunt, Wout Veranneman kon zich goed doorzetten en duwde de bal mooi richting verste paal binnen: 1-0. Net zoals vorige week opnieuw een snel doelpunt en deze keer viel het wel aan de goeie kant. De bezoekers werden meteen op achtervolgen aangewezen en eisten direct daarna ook steeds de bal op. Een paar keer kwamen we goed weg, Tijs Houvenaeghel kon een bal van de lijn redden en Brecht Degezelle moest zich ook enkele malen onderscheiden. Op de tegenaanval konden wij ook af en toe dreigen al waren we toch blij dat we de rust konden halen met een 1-0 voorsprong.</Paragraph>
+    <Paragraph>Na rust zakte het tempo wat bij de Kachtemnaren. De roodhemden verlegden hun focus meer op onderlinge discussies waardoor het voetballen zelf wat over het hoofd gezien werd. Goed voor ons en halfweg de tweede helft konden we profiteren van een van hun misverstanden, Martijn Vandaele kon op rechts de bal onderscheppen en daarna Joachim Ally alleen op doel laten afstuiven, die kon op zijn beurt de keeper verschalken met een puntertje: 2-0. Wedstrijd gespeeld maar Sam Decoene zou Sam Decoene niet zijn vooraleer hij niet eerst nog als koene ridder de kers op de taart zou plaatsen. Op de linkerflank kreeg onze nummer 5 veel te veel ruimte. Korte slalom tussen 2 man en dan overhoeks binnen knallen. Een pareltje en daarmee stond de 3-0 eindstand op het bord.</Paragraph>
+    <Paragraph>Toegegeven, op basis van de eerste helft verdiende 't Nieuw Gemeentehuis niet om met zo'n cijfers te verliezen. Het zal ons echter worst wezen, we staan top of the league en zijn niet van plan die positie onmiddellijk af te staan. Volgende week spelen we tegen promovendus FC De Geite.
+    </Paragraph>
+  </Report>
+</Match>

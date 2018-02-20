@@ -1,0 +1,48 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Janneman Schouteten</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Alexander Verkouille</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>10</Month>
+    <Day>11</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>SV Woumen</TeamName>
+  </Against>
+  <Score>
+    <Home>6</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Stijn Vansteenkiste</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Stijn Vansteenkiste</Scored>
+      <Assist>Wout Veranneman</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>
+      Alsof Wingene nog niet ver genoeg was, mochten we deze keer onze gaspedalen nog wat langer ingedrukt houden richting Woumen. Eenmaal aangekomen bleek dat na een late afzegging we slechts met tien aan de aftrap stonden tegen de ervaren tegenstrevers uit Woumen.
+    </Paragraph>
+    <Paragraph>
+      We besloten het te proberen met een driemansdefensie en aanvankelijk legde ons dat geen windeieren. De aalvlugge Martijn Vandaele spurtte de linkerflank af en zette voor. De Woumense verdediger die in zijn vrije tijd ook handballer is vergiste even welke sport hij speelde en veroorzaakte dan ook een penalty. Stijn Vansteenkiste zette de penalty om en zo stond het al na 2 minuten 1-0. Lang bleef dat echter niet duren. De driemansdefensie bleek kaas met gaatjes en na twee gaatjes en een 2-1 achterstand werd de tactiek omgegooid. Brecht Houvenaeghel nam zijn verantwoordelijkheid als captain om een rijtje achteruit te schuiven. Toch kon een flankspeler nog eenmaal zijn duivels ontbinden en zette die enig mooi voor voor de inkoppende spits, waardoor we met een 3-1 achterstand de kleedkamer binnenstrompelden.
+    </Paragraph>
+    <Paragraph>De koppen werden bij elkaar gestoken en er werd dan ook beslist Alexander Verkouille naar het middenveld te halen om zo ruimte te creëeren voor Wout op rechts. Een tactiek die aanvankelijk goed werkte want met een ontketende Stijn Vansteenkiste op kop brak onze sterkste periode aan. Na enkele waarschuwingen aan de vijandelijke keeper was het Stijn die op assist van Wout de aansluitingstreffer maakte. We hielden dat tempo nog even aan, maar geleidelijk aan begonnen er opnieuw barstjes in de architectuur van de Twin Towers (Simon De Taeye en Joachim Ally) te komen. Dries Sticker, eindelijk terug na pijnlijk blessureleed, deed zijn best om nog enkele ballen uit zijn kooi te ranselen, maar na een corner en twee mooie uitgespeelde kansen werd de score nog aangedikt tot 6-2.</Paragraph>
+    <Paragraph>
+      Een pijnlijke 4 op 15 is de dramatische balans van ons seizoensbegin en we hopen dan ook snel op een overwinning om het degradatiespook uit de kleedkamer te houden. Al zal het moeiljik worden tegen Groen-Wit, de nummer 3 uit de stand, we gaan er opnieuw volledig voor gaan!
+    </Paragraph>
+  </Report>
+</Match>

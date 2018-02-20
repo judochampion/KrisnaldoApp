@@ -1,0 +1,51 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Alexander Verkouille</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Mahoney Deckmyn</Player>
+    <Player>Robin Van Hulle</Player>
+  </Players>
+  <Time>
+    <Year>2014</Year>
+    <Month>10</Month>
+    <Day>05</Day>
+  </Time>
+  <Against role="home" type="cup">
+    <TeamName>De Turbo's</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>4</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Simon De Taeye</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Sam Decoene</Scored>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Martijn Vandaele</Scored>
+    </Goal>
+    <Goal sequence="4">
+      <Scored>Sam Decoene</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend stond de eerste ronde van de beker op het programma, met de Turbo's uit reeks B als tegenstander. De Krisnaldo's behaalden een puike 1-4 overwinning en bekeren zo een ronde verder.</Paragraph>
+    <Paragraph>De wedstrijd nam een aarzelende start. De Turbo's combineerden niet onaardig en lieten ons achter de bal aanlopen, maar dit leidde niet meteen tot doelrijpe kansen. De Krisnaldo's konden daar weinig tegenover zetten, waardoor er aan de rust een logische 0-0 stand op het bord stond.</Paragraph>
+    <Paragraph>Na rust eisten we toch meer de bal op en slaagden we er in om voor meer gevaar te zorgen. Dit leidde tot een reeks hoekschoppen, één van de -stilaan beruchte- wapens van De Krisnaldo's. De voltallige luchtmacht schoof ook dit keer mee naar voren en op hoekschop van Pieter Vermandere was het opnieuw raak: na wat gerommel was het uiteindelijk Simon De Taeye die de 0-1 kon binnenduwen. De ban was nu gebroken voor De Krisnaldo's en dit resulteerde in meer gevaar voor doel. Niet veel later kon Sam Decoene zich doorzetten. Na alles en iedereen gepasseerd te hebben, plaatse hij de bal knap in doel: 0-2. De doelpuntenmachine was nu opnieuw vertrokken. Even later kwam Martijn Vandaele alleen voor doel: hij stiftte het leer over de doelman en via de lat belandde de bal in doel: 0-3. De Krisnaldo's hadden er echter nog niet genoeg van: na opnieuw een hoekschop kwam de afvallende bal bij Sam Decoene terecht, die de bal overtuigend binnenschoof aan de verste paal. Met zijn tweede van de dag zette Sam zo de 0-4 op het bord. De wedstrijd was nu gespeeld en het was tijd om onze voetballende kwaliteiten tentoon te spreiden met enkele knappe combinaties. Toch moest keeper Dries Sticker zich alsnog gewonnen geven in de slotfase, wanneer de spits van de Turbo's een vrije trap mooi in de winkelhaak krulde.</Paragraph>
+    <Paragraph>Na de match was er nog een penalty shoot-out voorzien, met als finale uitslag 3-3. Doelpuntenmakers voor De Krisnaldo's: Brecht Houvenaeghel, Pieter Vermandere en Sam Decoene.</Paragraph>
+    <Paragraph>Met deze 1-4 overwinning bekeren we dus verder en staan we een stap dichter bij de grote finale. Volgende week hervatten we terug de reguliere competitie met een wedstrijd tegen FC 't Dorp.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+    <Paragraph>PS Naast het sportieve succes, hebben we vandaag ook flink wat geld verdiend op de rommelmarkt om de clubkas wat te spijzen. Bij deze willen wij dan ook graag Jonas en Kjell bedanken voor het vroege opstaan en het uren naar rommel staren!</Paragraph>
+  </Report>
+</Match>

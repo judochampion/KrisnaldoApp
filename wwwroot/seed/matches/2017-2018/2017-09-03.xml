@@ -1,0 +1,41 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+	<Player>Lowie Frimout</Player>
+	<Player>Janneman Schouteten</Player>
+	<Player>Benjamin De Geest</Player>
+	<Player>Reinout Pattijn</Player>
+    <Player>Maarten Missine</Player>
+	<Player>Pieter Vermandere</Player>	
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Brecht Houvenaeghel</Player>
+	<Player>Wout Veranneman</Player>
+	<Player>Joachim Ally</Player>
+	<Player>Matthijs Germonprez</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>09</Month>
+    <Day>3</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>De Vedetten</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Wout Veranneman</Scored>
+	  <Assist>Martijn Vandaele</Assist>
+    </Goal>
+	</Goals>
+  <Report>
+  <Paragraph>Deze ochtend was het eindelijk zover. Het begin van het nieuwe RLV seizoen. De Krisnaldo's mochten voor het eerst in hun roemrijke geschiedenis aantreden in de A-reeks. De eerste wedstrijd vond plaats in Wingene, alwaar De Vedetten ons op vriendelijke doch licht intimiderende wijze verwelkomden. "Welkom in de hel van Wingene" luidden de eerste provocaties.</Paragraph>
+<Paragraph>Beide ploegnamen getuigen van een gezonde dosis zelfvertrouwen en zo verliepen ook de eerste minuten. De Vedetten konden een aantal keer dreigen en ook Joachim Ally was er dichtbij met een bal op de paal. Zo'n 5 minuten voor de rust kregen we ruimte om te counteren. Martijn Vandaele kapte zich mooi vrij en stak de bal op het juiste moment diep tot bij Wout Veranneman. De turbomotor van onze nummer 7 was te snel voor de Wingenaars en alleen voor de keeper plaatste hij ons beheerst op een 0-1 voorsprong. 0-1 was ook de stand bij de rust.</Paragraph>
+<Paragraph>In de tweede helft leek aanvankelijk alles in evenwicht te zijn, maar naarmate de minuten verstreken voerde de thuisploeg meer en meer de druk op. We kregen het moeilijker en raakten nog maar met mondjesmaat uit onze defensieve stellingen. 5 minuten voor affluiten werden de Vedetten dan ook voor hun inzet beloond. Na een stilliggende fase werd de bal door ons onvoldoende weggewerkt en met een lage schuiver werd doelman Brecht Degezelle gevloerd: 1-1. In de laatste minuten die daarop volgden hadden we nog de betere kansjes maar een overwinning was wellicht wat overdreven.</Paragraph>
+<Paragraph>We beginnen dus aan de competitie met een 1-1 gelijkspel. Het was een aangename kennismaking met de A-reeks tegen een sportieve en goed voetballende ploeg. Het doet ons allemaal al uitkijken naar volgende week. Dan nemen we het thuis op tegen DC United, tot dan!</Paragraph>
+  </Report>
+</Match>

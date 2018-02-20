@@ -1,0 +1,51 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Janneman Schouteten</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Alexander Verkouille</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>04</Month>
+    <Day>03</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>Nieuw Gemeentehuis</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>3</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Joachim Ally</Scored>
+      <Assist>Benjamin De Geest</Assist>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Alexander Verkouille</Scored>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Floren Bostoen</Scored>
+      <Assist>Alexander Verkouille</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend stond de wedstrijd tussen De Krisnaldo's en Het Nieuw Gemeentehuis op het programma. Door een last minute beslissing van de RLV bobo's werd de wedstrijd toch op ons vertrouwd Cera terrein afgewerkt. De Krisnaldomachine zet zijn zegereeks verder na een 1-3 overwinning in een lastige wedstrijd.</Paragraph>
+    <Paragraph>De flitsende start zoals we die de laatste weken nemen bleef nu uit. Mede door een tegenstander die veel beter voetbalt dan hun notering in het klassement doet vermoeden. Na een korte inloopperiode begonnen we ook weer beter te spelen en werd het voor de toeschouwers een aangename partij. Maar verder dan wat kleine kansjes aan beide kanten viel er weinig te noteren. De scheidsrechter had dan al genoeg gezien en besloot de eerste helft vroegtijdig af te fluiten. Na een tweede keer kijken op zijn trendy horloge had de brave man toch door dat er eigenlijk nog 5 minuten te spelen waren en kwam terug op zijn beslissing. Gelukkig maar want het venijn zat hem in de staart van die eerste helft. Na een mooi uitgespeelde actie over links kon Benjamin De Geest afleggen tot bij Joachim Ally die moederziel alleen de 0-1 voorsprong tegen de netten jaagde. Rusten deden we bij een 0-1 voorsprong.</Paragraph>
+    <Paragraph>Na de pauze eenzelfde spelbeeld, 2 ploegen die elkaar met open vizier bestreden in een wedstrijd die snel over en weer ging. Halfweg de eerste helft werd de thuisploeg beloond voor hun inzet. Een voorzet vanop links werd door de Kachtemse spits knap in doel gewerkt. Een kleine domper al bleven we niet bij de pakken zitten. Na een voorzet vanaf de linkerflank kon de Gemeentehuis doelman de bal onvoldoende wegwerken en het was the comeback kid Alexander Verkouille die ons met een geplaatste bal terug op voorsprong bracht. Het vertrouwen was terug en alles liep weer op wieltjes. Robin Vanhulle die in zijn gekende stijl uitverdedigde met een panna, Anthony olé olé rolde van de tribunes. Ook Alexander Verkouille had na zijn doelpunt vleugels gekregen, na een slalom tussen 2 man speelde hij de bal naar de vrijstaande Floren Bostoen die ons met een heerlijke lob de verlossende 1-3 voorsprong schonk. Een Messiaans doelpunt in Krisnaldotenue, aan lef geen gebrek bij de kleine Hoogledenaar.</Paragraph>
+    <Paragraph>Opnieuw een overwinning dus en nog 3 wedstrijden te gaan. Toeval of niet maar die laatste 3 wedstrijden spelen we telkens tegen een titelkandidaat. Na een fantastische terugronde hebben we nu niets meer te verliezen en kunnen we enkel nog de kers op de taart zetten door,onverhoopt, promotie af te dwingen. Na de wedstrijd kregen we ook nog de kans om de passage van de Ronde van Vlaanderen mee te maken. Over wie Vlaanderens mooiste zou winnen lagen de meningen verder uiteen. Sam Decoene ging voor Edward Theuns terwijl Wout Veranneman het toch maar op Tom Boonen hield. "Ze nemen toch allemaal doping", merkte Lowie Frimout eerder cynisch op. Weg sfeer, al keerde iedere Krisnaldo toch met een kamerbrede glimlach huiswaarts.</Paragraph>
+    <Paragraph>Volgende week trekken we naar grensstad Menen om het op te nemen tegen Groen-Wit.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

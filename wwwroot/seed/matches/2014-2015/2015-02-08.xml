@@ -1,0 +1,44 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Lowie Frimout</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Janneman Schouteten</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Carl Frimout</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Tijs Houvenaeghel</Player>
+    <Player>Robin Van Hulle</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>02</Month>
+    <Day>08</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>VK De Reisduif</TeamName>
+  </Against>
+  <Score>
+    <Home>2</Home>
+    <Away>0</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Sam Decoene</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Benjamin De Geest</Scored>
+      <Assist>Tijs Houvenaeghel</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend ontvingen De Krisnaldo's VK De Reisduif. Geel-blauw won met een eenvoudige 2-0.</Paragraph>
+    <Paragraph>Ondanks een zwaar veld vlogen we er meteen in, van bij de aftrap eisten we de bal op en zetten we hoog druk met enkele kleine kansjes tot gevolg. Net op het moment dat het spel wat leek stil te vallen kwam een afvallende bal bij Sam Decoene terecht. Het publiek veerde reeds recht want iedereen weet wat onze gouden linkervoet met dit soort ballen doet: snoeihard binnenknallen. Ook nu had de bezoekende doelman geen verhaal en stond de 1-0 op het bord. 1-0 was ook meteen de ruststand.</Paragraph>
+    <Paragraph>Na de rust bleef het spelbeeld onveranderd, wij dicteerden de wet en De Reisduif mocht achter een ongrijpbare bal hollen. Halfweg de tweede helft werden we dan ook beloond voor onze inzet. Tijs Houvenaeghel zijn indraaiende hoekschop werd door Benjamin De Geest binnengekopt: 2-0. Wedstrijd gespeeld en nu was het vooral zaak de match rustig uit te spelen. Een geïrriteerd Reisduif begon ook zeer potig te spelen waardoor het moeilijker werd om nog doelkansen te creëren. De 2-0 voorsprong bleek echter voldoende en zo boeken we een vlotte overwinning.</Paragraph>
+    <Paragraph>Volgende week spelen we een inhaalwedstrijd tegen De Palace Shotters in Ingelmunster.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

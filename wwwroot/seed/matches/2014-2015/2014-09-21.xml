@@ -1,0 +1,54 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Alexander Verkouille</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Jonas Callewaert</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Robin Van Hulle</Player>
+  </Players>
+  <Time>
+    <Year>2014</Year>
+    <Month>09</Month>
+    <Day>21</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>FC De Most</TeamName>
+  </Against>
+  <Score>
+    <Home>5</Home>
+    <Away>0</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Sam Decoene</Scored>
+      <Assist>Martijn Vandaele</Assist>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Jonas Callewaert</Scored>
+    </Goal>
+    <Goal sequence="4">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="5">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend stond de topaffiche tegen FC De Most op het programma, eindresultaat: 5-0.</Paragraph>
+    <Paragraph>De wedstrijd kon niet beter beginnen wanneer Wout Veranneman al na 5 minuten de 1-0 scoorde, een droomstart maar daarna ging het voetbal bergaf. Door teveel afval in ons spel konden we nooit echt onze stempel drukken. Er werden dan ook weinig kansen gecreëerd. Gelukkig was ons centrale duo achterin,Robin Van Hulle en Simon De Taeye, wel op de afspraak en kon ook de tegenstander voor weinig gevaar zorgen. Na een ontgoochelende eerste helft gingen we rusten met een krappe 1-0 voorsprong.</Paragraph>
+    <Paragraph>Even leek de tweede helft dramatisch te beginnen wanneer de most de 1-1 kon maken maar de scheidsrechter had een overtreding gezien op doelman Dries Sticker en zo werd hun doelpunt al dan niet terecht afgekeurd. Het bleek echter een goede waarschuwing te zijn want daarna begonnen we eindelijk beter te voetballen. Na een hoekschop van de Messi uit Langemark, Martijn Vandaele, kwam de afvallende bal bij Sam Decoene terecht die nam de bal aan op de borst en knalde dan de bal enig mooi in de winkelhaak, 2-0. FC de Most reageerde gefrustreerd en leek nu een vogel voor de kat. Enkele minuten later was het alweer prijs na prima stoorwerk sloeg hun verdediging aan het twijfelen en gingen ze in de fout, Jonas Callewaert nam het geschenk met plezier in ontvangst en zette de 3-0 op het bord. De intensieve trainingen in de voorbereiding kwamen nu volledig tot hun recht, conditioneel waren we beduidend beter en Wout Veranneman illustreerde dat tot tweemaal toe, via 2 identieke goals waarbij hij de bezoekende verdediging oprolde kon hij de 5-0 eindcijfers op het bord zetten.</Paragraph>
+    <Paragraph>Met een 9/9 maken we de perfecte start van het seizoen, enkele weken terug werd er nog lacherig gedaan over onze naam nu boezemt de naam Krisnaldo's de tegenstander vooral angst in.</Paragraph>
+    <Paragraph>Volgende week wacht ons FC De Lokkedyze, de enige ploeg waar we tot dusver van verloren hebben, volgende week dus het uitgelezen moment om revanche te nemen.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

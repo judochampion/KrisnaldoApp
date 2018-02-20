@@ -1,0 +1,45 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Martijn Vandaele</Player>
+    <Player>Pieter-Jan Soenen</Player>    
+    <Player>Robin Van Hulle</Player>
+    <Player>Lowie Frimout</Player>    
+    <Player>Sam Decoene</Player>
+    <Player>Simon De Taeye</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Brecht Degezelle</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Joachim Ally</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Brecht Houvenaeghel</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>10</Month>
+    <Day>16</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>AC 't Rozeke</TeamName>
+  </Against>
+  <Score>
+    <Home>0</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Joachim Ally</Scored>
+      <Assist>Floren Bostoen</Assist>
+    </Goal>    
+    <Goal sequence="2">
+      <Scored>Joachim Ally</Scored>
+      <Assist>Pieter Vermandere</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend stond de kraker van de B reeks op het programma. De Krisnaldo's ontvingen in eigen huis fiere leider 't Rozeke. Na een beklijvend duel won geel-blauw met 2-0. Ongeveer een jaar geleden was de wedstrijd tussen de Krisnaldo's en 't Rozeke nog een degradatietopper, inmiddels mag je het woord degradatie achterwege laten want aan de aftrap stonden de nummers 1 en 2 in de B reeks van het RLV.</Paragraph>
+    <Paragraph>Zoals de meeste toppers begon ook deze match wat zenuwachtig, een hoge intensiteit zonder echt sprankelend voetbal. De eerste echte grote kans was voor de bezoekers. Hun spits kon alleen op doel afstormen, gelukkig lag doelman Brecht Degezelle tot 2 maal toe goed in de weg om de vroege achterstand te vermijden. Daarna konden we ook enkele goede kansen creëren. Scoren lukte echter niet en zo gingen we na een evenwichtige partij met 0-0 rusten.</Paragraph>
+    <Paragraph>In de tweede helft trokken we meer en meer het laken naar ons toe. De fysieke strijd werd door ons gewonnen en de mannen in het paars kwamen nog maar zelden in de buurt van ons 16 meter gebied. Ons veldoverwicht werd steeds groter. De pogingen van Wout Veranneman en Brecht Houvenaeghel kenden aanvankelijk weinig succes maar halfweg de tweede helft konden we toch juichen. Een voorzet van MVP Floren Bostoen kwam bij Joachim Ally terecht die beheerst de 1-0 binnen plaatste. De mentale veerkracht bij de bezoekers leek snel op want nauwelijks 5 minuten later was het al opnieuw feest. Een hoekschop van Pieter Vermandere bleef hangen in de eerste zone en het was opnieuw Joachim Ally die, ditmaal iets minder beheerst, de bevrijdende 2-0 tegen de netten ramde.De laatste 10 minuten werden freewheelend afgewerkt. De tank van Joachim Ally was nog lang niet leeg en hij kon tot enkele malen toe zijn hattrick vervolledigen. Onze beer met peperkoeken hartje toonde zich echter genadig en zo eindigde de wedstrijd met een verdiende 2-0 overwinning</Paragraph>
+    <Paragraph>Op die manier wippen we over 't Rozeke en staan we voor de 2e maal dit seizoen helemaal bovenaan het klassement. Deze keer zullen we trachten dit net iets langer vast te houden, als het kan tot in mei. Volgende week staat de slag om de Cera gepland tegen de Turbo's, tot dan Ultranaldo's !</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

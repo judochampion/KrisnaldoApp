@@ -1,0 +1,52 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>04</Month>
+    <Day>12</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>FC 't Dorp</TeamName>
+  </Against>
+  <Score>
+    <Home>3</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Brecht Houvenaeghel</Scored>
+      <Assist>Benjamin De Geest</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend namen De Krisnaldo's het op tegen FC 't Dorp. Na een spannende wedstrijd kon geel-blauw pas in de ultieme slotseconden het verschil maken en zo een 3-2 overwinning in de wacht slepen.</Paragraph>
+    <Paragraph>De aftrap werd gegeven onder een mooi lentezonnetje en dus ideaal voetbalweer, al inspireerde ons dat niet meteen tot goed voetbal. Het tempo lag te laag, waardoor de Dorpelingen ook voor de meeste dreiging konden zorgen. Halfweg de eerste helft konden de bezoekers profiteren van ons makke spel en stond het plots 0-1. We leken nu toch enigszins wakkergeschud en probeerden meer druk naar voor te zetten. Door een gebrek aan creativiteit lukte scoren niet en zo gingen we met een achterstand de rust in.</Paragraph>
+    <Paragraph>In het begin van de tweede helft zat er toch meer vuur in ons spel, waardoor we 't Dorp voortdurend tot in de eigen zestien drukten. We creëerden voldoende kansen, al lukte het niet om de bal in het mandje te leggen. De gelijkmaker kwam er dan ook via een strafschop, na handspel van een Dorpeling. Topschutter Wout Veranneman nam zijn verantwoordelijkheid en plaatste beheerst binnen: 1-1.</Paragraph>
+    <Paragraph>Erop en erover dachten we nu, al liet 't Dorp dit niet zomaar gebeuren. De spits van de tegenpartij lag voortdurend op de loer en kon na een counteraanval de 1-2 scoren. Bijna onmiddellijk na de gelijkmaker waren we dus al opnieuw op achtervolgen aangewezen. De moed zonk ons even in de schoenen, maar gelukkig was de twaalfde man vandaag opnieuw massaal aanwezig om ons door deze moeilijke momenten te sleuren. We speelden opnieuw enkele kansen bij elkaar, maar scoren lukte vooralsnog niet.</Paragraph>
+    <Paragraph>Zoals bij iedere grote ploeg is het dan aan de vedetten om op te staan. Wout Veranneman kreeg even te veel ruimte van zijn waakhond en met een fantastische streep plaatste hij de 2-2 op het bord. Het vertrouwen was terug en we gingen nu voluit voor de overwinning. Martijn Vandaele leek de winning goal te maken met een fantastisch schot, maar de bal spatte uiteen op de lat.</Paragraph>
+    <Paragraph>De klok tikte in ons nadeel en het was wachten tot de allerlaatste seconden op de beslissende treffer. Na een ingestudeerd nummertje op inworp kopte Benjamin De Geest de bal door naar de vrijstaande Brecht Houvenaeghel. Onze nummer 11 plaatste de bal mooi in de hoek en zorgde zo voor een enorme ontlading bij alles wat Krisnaldo gezind was. Zo eindigde de wedstrijd op 3-2 en namen we revanche voor de verloren heenmatch.</Paragraph>
+    <Paragraph>Door deze overwinning zijn we nu ook mathematisch zeker van de promotie naar reeks B van het Roeselaars Liefhebbersverbond. De titel wordt echter steeds moeilijker: leider Sportief Exclusief maakte opnieuw geen fout en met een makkelijker programma in het verschiet lijken zij het te gaan halen. Toch is het onze sportieve plicht om er de volgende twee wedstrijden vol voor te gaan. Daarnaast kunnen we alleen maar hopen dat onze concurrent uit Emelgem toch nog een (zeldzame) misstap begaat.</Paragraph>
+    <Paragraph>Volgende week trekken we naar Dominiek Savio in Gits om de strijd aan te gaan met VK Zwarte Gat 2.</Paragraph>
+    <Paragraph>Maar nu eerst opnieuw vollen bak supporteren voor Johan Museeuw.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

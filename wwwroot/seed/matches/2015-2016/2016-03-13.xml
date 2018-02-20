@@ -1,0 +1,48 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Janneman Schouteten</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>03</Month>
+    <Day>13</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>SV Werken</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>3</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Martijn Vandaele</Scored>
+      <Assist>Wout Veranneman</Assist>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Floren Bostoen</Scored>
+      <Assist>Joachim Ally</Assist>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Gelukkig waren er niet te veel werken op weg naar Werken, waardoor we stipt op tijd op het appel stonden. Een mooie lentedag, onze mooie tenue aantrekken, een mooi veld, maar liefst vier ballen om mee op te warmen… wat kan een Krisnaldo nog meer wensen?</Paragraph>
+    <Paragraph>SV Werken mocht opzetten, maar dat moet zowat de enige reden zijn waarom ze in het begin van de match toch eens de middellijn konden oversteken. De Krisnaldo’s begonnen furieus aan de wedstrijd. Niet veel later mondde deze strijdkracht uit in een doelpunt. Een combinatie met Floren Bostoen en Wout Veranneman deed de bal bij Martijn Vandaele belanden. Op de rand van het strafschopgebied kapte hij zijn man uit en verschalkte hij enig mooi de keeper. Nummer 10 Martijn gunde na dit doelpunt ook andere spelers hun kansen en strooide als vanouds met de passes. Dat het veld een stuk groter is dan ons thuisveld op de CERA, resulteerde in grote ruimtes, waar de snelle spitsen Wout en Joachim Ally maar wat graag van gebruik maakten. Het was die laatste die op aangeven van Robin Vanhulle de achterlijn haalde en ambitieus met links de infiltrerende Floren probeerde te bereiken. Waar zo een voorzet negen op de tien keer in de imaginaire tribunes zou beland zijn, bereikte deze vanochtend daadwerkelijk de tweede paal. Floren pakte het aanvliegende cadeautje netjes uit met een volley. 2-0. In het spervuur van aanvallen die daarop volgden, pikte ook Wout zijn graantje mee na een pass in de diepte. Hij sprintte als een jachtluipaard, duelleerde als een bizon en schoot als een kanon, 3-0. En hoewel hij niet meteen voorkomt in de statistieken, verdient ook Brecht Houvenaeghel een eervolle vermelding. Infiltrerend en attent ondersteunde hij de aanvallen in zijn typische over-mijn-lijk-stijl.</Paragraph>
+    <Paragraph>Na de pauze werden er twee wissels doorgevoerd, met de inbreng van de vinnige verdedigers Sam Decoene en Lowie Frimout. Het leek of de gunstige stand ons lood in de benen bezorgde. Gaandeweg gingen we meer en meer achteruit leunen. De Werkenaars kwamen er meer en meer door en versierden zo zelfs een strafschop. De talrijk opgekomen supporters vreesden dan ook het ergste, maar niet getreurd… want Dries Sticker stond paraat. Nadat de terreinverzorger hem attent had gemaakt op het feit dat de netten pas geverfd werden, wou hij ze kost wat het kost schoon houden. Een mooie save later bleven de scorebordjes ongewijzigd. Aan de overkant gebeurde er niet veel, buiten een paar rommelige acties en schoten uit de tweede lijn. De onvermijdelijke 3-1 viel toch nog. Dries Sticker, die tot dan toe de perfecte match speelde, schoot na een uittrap op de storende aanvaller. Zijn talent om uittrappen goed te laten weerkaatsen in de richting van het vijandelijke doel werd beloond met deze toch wel verdiende eerredder.</Paragraph>
+    <Paragraph>Met deze overwinning nestelen we ons steeds steviger in de eerste kolom van het klassement. We zijn dan ook razend benieuwd tot wat we volgende week in staat zijn tegen de 4de in de stand, de STM Sjotters. Supporters op post!</Paragraph>
+  </Report>
+</Match>

@@ -1,0 +1,44 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>11</Month>
+    <Day>15</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>KWB Don Bosco</TeamName>
+  </Against>
+  <Score>
+    <Home>2</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Martijn Vandaele</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Sam Decoene</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend mochten De Krisnaldo's het opnemen tegen Don Bosco. In de schaduw van de muren van het kasteel van Wijnendaele sleepten we een 2-2 gelijkspel uit de brand.</Paragraph>
+    <Paragraph>Zo mooi de accommodatie was, zo slecht lag het veld erbij. Bovendien heerste er ook een sterk windje, ditmaal niet afkomstig van onze flatulente kapitein. Lastige omstandigheden dus maar toch moesten we punten rapen om weg te geraken uit de kelder van het klassement. De Torhoutenaars hadden het ook moeilijk en zo was de aanvangsfase van de wedstrijd weinig belovend. Tot overmaat van ramp moest een sleutelspeler al na 10 minuten geblesseerd afhaken. Gelukkig hadden we vandaag wel een rijkelijk gevulde bank en zo mocht topschutter Wout Veranneman zijn plaatsje diep in de spits innemen. Veel doelgevaar viel er in de eerste helft niet te noteren. Don Bosco was iets gretiger al konden ze nooit echt voor gevaar zorgen. Stand bij de rust 0-0. Een degelijke eerste helft al moest het net allemaal een tikje beter wouden we de 3 punten mee naar huis nemen.</Paragraph>
+    <Paragraph>In de tweede helft waren we dan ook net iets beter. De duels werden nu door ons gewonnen en de thuisploeg kwam nog moeilijk tot voetballen. De 1-0 voorsprong voor de blauwen kwam dan ook letterlijk uit de lucht gevallen. Een verre inworp bleef,mede door de wind, hangen aan de eerste paal en het leer verdween pardoes in doel. Nog geen 2 minuten kregen we op exact dezelfde manier al een nieuwe tegentreffer te verduren. Even zag het er slecht uit maar we toonden ons mentaal weerbaar. Het balbezit was nu voor ons en even later was de aansluitingstreffer dan ook een feit. De kwieke Martijn Vandaele rolde zijn flank op om daarna beheerst de bal aan de 2e paal binnen te duwen. 2-1 en de spanning zat terug in de wedstrijd. 2 minuten voor affluiten kregen we dan ook wat we verdienden. Een vrije trap van op de rand van het strafschopgebied werd door Sam Decoene prachtig in de benedenhoek geplaatst. Als een kleine,niet nader genoemde, Argentijn dit doet noemen we het geniaal. Een wondermooi doelpunt en een zucht van opluchting bij de meegereisde Ultranaldo's. Zo mogen we blij zijn om met een zwaarbevochten punt terug huiswaarts te keren.</Paragraph>
+    <Paragraph>Een technisch mooie wedstrijd was het, wegens omstandigheden, zeker niet. Toch kregen we de handen op elkaar vanwege onze geleverde werkkracht en sterke remonte. In het klassement schuiven we een plaatsje op al ligt alles op een zakdoek bij elkaar waardoor iedere uitschuiver dodelijk kan zijn. Volgende week nemen het thuis op tegen SV Werken, een ploeg die ook onderaan bengelt en dus is het opnieuw van moeten.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

@@ -1,0 +1,62 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Tijs Houvenaeghel</Player>
+    <Player>Mahoney Deckmyn</Player>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Thomas Deruyter</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Jonas Callewaert</Player>
+    <Player>Tom Thevelein</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2014</Year>
+    <Month>08</Month>
+    <Day>17</Day>
+  </Time>
+  <Against role="away" type="tournament">
+    <TeamName>FC De Geite</TeamName>
+  </Against>
+  <Score>
+    <Home>7</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Pieter-Jan Soenen</Scored>
+      <Assist>Stijn Vansteenkiste</Assist>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="4">
+      <Scored>Pieter-Jan Soenen</Scored>
+    </Goal>
+    <Goal sequence="5">
+      <Scored>Thomas Deruyter</Scored>
+    </Goal>
+    <Goal sequence="6">
+      <Scored>Thomas Deruyter</Scored>
+    </Goal>
+    <Goal sequence="7">
+      <Scored>Stijn Vansteenkiste</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Vanmorgen werd de laatste poulewedstrijd van het tornooi "De Lokkedyze" gespeeld tegen FC De Geite. Eindstand: een verpletterende 7-1 zege voor De Krisnaldo's!</Paragraph>
+    <Paragraph>In een regenachtig Hooglede kenden we een moeilijke start en de gecreëerde kansen waren dan ook schaars. Zoals het een echte topploeg betaamt, moest het dan maar gebeuren op stilstaande fase: na een hoekschop van Stijn Vansteenkiste kon Pieter-Jan Soenen de bal aan de tweede paal binnenduwen.</Paragraph>
+    <Paragraph>De vreugde was echter van korte duur, want door een minder doortastend optreden van de Krisnaldo goalie kon De Geite de stand snel weer in evenwicht brengen. Net voor rust kon Wout Veranneman alsnog de 2-1 scoren, waardoor we met een voorsprong de kleedkamer in konden.</Paragraph>
+    <Paragraph>Opnieuw moest het verschil in de tweede helft gemaakt worden. Na een tactisch geniale zet van coach Tom Thevelein begonnen De Krisnaldo's beter te spelen, wat uitmondde in een waar doelpuntenfestijn. In de tweede helft scoorden de volgende Krisnaldo's: Wout Veranneman, Pieter-Jan Soenen, Thomas Deruyter (2x, wat een debuut!) en Stijn Vansteenkiste.</Paragraph>
+    <Paragraph>Na de wedstrijd was er opnieuw de penalty shoot-out, waarin de ingevallen doelman Mahoney Deckmyn zich toonde met 2 knappe reddingen. De volgende Krisnaldo's scoorden van op de stip:</Paragraph>
+    <Paragraph>Mahoney Deckmyn Lowie Frimout Brecht Houvenaeghel Stijn Vansteenkiste (panenka)</Paragraph>
+    <Paragraph>Volgende week wacht ons een bitsig duel tegen de Palace Shotters. Op naar tornooiwinst!</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

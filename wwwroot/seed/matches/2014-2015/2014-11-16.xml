@@ -1,0 +1,54 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Simon De Taeye</Player>
+    <Player>Alexander Verkouille</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Jonas Callewaert</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Stijn Vansteenkiste</Player>
+  </Players>
+  <Time>
+    <Year>2014</Year>
+    <Month>11</Month>
+    <Day>16</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>Transvaal</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>4</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Pieter Vermandere</Scored>
+      <Assist>Martijn Vandaele</Assist>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Stijn Vansteenkiste</Scored>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="4">
+      <Scored>Stijn Vansteenkiste</Scored>
+      <Assist>Benjamin De Geest</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend trokken De Krisnaldo's naar het bruisende Madonna om er Transvaal te bekampen. Na een moeizame wedstrijd keerden we terug huiswaarts met een 1-4 overwinning op zak.</Paragraph>
+    <Paragraph>Op een lastig bespeelbaar veld kenden we een moeizame start. Transvaal kon beschikken over een snelle spits, die het onze verdediging knap lastig maakte. Het was dan ook die spits die na 10 minuten de 1-0 op het bord kon zetten. Het antwoord van De Krisnaldo's liet wat op zich wachten. Een bedrijvige Martijn Vandaele kon enkele keren goed doorzetten, maar tot grote doelkansen leidde dit vooralsnog niet.</Paragraph>
+    <Paragraph>Het geloof groeide wel en we kwamen meer en meer in de wedstrijd. Zo'n 10 minuten voor rust was het dan toch raak: Martijn Vandaele legde af tot bij Pieter Vermandere en die plaatste de bal koelbloedig in doel: 1-1. Na een niet zo denderende eerst helft trokken we met een gelijke stand de kleedkamer in.</Paragraph>
+    <Paragraph>Coach Simon Plancke besefte dat het anders moest en bracht 2 frisse spitsen in. We konden dan ook aan de tweede helft beginnen met een voorlinie waar menig verdediger nachtmerries van zou krijgen. Onmiddellijk na aftrap grepen we de tegenstanders bij de keel. Met veel druk naar voor kwam de thuisploeg al snel in de problemen. Na handspel in de 16 belandde de bal op de stip. De immer zelfzekere Stijn Vansteenkiste eiste de strafschop op en faalde niet: 1-2.</Paragraph>
+    <Paragraph>Daarna gingen we op ons elan verder. Wout Veranneman trok zijn motor nog eens op gang en nog voor de verdediging goed en wel besefte wat er gebeurde, lag de bal al in doel: 1-3. We waren nu helemaal ontketend en bleven kansen afdwingen. Een voorzet van Benjamin De Geest belandde bij Stijn Vansteenkiste, die de bal heerlijk in de linkerbenedenhoek ramde:1-4. Even later kon Stijn Vansteenkiste, opnieuw op penalty scoren om zijn hattrick compleet maken, maar ditmaal was de Transvaalse doelman baas. Zo konden we de wedstrijd beëindigen met een verdiende 1-4 overwinnnig.</Paragraph>
+    <Paragraph>In de stand verandert er weinig: we blijven aan de leiding staan met één puntje voorsprong op Sportief Exclusief. Volgende week trekken we naar Lichtervelde, waar we het opnemen tegen Jong CD&amp;V. Op papier een haalbare kaart, al weten we ondertussen dat we altijd op onze hoede moeten zijn.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

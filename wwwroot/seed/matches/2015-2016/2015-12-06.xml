@@ -1,0 +1,43 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Janneman Schouteten</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Simon De Taeye</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>12</Month>
+    <Day>06</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>STM Sjotters</TeamName>
+  </Against>
+  <Score>
+    <Home>3</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Floren Bostoen</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend vonden De Krisnaldo's geen chocolade en snoep in hun schoentje wel een uitnodiging voor de wedstrijd tegen de STM Sjotters. Na een wedstrijd vol zwoegen en zweten bleven we, na een 3-2 verlies, met lege handen achter.</Paragraph>
+    <Paragraph>De wedstrijd begon gesloten en gelijk opgaand. Het enige vermakelijke wat de toeschouwers te zien krijgen waren de theatrale tuimelpertes van enkele Pittemse spelers. Na een lange studieronde begonnen we meer grip op de wedstrijd te krijgen. Mede door de snelheid van Wout Veranneman en een goed oprukkende Robin VanHulle konden we enkele keren dreigen. De reus in het thuisdoel was echter goed bij de les en zo lukte het niet om te scoren. Zoals wel vaker dit seizoen toonde de tegenstander zich iets efficiënter en zo kwamen we via een stilstaande fase op een 1-0 achterstand. Daarna beseften we dat het toch iets beter moest en nu kregen we enkele goede kansen, helaas zonder resultaat en zo gingen we de kleedkamer in met een 1-0 achterstand.</Paragraph>
+    <Paragraph>Het begin van de tweede helft verliep ronduit desastreus. We raakten niet meer over de middellijn en al snel stonden we 3-0 achter. Een van onze talrijk meegereisde supporters zag het toen al niet meer zitten en verliet prompt de Pittemse arena. Volgens insiders had deze supporter een hevige kater al lijkt dat ons eerder een vergezochte verklaring. Als klap op de vuurpijl moesten we daarna met 10 man verder. Alle wissels waren opgebruikt en Martijn Vandaele moest noodgedwongen het veld verlaten wegens een blessure. Een afstraffing leek nu in de maak maar dat was zonder onze technische staf gerekend. Stijn Vansteenkiste &amp; Dries Sticker schreeuwden zich schor en stuwden ons vooruit. Eerst liet Brecht Houvenaeghel nog een huizenhoge kans liggen maar daarna was er Wout Veranneman die ons met een harde knal terug in de wedstrijd bracht: 3-1. Nauwelijks 2 minuten later stond het al 3-2. Floren Bostoen lepelde de bal prachtig over de doelman en plots brak de paniek uit bij de thuisploeg. Met 10 man deden we er alles aan om voor die gelijkmaker te gaan maar een derde goal viel er niet meer. Eindresultaat 3-2.</Paragraph>
+    <Paragraph>Een gemiste kans dus om richting middenmoot op te schuiven in het klassement. We blijven onderaan bengelen en zo moeten we wedstrijd per wedstrijd proberen punten te rapen. Volgende week hebben we alweer een nieuwe kans tegen een ploeg die zich halfweg de klassering genesteld heeft: VK Zwarte Gat. Afspraak volgende week om 09.00 op Dominiek Savio te Gits.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

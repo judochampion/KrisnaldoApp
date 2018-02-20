@@ -1,0 +1,53 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Alexander Verkouille</Player>
+    <Player>Joachim Ally</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Brecht Houvenaeghel</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>3</Month>
+    <Day>5</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>SV Werken</TeamName>
+  </Against>
+  <Score>
+    <Home>4</Home>
+    <Away>0</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Joachim Ally</Scored>
+      <Assist>Wout Veranneman</Assist>
+    </Goal>
+      <Goal sequence="2">
+      <Scored>Wout Veranneman</Scored>
+      <Assist>Joachim Ally</Assist>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Wout Veranneman</Scored>
+      <Assist>Joachim Ally</Assist>
+    </Goal>
+    <Goal sequence="4">
+      <Scored>Wout Veranneman</Scored>
+      <Assist>Benjamin De Geest</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Na een succesvolle editie van Kwisnaldo's werd er deze ochtend opnieuw gevoetbald. Na een weinig aantrekkelijke wedstrijd werd SV Werken met 4-0 ingeblikt. Allereerst willen we graag alle teams bedanken die gisterenavond aanwezig waren op de quiz. Ook mooi om te zien was dat enkele van onze concullega's van de partij waren. Vooral FC De Geite liet zich in de eigen achtertuin van hun beste kant zien en ging dan ook met de felbegeerde zuipbeker aan de haal. Onze welgemeende felicitaties ook aan Computer Says No, zij mochten opnieuw de hoofdprijs in ontvangst nemen.</Paragraph>
+<Paragraph>Na een korte nachtrust mochten we het vanochtend opnemen tegen SV Werken. Een ploeg die onderaan het klassement bengelt en dat was ook te merken aan het spel. Zonder zelf echt goed te spelen namen we makkelijk de bovenhand. Na zo'n 10 minuten kwamen we dan ook op voorsprong. Wout Veranneman kon de bal slim in de rug van de verdediging steken en Joachim Ally kon alleen voor doel de 1-0 binnen trappen. Niet veel later waren de rollen omgekeerd, Joachim Ally, na een mooie ren, nu als aangever en Wout Veranneman als goaltjesdief: 2-0. Ondertussen kabbelde de wedstrijd rustig verder, het trio Lowie Frimout, Robin Van Hulle &amp; Pieter-Jan Soenen stond autoritair te verdedigen en SV Werken kwam slechts per uitzondering eens over de middellijn. Af en toe slaagden we er in om goed te versnellen. SV Werken kon wel rekenen op een excellente doelman die ons een paar keer op indrukwekkende wijze het scoren belette. Net voor rust konden we de voorsprong toch nog verder uitdiepen. Copy paste van het tweede doelpunt: Joachim Ally haalt de achterlijn en Wout Veranneman ramt de bal in doel. 3-0 aan de rust.</Paragraph>
+<Paragraph>In de tweede helft zakte het tempo nog wat verder naar beneden. De tandem op het middenveld, Benjamin De Geest &amp; Brecht Houvenaeghel hield makkelijk stand. Laatstgenoemde had duidelijk iets recht te zetten nadat hij vorige week nog werd vergeleken met Timmy Simons. Het was wachten tot diep in de tweede helft tot wanneer Wout Veranneman zijn hattrick kon vervolledigen. Volgens "Den Danny" had onze nummer 7 de bal slecht geraakt, alle andere aanwezigen zagen een prachtige lob. "Den Danny" heeft het wellicht meer voor Timmy Simons. 4-0 is zo de eindstand.</Paragraph>
+<Paragraph>Een vrij makkelijke overwinning dus tegen een tegenstander die ons weinig in de weg legde. In het klassement springen we zo weer naar de 2e plaats tot op één puntje van leider Don Bosco. Volgende week trekken we naar Pittem waar de stoere krijgers van STM- Sjotters op ons wachten. Tot dan! En voor de quizzers: tot volgend jaar!</Paragraph>
+  </Report>
+</Match>

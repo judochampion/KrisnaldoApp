@@ -1,0 +1,48 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Joachim Ally</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Floren Bostoen</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>4</Month>
+    <Day>2</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>GZ Tube</TeamName>
+  </Against>
+  <Score>
+    <Home>3</Home>
+    <Away>3</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Brecht Houvenaeghel</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Joachim Ally</Scored>
+      <Assist>Pieter Vermandere</Assist>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Benjamin De Geest</Scored>
+      <Assist>Sam Decoene</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend stond de voorlaatste speeldag van de competitie op het programma. De Krisnaldo's trokken naar Rumbeke om het op te nemen tegen GZ Tube, nummer 3 tegen nummer 2 uit het klassement. De Krisnaldo's gaven een 0-3 voorsprong uit handen en vergooien zo ook de kans om voor het eerst in de clubgeschiedenis kampioen te spelen.</Paragraph>
+    <Paragraph>We begonnen nochtans goed, we wisten wat er op het spel stond en iedereen begon gretig aan de partij. Na zo'n 10 minuten kwamen we dan ook verdiend op voorsprong. Joachim Ally kon zich goed doorzetten legde daarna goed achteruit en het was Brecht Houvenaeghel die de bal beheerst binnenplaatste. Het voetbal was goed en het balbezit was voor ons, de logische 0-2 bleef dan ook niet lang op zich wachten. Een mooie combinatie met in de hoofdrol Martijn Vandaele en Pieter Vermandere leidde tot een knappe voorzet die door Joachim Ally staalhard werd binnengekopt. We gingen op ons elan verder en 5 minuten voor rust was het opnieuw prijs. Deze keer kwam de voorzet van de linkervoet van Sam Decoene, hij zocht en vond de blonde lokken van Benjamin De Geest en die kopte mooi in de verste hoek binnen. 0-3 aan de rust en geen vuiltje aan de lucht, zo leek het.</Paragraph>
+    <Paragraph>Zoals wel vaker dit seizoen liep het in de tweede helft plots een heel stuk minder. Combinaties lukten niet meer, zo goed als ieder duel werd verloren en we werden voortdurend op snelheid gepakt. Tegen een ploeg als GZ Tube betaal je dat uiteraard cash en zo mochten we nog blij zijn dat het maar op 3-3 eindigde. Wat de reden is achter zo'n inzinking, God mag het weten. Een zekere John Troost zou er nog een vette kluif aan hebben.</Paragraph>
+    <Paragraph>In het klassement moeten we daardoor de titel laten aan KWB Don Bosco, waarvoor onze welgemeende felicitaties. We blijven wel 2e en bij winst volgende week promoveren we naar de A-reeks. De opdracht klinkt simpel al zal dat tegen FC De Geite zeker geen sinecure worden.</Paragraph>
+  </Report>
+</Match>

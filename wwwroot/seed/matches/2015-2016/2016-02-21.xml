@@ -1,0 +1,45 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Reinout Pattijn</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Simon De Taeye</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Janneman Schouteten</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>02</Month>
+    <Day>21</Day>
+  </Time>
+  <Against role="home" type="cup">
+    <TeamName>VPA Sleihage</TeamName>
+  </Against>
+  <Score>
+    <Home>0</Home>
+    <Away>3</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Sam Decoene</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Sam Decoene</Scored>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Martijn Vandaele</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Na een succesvolle tweede editie van de Kwisnaldo’s vrijdag was het deze morgen weer tijd om te voetballen. We moesten ons klaarmaken voor een titanenstrijd tegen VPA Sleihage. Vrijdag hadden zij nog nipt naast de zuipbeker gegrepen, maar nu waren ze terug klaar om te voetballen. Geen competitiematch, maar ditmaal moest er gestreden worden voor een plekje in de halve finale van de beker.</Paragraph>
+    <Paragraph>Eenmaal aangekomen op het veld werd het al duidelijk dat er in Gits ook zo iets bestaat als hevige wind. We wisten direct dat het moeilijk voetballen ging worden en we kregen geen ongelijk. De eerste helft kregen we de wind los op kop, waardoor hoge ballen spelen niet echt een optie was. Aangezien Sleihage maar met negen man aan de wedstrijd kon beginnen, kregen we in het begin heel wat ruimte. Dit resulteerde in enkel mooie kansen, maar helaas werd er te kwistig omgesprongen met de kansen en vergaten we deze te verzilveren. Nadat de thuisploeg uiteindelijk elf spelers op het veld kon zetten, bleef het spelbeeld hetzelfde. We bleven goed voetballen en kregen ook de kansen, maar opnieuw konden we niet scoren. Zo gingen we rusten met een brilscore en het besef dat er dringend kansen gingen moeten afgewerkt worden.</Paragraph>
+    <Paragraph>De tweede helft beloofde heel wat beters aangezien we de wind nu in de rug hadden. In de kleedkamer werd er dan ook geopperd om een keer naar het doel te durven ‘peiren’, iets wat nu nauwelijks tot niet gedaan werd. Eenmaal aan de tweede helft begonnen, werd er voornamelijk in de richting van de Sleihaagse keeper gespeeld. Dit zorgde voor heel wat kansen en daarbij ook heel wat corners voor onze Naldo’s. Geen cadeau bleek later want keer op keer waaiden de corners van onze linksachter Sam achter de tweede paal. Hoewel het steeds dezelfde uitvoering was, vergaten onze kopbalsterke spelers om naar de tweede paal te lopen en hem simpel binnen te leggen. Ook de andere kansen die we kregen, leverde geen goal op voor onze geelhemden. De voorste gelederen van onze ploeg konden wel kansen creëren, maar de afwerking liet de wensen over. Ook van het ‘peiren’ naar de goal was er niet veel sprake. In plaats van eens te trappen naar het Sleihaagse doel werd er iedere keer gekozen om de verdediging uit te spelen, wat zeker niet de beste keuze was. Daar moet verandering in komen, dacht linksachter Sam. Na een pas opzij van de centrale middenvelders nam hij het leer op de slof en , met wat hulp van de wind, liet hij de Sleihaagse keeper geen kans. De 0-1 zorgde er ook voor dat er met meer vertrouwen werd gevoetbald. Niet alleen de kansen werden beter uitgespeeld. Ook onze centrale verdedigers Simon en Pieter-Jan zorgden ervoor dat alle ballen gerecupereerd werden. Maar nog steeds was het moeilijk om die kansen af te maken. Vijf minuten voor tijd volgde echter de 0-2 na een zoveelste corner van Sam. Ditmaal waaide de bal niet over de tweede paal, maar kwam hij mooi in het doel terecht. Deze olympische goal zorgde ervoor dat we zeker konden zijn van de eindoverwinning. Maar onze vinnige spits Martijn besloot om juist voor het laatste fluitsignaal zijn duivels nog eens te ontbinden en uit een zeer scherpe hoek de 0-3 eindstand op het bord te zetten. De halve finale van de beker is dus een feit. Nog nooit raakten we zo ver in de bekercompetitie.</Paragraph>
+    <Paragraph>Daarnaast willen we ook alle deelnemers van de quiz bedanken, die ervoor zorgden dat de quiz weer een echt succes was. In het bijzonder ook de ploegen van onze tegenstanders zoals FC de Geite, VPA Sleihage en AC ’t Rozeke, die tonen dat er toch heel wat collegialiteit bestaat tussen de verschillende ploegen van het RLV. Wij verlangen alvast naar de derde editie en zijn al druk bezig met de voorbereidingen. Tot dan!</Paragraph>
+  </Report>
+</Match>

@@ -1,0 +1,43 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Alexander Verkouille</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Jonas Callewaert</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Robin Van Hulle</Player>
+  </Players>
+  <Time>
+    <Year>2014</Year>
+    <Month>11</Month>
+    <Day>02</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>VK De Reisduif</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Benjamin De Geest</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend gingen De Krisnaldo's op bezoek bij VK De Reisduif, een zuinige 1-2 overwinning volstond om de 3 punten mee naar huis te nemen.</Paragraph>
+    <Paragraph>De wedstrijd begon wat aarzelend. Beide ploegen kozen ervoor om eerst wat af te wachten. Uiteindelijk begonnen we toch meer de bal op te eisen, wat onmiddellijk resulteerde in doelgevaar. Benjamin De Geest nam de bal mee met de borst en knalde onmiddellijk naar doel. De goalie van de Reisduif had geen verhaal op de botsende bal: 0-1 voor De Krisnaldo's. Niet veel later kon ook Wout Veranneman aanleggen om te schieten. Hij aarzelde niet en ramde de bal aan de verste paal binnen: 0-2. Net voor het einde van de eerste helft kon De Reisduif toch nog de aansluitingstreffer maken. We gingen de rust in met een krappe 1-2 voorsprong.</Paragraph>
+    <Paragraph>Na rust daalde het niveau wat, kenners aan de zijlijn spraken al van "brakkersvoetbal". Combinaties bleven uit en dus was er ook weinig doelgevaar. Gelukkig stonden we achterin goed en kon ook de thuisploeg voor weinig dreiging zorgen. Zo volstond het om de wedstrijd op reserve uit te spelen en krachten te sparen voor de kraker van volgende week. Na een teleurstellende tweede helft konden we dus terug huiswaarts keren met een 1-2 overwinning op zak.</Paragraph>
+    <Paragraph>In de stand verandert er weinig: ook Sportief Exclusief deed wat het moest doen en zo blijven we tot op 2 punten volgen. Volgende week nemen we het op tegen Sportief Exclusief met als inzet de felbegeerde eerste plaats. Daarom willen we nu al een warme oproep doen om volgende zondag massaal af te zakken naar de CERA in Ardooie. Neem alles mee wat geel-blauw is en schreeuw ons naar de overwinning. De Krisnaldo's rekenen op u!</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

@@ -1,0 +1,57 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Lowie Frimout</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Louis Driegelinck</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Jonas Callewaert</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Tijs Houvenaeghel</Player>
+    <Player>Mahoney Deckmyn</Player>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Robin Van Hulle</Player>
+  </Players>
+  <Time>
+    <Year>2014</Year>
+    <Month>09</Month>
+    <Day>14</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>Palace Shotters</TeamName>
+  </Against>
+  <Score>
+    <Home>6</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Pieter Vermandere</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Benjamin De Geest</Scored>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="4">
+      <Scored>Stijn Vansteenkiste</Scored>
+      <Assist>Floren Bostoen</Assist>
+    </Goal>
+    <Goal sequence="5">
+      <Scored>Pieter Vermandere</Scored>
+    </Goal>
+    <Goal sequence="6">
+      <Scored>Louis Driegelinck</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Vandaag stond de eerste thuismatch op het programma: in een kolkend CERA ontvingen we de Palace Shotters. De wedstrijd eindigde op een vlotte 6-1 overwinning voor De Krisnaldo's.</Paragraph>
+    <Paragraph>Onmiddellijk na het fluitsignaal namen we het initiatief en zetten we druk naar voren. De eerste goal liet dan ook niet lang op zich wachten. Pieter Vermandere nam een afvallende bal meteen op de slof en de bezoekende doelman stond aan de grond genageld: 1-0. Luttele minuten later was het opnieuw feest. Op hoekschop kon captain Benjamin De Geest de 2-0 binnenknikken. De druk bleef aanhouden en na knap combinatievoetbal kwam Wout Veranneman voor doel. Hij aarzelde niet en ramde de 3-0 tegen de netten. Onze honger was echter nog niet gestild: na een knappe doorsteekbal van Floren Bostoen kwam Stijn Vansteenkiste alleen voor doel. Als een echte killer plaatste hij de 4-0 koeltjes in doel. Net voor rust was het opnieuw raak: een goed aangesneden hoekschop en daar stond Pieter Vermandere, die de doelman verschalkte met een goed geplaatste kopbal. We doken de rust in met een overtuigende 5-0 voorsprong.</Paragraph>
+    <Paragraph>Na rust leken we aanvankelijk op ons elan verder te gaan. Na de volledige Palace verdediging weggetikt te hebben, kon Louis Driegelinck rustig de 6-0 in doel leggen. Na de 6-0 leek de doelpuntenmachine dan toch wat stil te vallen: het was nu vooral zaak de wedstrijd rustig uit te spelen en de bal in de ploeg te houden. Toch moesten we ons één keer gewonnen geven wanneer een afstandsschot van de Palace Shotters in doel belandde, maar met een 6-1 overwinning kunnen we uiteraard niet anders dan tevreden zijn.</Paragraph>
+    <Paragraph>We beginnen het seizoen met een overtuigende 6/6 en op basis van het doelpuntensaldo staan we zo ook meteen op kop in reeks C. Volgende week wacht ons al een eerste topper tegen de huidige tweede in de stand, F.C. De Most.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

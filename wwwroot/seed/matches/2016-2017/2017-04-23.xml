@@ -1,0 +1,63 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Joachim Ally</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Floren Bostoen</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>4</Month>
+    <Day>23</Day>
+  </Time>
+  <Against role="away" type="cup">
+    <TeamName>AC 't Rozeke</TeamName>
+  </Against>
+  <Score>
+    <Home>7</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Wout Veranneman</Scored>
+      <Assist>Martijn Vandaele</Assist>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Floren Bostoen</Scored>
+      <Assist>Martijn Vandaele</Assist>
+    </Goal>
+    <Goal sequence="3">
+      <Scored>Floren Bostoen</Scored>
+    </Goal>
+    <Goal sequence="4">
+      <Scored>Joachim Ally</Scored>
+      <Assist>Brecht Degezelle</Assist>
+    </Goal>
+      <Goal sequence="5">
+      <Scored>Wout Veranneman</Scored>
+      <Assist>Joachim Ally</Assist>
+    </Goal>
+    <Goal sequence="6">
+      <Scored>Sam Decoene</Scored>
+    </Goal>
+    <Goal sequence="7">
+      <Scored>Joachim Ally</Scored>
+      <Assist>Pieter Vermandere</Assist>
+    </Goal>
+  </Goals>
+  <Report>   
+    <Paragraph>Na een weekendje rust speelden we vandaag de halve finale van de Wisselbeker VDC Roeselare. Nadat we vorig jaar in deze fase van de competitie verloren tegen de Blue Stars hoopten we tegen AC ’t Rozeke wel de finaleplaats af te dwingen. Aangezien we deze ploeg tweemaal gemakkelijk klopten in de competitie, kwamen we vol vertrouwen aan de aftrap.</Paragraph>
+    <Paragraph>Het was even verschieten toen de scheidsrechter het obligate rondje spelers telde en er slechts tien aan de kant van ‘t Rozeke stonden. De elfde kwam na twee minuten spelen nog aangehold en zo kon aan een gezapige studieronde begonnen worden. Onze tegenstander combineerde vlot en verdedigde goed georganiseerd. Plots viel er toch een gaatje en kon Martijn Vandaele Wout Veranneman in het straatje sturen. De kersverse Gouden Stier stormde op doel af en opende de score. Toen gebeurde iets eigenaardigs. Een op het eerste zicht ongevaarlijke corner werd door een tegenstander rechtstreeks in doel getrapt. Dit had niet mogen gebeuren en gelukkig slaagden we erin het snel recht te zetten. Krullenbol Floren Bostoen, de laatste weken sterk op dreef, kon na alweer een assist van Martijn Vandaele de 2-1 fraai binnenschuiven. Met deze karige voorsprong doken we de kleedkamer in.</Paragraph>
+    <Paragraph>Aan het begin van de tweede helft daagde Carl Frimout op en die stuurde meteen tactisch bij. Hij haalde Martijn Vandaele en Benjamin De Geest naar de kant en bracht met Sam Decoene en Pieter Vermandere twee frisse hoentjes tussen te lijnen. De vermoeidheid sluimerde vooral in de benen van de tegenstander en zo konden we steeds vrijer gaan voetballen. Twee uit-het-bed-gerolde Ultranaldo’s daagden op en wisten al dat het beste nog moest komen. Een ware doelpuntenkermis volgde. Eerst was er Floren met de 3-1 in het dak van het doel. Dan volgde een verre uittrap van keeper Brecht Degezelle, die in de loop van Joachim Ally belandde en niet veel later in de vijandelijke netten. Nauwelijks een minuut later volgde een splijtende voorzet van Joachim naar zijn spitsbroeder Wout, die met een ware ninja-move de bal van dichtbij in het mandje legde. Sam kon ook niet achterblijven en scoorde een afstandsschot dat de vergelijking met die twee van Tielemans in Oostende kon doorstaan. En ook in het nevenklassement ‘aantal doelpunten gemaakt op corners’ gunden we hen geen overwinning, want na een mooie ‘wegdraaier’ van Pieter kon Joachim aan de tweede paal binnenkoppen. ‘t Rozeke bracht hier nog bitter weinig tegen in. Onze verdediging hield alle gaatjes hermetisch dicht en zo kwam het laatste fluitsignaal als een verlossing voor hen.</Paragraph>
+    <Paragraph>Met maar liefst 7 treffers tegen 1 halen we met verve de finale van de beker. Volgende zondag staan we in Rumbeke tegenover niemand minder dan FC Lokkedyze. Als we hen kloppen, mogen we trots de eerste trofee uit de geschiedenis van De Krisnaldo’s de lucht in hijsen.</Paragraph>
+  </Report>
+</Match>

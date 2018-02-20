@@ -1,0 +1,44 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Jasper Vermandere</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Joachim Ally</Player>
+    <Player>Lowie Frimout</Player>
+	<Player>Pieter Vermandere</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Floren Bostoen</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>11</Month>
+    <Day>12</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>FC Cera</TeamName>
+  </Against>
+  <Score>
+    <Home>2</Home>
+    <Away>3</Away>
+  </Score>
+  <Goals>
+<Goal>
+  <Scored>Joachim Ally</Scored>  
+  </Goal>
+  <Goal>
+  <Scored>Jasper Vermandere</Scored>
+  <Assist>Pieter Vermandere</Assist>
+  </Goal>
+  </Goals>
+  <Report>
+  <Paragraph>Deze ochtend stond de Slag om de Cera op het programma. De Krisnaldo's namen het als thuisploeg op tegen FC Cera, noem ze gerust de oerploeg der Ceraploegen. Een status die de mannen in het groen-zwart niet meteen ten grabbel wouden gooien.</Paragraph>
+<Paragraph>De Ceranezen begonnen dan ook fel aan de wedstrijd. Toch was het Joachim die ons op voorsprong bracht. Hij ging op slinkse wijze met de bal aan de haal, om dan mooi overhoeks binnen te plaatsen: 1-0. Daarna kropen we iets te ver achteruit waardoor de bezoekers te makkelijk de ballen konden droppen. Eén van die voorzetten werd te weinig doortastend weggewerkt en het stond alweer 1-1. Nauwelijks 2 minuten later werd het na een afgeweken voorzet zelfs 1-2. Onze wil om te reageren was er daarna wel alleen gebeurde dit met te weinig overleg en werd de Cera verdediging nooit in verlegenheid gebracht. Floren was er net voor rust nog het dichtst bij, maar zijn poging ging net over. 1-2 was ook de stand bij de rust.</Paragraph>
+<Paragraph>Na de pauze namen we toch meer het roer over. De tegenstander werd iets hoger opgevangen waardoor er meer mogelijkheden kwamen. Toch was het FC Cera die wist te scoren. Na opnieuw weifelend uitverdedigen stond het plots 1-3. Een zware domper, al bleven we voortgaan op ons aanvallend elan. Grote kansen leverde dat aanvankelijk niet op, maar we kregen wel veel hoekschoppen. Eentje leverde de aansluitingstreffer op. Pieter bracht voor en kleine broer Jasper, die 2 koppen groter is, knikte de bal mooi in doel: 2-3. Daarna bleven we doordrukken, helaas zonder resultaat. Wout zag zijn knal op de kruising uiteenspatten. Een poging van Benjamin werd gekeerd door de man met de mooiste moustache van het RLV. Drie felle ademstoten van de scheidsrechter bezegelden ons lot: 2-3.</Paragraph>
+<Paragraph>Zo kunnen we net als vorige week opnieuw niet winnen in een wedstrijd waarin we misschien wel meer verdienden. Op die manier dalen we in het klassement meer en meer richting gevarenzone. Dringend tijd dus om nog eens 3 punten te nemen. Als het kan volgende week al, dan spelen we in Gits tegen DC United.</Paragraph>
+  </Report>
+</Match>

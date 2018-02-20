@@ -1,0 +1,96 @@
+@model IEnumerable<KrisnaldoApp.Models.Match>
+@{
+
+    ViewData["Title"] = "Alle matchen";
+
+}
+@{ 
+    int iAantalJarenBestaan = DateTime.Now.Year - Model.First<Match>().Datum.Year;
+}
+Dit is een overzicht van de @Model.Count() matchen die de Krisnaldo's al gespeeld hebben in hun @iAantalJarenBestaan-jarig bestaan. Via het icoontje rechts kan je het gedetailleerde wedstrijdverslag bekijken. In de zoekbalk kan je terecht om bijvoorbeeld te filteren op een specifieke tegenstander.
+<hr />
+        <table id="matchTable" class="table table-bordered text-nowrap" cellspacing="0" style="width:100%;">
+            <thead>
+                <tr>
+                    <th>
+                        ID
+                    </th>
+                    <th>
+                        Datum
+                    </th>
+                    <th id="tegenstandertest">
+                        Tegenstander
+                    </th>
+                    <th>
+                        Soort
+                    </th>
+                    <th>
+                        Onze score
+                    </th>
+                    <th>
+                        Hun Score
+                    </th>
+                    <th>
+                        Verslag
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+            @foreach (var item in Model.Reverse())
+            {
+
+                string color = "ffffff";
+                string sSoortMatch = String.Empty;
+                switch (item.Type)
+                {
+                    case KrisnaldoApp.Models.Type.BEKER:
+                        sSoortMatch = "Beker"; break;
+                    case KrisnaldoApp.Models.Type.COMPETITIE:
+                        sSoortMatch = "Competitie"; break;
+                    case KrisnaldoApp.Models.Type.TORNOOI:
+                        sSoortMatch = "Tornooi"; break;
+                    case KrisnaldoApp.Models.Type.VRIENDSCHAPPELIJK:
+                        sSoortMatch = "Vriendschappelijk"; break;
+                    default: break;
+                }
+                if (item.OnzeScore > item.HunScore)
+                {
+                    color = "background-color:#e6ffe6";
+                }
+                else if (item.OnzeScore == item.HunScore)
+                {
+
+                    color = "background-color:#ffffe6";
+                }
+                else
+                {
+                    color = "background-color:#ffe6e6";
+
+                }
+                <tr style="@(color)">
+                    <td>
+                        @Html.DisplayFor(modelItem => item.MatchID)
+                    </td>
+                    <td>
+                        @item.Datum.ToString("dd/MM/yyyy")
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Tegenstander)
+                    </td>
+                    <td>
+                        @sSoortMatch
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.OnzeScore)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.HunScore)
+                    </td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@item.MatchID"><i class="fa fa-newspaper-o fa-lg" aria-hidden="true"></i></a>
+                    </td>
+                </tr>
+             }
+            </tbody>
+        </table>
+    

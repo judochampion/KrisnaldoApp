@@ -1,0 +1,68 @@
+@model KrisnaldoApp.Models.SpelerViewModels.SpelerIndividueelStatistiek
+
+@{
+    
+}
+
+@{
+    string sRandomVerslagVermelding = "";
+    string naam = Model.Speler.VoorNaam + " " + Model.Speler.FamilieNaam;
+    ViewData["Title"] = naam;
+
+}
+
+<div class="col-md-12">
+    <div class="alert alert-warning">
+        Deze pagina is nog <b>onder constructie</b>. De uiteindelijke bedoeling is dat iedere speler een gepersonaliseerde pagina krijgt met alle statistieken en weetjes over die speler.
+    </div>
+</div>
+<h2> @naam</h2>
+
+<div>
+    <h4>Speler van de Krisnaldo's</h4>
+    <hr />
+    <dl class="dl-horizontal">
+
+        <dt>
+            Aantal matchen
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Speler.SpelerMatchen.Count)
+        </dd>
+        <dt>
+            Aantal goals
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Speler.Goals.Count)
+        </dd>
+        <dt>
+            Aantal (geregistreerde) assists
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Speler.Assists.Count)
+        </dd>
+    </dl>
+</div>
+@if (Model.QuotesUitVerslagen.Count > 0)
+{
+    @if (Model.QuotesUitVerslagen.Count > 1)
+    {
+
+    }
+    <hr />
+
+   <p>In totaal wordt @Model.Speler.VoorNaam in @Model.QuotesUitVerslagen.Count verslag vermeld.</p>
+   
+    @foreach (KeyValuePair<string, List<string>> kvp in Model.QuotesUitVerslagen)
+    {
+    <blockquote class="blockquote">
+        <p class="mb-0">@String.Join(" (...) ", kvp.Value)</p>
+        <footer class="blockquote-footer">@kvp.Key</footer>
+    </blockquote>
+    }
+}
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+<!--<footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>-->

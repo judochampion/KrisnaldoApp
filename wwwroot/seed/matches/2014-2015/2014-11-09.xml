@@ -1,0 +1,47 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Simon De Taeye</Player>
+    <Player>Alexander Verkouille</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Jonas Callewaert</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Robin Van Hulle</Player>
+  </Players>
+  <Time>
+    <Year>2014</Year>
+    <Month>11</Month>
+    <Day>09</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>Sportief Exclusief</TeamName>
+  </Against>
+  <Score>
+    <Home>2</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Stijn Vansteenkiste</Scored>
+      <Assist>Jonas Callewaert</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend werd de topper tussen De Krisnaldo's en Sportief Exclusief afgerond, de geel-blauwen wonnen deze clash met 2-1 en staan zo alleen aan de leiding!</Paragraph>
+    <Paragraph>Zoals de meeste topaffiches begon ook dit duel wat zenuwachtig met veel strijd en vuur bij beide ploegen die elk voluit voor de overwinning gingen. Toch was het Sportief Exlcusief die de bal opeiste: dankzij onze sterke organisatie leidde dit echter tot weinig kansen. Het was aan De Krisnaldo's om het verschil te maken op de tegenaanval.</Paragraph>
+    <Paragraph>Halfweg de eerste helft lukte dit ook. Wout Veranneman etaleerde even zijn snelheid, omspeelde de doelman en werkte de bal dan in doel: 1-0. Daarna voerde Exclusief de druk op, een paar keer kwamen we goed weg en konden we blij zijn om met een 1-0 voorsprong de rust in te gaan.</Paragraph>
+    <Paragraph>Na rust kozen de bezoekers voor nog meer powerplay met veel hoge ballen. Doelman Dries Sticker was echter autoritair in de lucht en gaf de Exclusief spitsen weinig kans. De druk van Sportief Exclusief hield echter aan en het was moeilijk voor De Krisnaldo's om nog onder de druk uit te raken. Gelukkig konden we vandaag rekenen op een sterke 12de man die ons doorheen deze moeilijke momenten sleurde.</Paragraph>
+    <Paragraph>Exclusief raakte ook wat vermoeid, waardoor we toch enkele keren gevaarlijk konden uitbreken. Niet veel later was de geruststellende 2-0 dan ook een feit: een sterk ingevallen Jonas Callewaert kopte de bal voor doel en een vrijstaande Stijn Vansteenkiste kon de bal naast de doelman binnenschuiven.</Paragraph>
+    <Paragraph>De buit leek binnen, maar toch was het nog even opletten wanneer Exclusief de 2-1 kon scoren. Hun aansluitingstreffer kwam echter te laat en zo gingen we met de 3 punten en de leidersplaats aan de haal. Een mooie overwinning dus, in een zwaarbevochten duel tegen een rechtstreekse tegenstander. Zo staan De Krisnaldo's waar ze moeten staan: alleen op kop!</Paragraph>
+    <Paragraph>Volgende week trekken we naar Transvaal, met de bedoeling om deze goede lijn verder te zetten en onze koppositie niet meer af te staan.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

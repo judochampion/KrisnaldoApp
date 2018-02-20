@@ -1,0 +1,43 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>11</Month>
+    <Day>01</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>AC 't Rozeke</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Wout Veranneman</Scored>
+      <Assist>Sam Decoene</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend trokken De Krisnaldo's naar het vredige Koolskamp om het, in een degradatietopper, op te nemen tegen 't Rozeke. Na een aangename wedstrijd keerden de geel-blauwe paradijsvogels huiswaarts met de levensbelangrijke 3 punten en een 1-2 overwinning.</Paragraph>
+    <Paragraph>Op een perfecte grasmat begonnen beide ploegen sterk aan de wedstrijd. 't Rozeke rekende op de snelheid van hun spitsen terwijl wij via goed combinatievoetbal langzaam maar zeker de wedstrijd in handen namen. Uiteindelijk kregen we ook enkele uitstekende kansen al was het wachten tot diep in de eerste helft om de verdiende voorsprong binnen te leggen. Het was Wout Veranneman die sneller was dan de Koolskampse verdediging en zo de 0-1 beheerst in de verste hoek plaatste. De thuisploeg had niet onmiddellijk een antwoord en zo konden we met een verdiende 0-1 voorsprong gaan rusten.</Paragraph>
+    <Paragraph>In het begin van de tweede helft zagen we een zelfde spelbeeld. Wij bleven vlot de vrije man vinden en hadden alles onder controle. Het duurde dan ook niet lang voor we onze voorsprong konden verdubbelen. Een prima voorzet,buitenkant voet, van Sam Decoene kwam bij Wout Veranneman terecht, die kreeg veel tijd en trapte zowaar met zijn mindere linker de 0-2 op het bord.</Paragraph>
+    <Paragraph>Daarna stortte het bij ons wat in. Gemakzucht en een gebrek aan communicatie zorgden ervoor dat we bijna onmiddellijk na onze goal een strafschop weggaven. Gelukkig konden we rekenen op een uitstekend keepende Lowie Frimout. Onze nummer 1 won het psychologische spelletje met de penaltynemer en ging goed plat naar de juiste hoek. Zo bleef onze voorsprong gewaarborgd al was het wel de waarschuwing die we nodig hadden. Daarna gaven we niets meer weg al bleven de combinaties ook bij ons achterwege. De spektakelwaarde daalde even tot onder het vriespunt en tot overmaat van ramp kon de thuisploeg nog de aansluitingstreffer maken. Op hoekschop van ons kon 't Rozeke met een razendsnelle tegenaanval tegenprikken. Bij een 0-2 voorsprong zoveel ruimte weggeven kunnen we catalogeren onder een tactische blunder, die bij de aanwezigheid van coach Carl Frimout nooit was gebeurd. De laatste 5 minuten was het nog even bibberen al waren de paarshemden niet bij machte om ons zwaar onder druk te zetten. Eindstand na een intensieve wedstrijd: 1-2.</Paragraph>
+    <Paragraph>In het klassement doen we nu haasje over met 't Rozeke en is het degradatiespook even weggejaagd uit de kleedkamer. Volgende week spelen we tegen de rode lantaarn en moeten we dus opnieuw winnen om vanaf dan weer stilletjes aan naar boven te kijken in de rangschikking. Afspraak volgende week om 10.10 op de CERA voor opnieuw een belangrijk duel tegen De Turbo's.</Paragraph>
+  </Report>
+</Match>

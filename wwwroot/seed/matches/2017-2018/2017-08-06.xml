@@ -1,0 +1,41 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+	<Player>Lowie Frimout</Player>
+	<Player>Pieter-Jan Soenen</Player>
+	<Player>Pieter Vermandere</Player>	
+	<Player>Benjamin De Geest</Player>
+	<Player>Brecht Houvenaeghel</Player>
+	<Player>Sam Decoene</Player>
+	<Player>Floren Bostoen</Player>	
+	<Player>Wout Veranneman</Player>
+	<Player>Joachim Ally</Player>
+	<Player>Maarten Missine</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>08</Month>
+    <Day>6</Day>
+  </Time>
+  <Against role="away" type="tournament">
+    <TeamName>FC Loco</TeamName>
+  </Against>
+  <Score>
+    <Home>3</Home>
+    <Away>3</Away>
+  </Score>
+  <Goals>
+     <Goal sequence="1">
+      <Scored>Brecht Houvenaeghel</Scored>
+    </Goal>
+	 <Goal sequence="2">
+      <Scored>Joachim Ally</Scored>
+    </Goal>
+	<Goal sequence="3">
+      <Scored>Maarten Missine</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+  <Paragraph>(Geen verslag)</Paragraph>
+  </Report>
+</Match>

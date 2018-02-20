@@ -1,0 +1,35 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+	<Player>Lowie Frimout</Player>
+	<Player>Pieter-Jan Soenen</Player>
+	<Player>Bartel De Brabandere</Player>
+	<Player>Pieter Vermandere</Player>	
+	<Player>Benjamin De Geest</Player>
+	<Player>Brecht Houvenaeghel</Player>
+	<Player>Sam Decoene</Player>
+	<Player>Floren Bostoen</Player>	
+	<Player>Wout Veranneman</Player>
+	<Player>Joachim Ally</Player>
+	<Player>Robin Van Hulle</Player>
+	<Player>Martijn Vandaele</Player>
+  </Players>
+  <Time>
+    <Year>2018</Year>
+    <Month>01</Month>
+    <Day>07</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>RW Nieuwe Stee</TeamName>
+  </Against>
+  <Score>
+    <Home>0</Home>
+    <Away>3</Away>
+  </Score>
+  <Goals/>
+  <Report>
+  <Paragraph>Na twee afgelastingen in december en een winterstop hadden de Krisnaldo's even tijd om te herbronnen. Om de techniek wat bij te schaven werd een minivoetbal-sessie georganiseerd en elke Krisnaldo kreeg een trainingsschema mee. Met elkaar de beste te wensen te doen kropen we de kleedkamer in om ons goed in te duffelen voor deze alweer koude voetbalochtend. Tegenstander van dienst in het Nieuwe Jaar was RW Nieuwe Stee, een ploeg met drie punten meer in de stand. We begonnen sterk aan de wedstrijd en vooral de traagheid van de verdedigers viel op. Dit konden we enkele keren uitbuiten. Zo konden Wout Veranneman en Joachim Ally beiden een keer op doel afstormen, maar beide schoten gingen naast. Een verdwaalde voorzet raakte de lat. En niet veel later kregen we nóg een kans om de score te verhogen via een rommelige fase voor het doel, maar ook nu lukte het niet. Een resem gemiste kansen die ons later ongetwijfeld zuur zouden opbreken. De roodhemden hadden daar bitter weinig tegen in te brengen. Ze combineerden wel, maar werden makkelijk afgestopt in de zone van de waarheid. Pieter-Jan, Lowie en Robin hielden de boel makkelijk op slot.</Paragraph>
+  <Paragraph>In de tweede helft waren vlaggenman Bartel en de goed ingeduffelde Floren het veld betreden voor respectievelijk Pieter-Jan en Martijn. Een ijverige Sam liep zich zwaar in de kijker door verschillende keren door te stomen op links, met Wout als sparringpartner. Ook via de andere flank haalden we geregeld de achterlijn, maar verder dan een mandje vol hoekschoppen leverde dat niet op. En dat onze tegenstanders hun buikje rond hadden gegeten bij de eindejaarsfeesten, zorgde ervoor dat we ze niet makkelijk konden wegzetten in de vele duels. Halfweg de tweede helft kwamen we plots op achterstand. Een opeenvolging van individuele fouten zorgde ervoor dat onze Jonkershoofse vrienden plots oog in oog stonden met Brecht. Stoicijns kalm werd de eerste bal in het mandje gelegd. In plaats van rustig te blijven, raakten we snel verzeild in een potje paniekvoetbal. Overhaast probeerden we naar voor te stormen en echte kansen bleven uit. De tegenstander rook bloed en zij hadden ook het geluk aan hun zijde. Ons 'keeperke' stond aan de grond genageld toen een bal afweek op de rug van de heldhaftige Robin, die zich voor een krachtig schot gooide. Een vlijmscherpe counter op het eind van de match beslechte ons lot helemaal: 0-3.</Paragraph>
+	<Paragraph>Met het schaamrood op de wangen dropen we af. Het gevoel leefde dat we deze match vooral in de eerste helft verloren haddden. Maar we blijven niet bij de pakken zitten, want in de kleedkamer werd al uitgebreid gebrainstormd over een mogelijke wijziging in de opstelling. Respect voor trouwe supporter Carl Frimout, die ons ook in deze moeilijke tijden blijft aanmoedigen. </Paragraph>
+  </Report>
+</Match>

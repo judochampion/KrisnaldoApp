@@ -1,0 +1,46 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Alexander Verkouille</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Reinout Pattijn</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>11</Month>
+    <Day>13</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>STM Sjotters</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Benjamin De Geest</Scored>      
+      <Assist>Sam Decoene</Assist>
+    </Goal> 
+  </Goals>
+  <Report>
+    <Paragraph>
+    Deze ochtend namen de Krisnaldo’s het op tegen de STM Sjotters, een niet te onderschatten middenmotor in onze B-reeks. Enkele basisspelers moesten het deze week laten afweten, maar dit was voor ons een kans om een oude legende terug boven te halen: Alexander Verkouille.</Paragraph>
+    <Paragraph>
+    Bij gebrek aan kans om voldoende op te warmen, begonnen De Krisnaldo’s met nogal stramme spieren aan de wedstrijd. Na amper 2 minuten was het dan ook al prijs voor de bezoekers: na ongelukkig handspel in onze 16 werd de bal terecht op de stip gelegd. In eerste instantie duwde keeper Brecht Degezelle de bal met een kundige duik richting paal. De STM'ers volgden echter beter op de rebound en legden de bal in het net: 0-1.  
+    In de fase daarna laaiden de gemoederen even op: een natrap van de tegenstander werd bestraft met een gele kaart. Niet genoeg, vonden de geelblauwen, maar zoals echte krijgers lieten de Krisnaldo’s het voorval achter zich en concentreerden ze zich opnieuw volledig op het grijpen van de 3 punten. Deze strijdlust werd slechts met enkele kleine kansen beloond. De vinnige dribbels van Martijn Vandaele, de scherpe steekpasses van Floren Bostoen, de klasseschoten van Reinout Pattijn; geen enkele van deze acties had invloed op het scorebord. Totdat de verlossing kwam via de voet van Sam Decoene. Deze gaf vanop de flank een harde lage voorzet richting doel, waar Benjamin De Geest temidden het geharrewar het koelst bleef en via een schijnbeweging de bal mooi door liet zoeven in doel. Een R1’tje op z’n fijnst, voor de FIFA-kenners.</Paragraph>
+    <Paragraph>
+    In de tweede helft bleven de Krisnaldo’s steeds goed doordrukken. Sterkhouders Robin Van Hulle en Pieter-Jan Soenen snoerden de achterlinie goed toe, waardoor we ons meer konden concentreren op de aanval. De veelvoorkomende overtredingen zorgden echter voor een enorme tempovertraging in de wedstrijd, zodat ons uithoudingsvermogen niet als voordeel kon worden uitgespeeld. Net wanneer iedereen dacht op een 1-1 af te stevenen, gebeurde 3 minuten voor tijd wat niet mocht gebeuren. Een late hoekschop werd binnen gekopt door een vrijstaande Sjotter. 1-2.
+    Met dit spijtige verlies is het weer drummen in de stand voor de koppositie in reeks B. We moeten Fc De Geite naast ons dulden en ook AC 't Rozeke zit ons op de hielen.</Paragraph>
+    <Paragraph>
+    Volgende week moeten we het thuis opnemen tegen VK Zwarte Gat 1. Een ideale kans voor de Krisnaldo’s om het verlies van deze week terug recht te zetten.
+    Supporters op post!</Paragraph>
+  </Report>
+</Match>

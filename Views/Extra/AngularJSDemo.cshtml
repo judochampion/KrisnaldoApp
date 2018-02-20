@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "AngularJSDemo";
+}
+<div ng-controller="Demo">
+    <div class="panel panel-info">
+        <div class="panel-heading">
+            <h3 class="panel-title">AngularJS Demo</h3>
+        </div>
+        <div class="panel-body">
+            <div ng-repeat="item in data | filter:search.text"
+                 ng-bind-html="item.text | highlight:search.text">
+                Cristiano Ronaldo dos Santos Aveiro (Funchal, 5 februari 1985) is een Portugees profvoetballer die bij voorkeur als linksbuiten speelt. Hij verruilde in 2009 Manchester United voor Real Madrid, dat 94 miljoen euro voor hem betaalde. Daarmee was hij tot 2013 de duurste voetballer aller tijden. In 2015 werd hij de all-time topscorer van de UEFA Champions League/Europacup I alsmede de meest scorende Real Madrid-speler ooit. Ronaldo debuteerde in 2003 in het Portugees voetbalelftal, waarvan hij in 2008 aanvoerder, in 2014 topscorer aller tijden en in 2016 recordinternational werd. Hij won in 2016 het EK met zijn land. Ronaldo werd in 2008, 2013, 2014, 2016 en 2017 uitgeroepen tot beste voetballer ter wereld.
+            </div>
+            <hr />
+            Met het invullen van de box kan je tekst uit het bovenvermelde tekstje filteren met behulp van Angular JS.
+            <input type="text" placeholder="Filter" ng-model="search.text">
+        </div>
+    </div>
+</div>
+
+<style>
+    .highlighted {
+        background: yellow;
+    }
+</style>

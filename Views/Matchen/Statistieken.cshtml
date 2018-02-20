@@ -1,0 +1,149 @@
+@model IEnumerable<KrisnaldoApp.Models.Match>
+
+@{
+    ViewData["Title"] = "Statistieken";
+}
+@{
+    int iAantalOverwinningen = 0;
+    int iAantalDraws = 0;
+    int iAantalNederlagen = 0;
+}
+@foreach (var item in Model)
+{
+
+    if (item.OnzeScore > item.HunScore)
+    {
+        iAantalOverwinningen++;
+    }
+    else if (item.OnzeScore == item.HunScore)
+    {
+
+        iAantalDraws++;
+    }
+    else
+    {
+        iAantalNederlagen++;
+
+    }
+}
+
+<div class="container">
+    <!--
+        <div class="row">
+        <div class="col-md-12">
+            <div class="panel panel-info">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Pagina met data-visualisaties van statistieken</h3>
+                </div>
+                <div class="panel-body">
+                    U ziet een taartdiagram tussen winst, gelijk en verlies. Ik experimenteer met de D3-js-bibliotheek. Meer grafieken zullen volgen.
+                </div>
+            </div>
+        </div>
+    </div>
+        -->
+    <div class="row">
+        <div class="col-md-4">
+            <div id="chart" style="text-align:center;">
+            </div>
+        </div>
+        <div class="col-md-8">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Verdeling tussen winst, draw en verlies</h3>
+                </div>
+                <div class="panel-body">
+                    <b>Totaal aantal overwinningen: </b>@(iAantalOverwinningen)
+                    <br><b>Totaal aantal draws: </b>@(iAantalDraws)
+                    <br><b>Totaal aantal nederlagen: </b>@(iAantalNederlagen)
+                </div>
+            </div>
+        </div>
+        <style>
+            .chart div {
+                font: 9px sans-serif;
+                background-color: steelblue;
+                text-align: right;
+                padding: 3px;
+                margin: 1px;
+                color: white;
+            }
+        </style>
+        <div class="col-md-6">
+            <div class="panel panel-default">
+                <div class="panel-body chart">
+                    <b>Topscorers</b>
+                    <p></p>
+                    <div style="width:280px;">Wout Veranneman (56)</div>
+                    <div style="width:110px;">Benjamin De Geest (22)</div>
+                    <div style="width:105px;">Joachim Ally (21)</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <style>
+        .arc text {
+            font: 10px sans-serif;
+            text-anchor: middle;
+        }
+
+        .arc path {
+            stroke: #fff;
+        }
+    </style>
+
+    <!--
+
+            .attr("width", width)
+            .attr("height", height)
+    -->
+    <script>
+        $(document).ready(function () {
+            var width = 300,
+                height = 300,
+                radius = Math.min(width, height) / 2;
+
+            var color = d3.scaleOrdinal()
+                .range(["#e6ffe6", "#ffffe6", "#ffe6e6"]);
+
+            var arc = d3.arc()
+                .outerRadius(radius)
+                .innerRadius(0);
+
+            var pie = d3.pie()
+                .sort(null)
+                .value(function (d) { return d.population; });
+
+            var svg = d3.select("#chart").append("svg")
+                .attr("width", width)
+                .attr("height", height)
+                .append("g")
+                .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+
+            d3.csv("../d3data/data.csv", type,
+                function (error, data) {
+                    if (error) throw error;
+
+                    var g = svg.selectAll(".arc")
+                        .data(pie(data))
+                        .enter().append("g")
+                        .attr("class", "arc");
+
+                    g.append("path")
+                        .attr("d", arc)
+                        .style("fill", function (d) { return color(d.data.age); });
+
+                    g.append("text")
+                        .attr("transform", function (d) { return "translate(" + arc.centroid(d) + ")"; })
+                        .attr("dy", ".35em")
+                        .text(function (d) { return d.data.population + " " + d.data.age; });
+                });
+
+            function type(d) {
+                d.population = +d.population;
+                return d;
+            }
+        });
+
+    </script>

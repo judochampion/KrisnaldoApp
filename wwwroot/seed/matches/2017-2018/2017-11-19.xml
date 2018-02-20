@@ -1,0 +1,36 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Joachim Ally</Player>
+    <Player>Lowie Frimout</Player>
+	<Player>Pieter Vermandere</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Floren Bostoen</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>11</Month>
+    <Day>19</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>DC United</TeamName>
+  </Against>
+  <Score>
+    <Home>2</Home>
+    <Away>0</Away>
+  </Score>
+  <Goals/>
+  <Report>
+  <Paragraph>Bij het ochtendgloren was het verrassend koud en nadat onze autoruiten eindelijk ontdooid waren, konden we koers zetten richting het mooie sportcomplex 't Chringhene in Gits. Onze tegenstander DC United was al heel gedisciplineerd aan het opwarmen toen wij uit de kleedkamer strompelden. Met maar liefst twee wisselspelers verschenen we in ruime getale aan de aftrap tegen de ploeg die net als ons drie overwinningen rijk was. Na een aantal rondootjes achtten ook wij ons klaar voor de aftrap.</Paragraph>
+<Paragraph>De Gitsenaars domineerden het spel en konden hier enkele kansen uit puren. Maar Robin, Pieter-Jan en Lowie hielden de boel mooi gesloten achterin waardoor ze niet echt aan kansen toekwamen. Eén keer kwamen ze wel heel gevaarlijk opzetten en stond hun spits oog in oog met Brecht D. op een handvol meters. Brecht hield heel slim de beentjes dicht en kon zo de knal onschadelijk maken. Aan de overkant kwamen wij niet verder dan een afgeblokt schot van Wout na een mooie solo-actie.</Paragraph>
+<Paragraph>In de tweede helft ging het aanvankelijk beter. De tegenstanders leken wat op hun adem te hebben getrapt en met de inbreng van Joachim en Reinout kwamen er twee frisse Krisnaldo's het veld op. De oranjehemden begonnen echter een verzameling corners bijeen te sprokkelen, waarbij ze een delegatie torens in het strafschopgebied lieten postvatten. De eerste twee kopballen werden ontzet door Brecht D., maar bij een afvallende bal op de derde corner was het dan toch raak. Een streep richting winkelhaak was onhoudbaar en bracht ons 1-0 in het krijt. Maar daar lieten we het niet bij. We kregen nu meer kansen. Sam begon zijn duivels te ontbinden op links en stak de bal door op Wout. Die legde breed op Joachim, die uiteindelijk Floren wist te bereiken. Floren knalde echter op de jeugdige keeper en ook Wout kon even later vanop afstand uithalen. Maar het was aan de overkant dat de tweede treffer viel. Een vrije trap vanop het middenveld viel net tussen onze verdedigers in en werd zo een assist voor de aalvlugge spits van DC United. In de tien minuten die daarop volgden konden we geen aanspraak meer maken op de aansluitingstreffer.</Paragraph>
+<Paragraph>Omdat de ploegen achter ons ook wat blijven slabakken, behouden we de tiende stek en drie punten voorsprong op de voorlaatste. Maar sinds het ambitieuze artikel waarin we de ambities wilden bijstellen naar boven is het de andere kant op aan het gaan. We moeten eens in de spiegel kijken en de bekermatch tegen Fc De Geite Fanpage als afwisseling in de kalender gebruiken om een nieuwe start te maken.</Paragraph>
+  </Report>
+</Match>

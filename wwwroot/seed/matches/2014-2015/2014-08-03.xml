@@ -1,0 +1,38 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Tijs Houvenaeghel</Player>
+    <Player>Simon De Taeye</Player>
+    <Player>Lowie Frimout</Player>
+    <Player>Jonas Callewaert</Player>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Joachim Ally</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Mahoney Deckmyn</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Djonavan Descan</Player>
+  </Players>
+  <Time>
+    <Year>2014</Year>
+    <Month>08</Month>
+    <Day>03</Day>
+  </Time>
+  <Against role="home" type="tournament">
+    <TeamName>FC Lokkedyze</TeamName>
+  </Against>
+  <Score>
+    <Home>4</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals />
+  <Report>
+    <Paragraph>Vandaag, zondag 3 augustus 2014, speelden wij onze eerste wedstrijd tegen FC Lokkedyze. Eindstand was 4-1 in het nadeel van de Krisnaldo's.</Paragraph>
+    <Paragraph>Als onervaren ploeg kwamen wij in de eerste helft te snel en te gemakkelijk op een 3-0 achterstand. Tijdens de rust moest coach Carl Frimout dan ook wat aan de opstelling sleutelen. Met hernieuwde moed verliep het spel dan ook iets vlotter wat resulteerde in enkele uitstekende mogelijkheden, zonder resultaat helaas. Naar het einde van de wedstrijd toe werden we dan toch beloond voor onze inzet: na een schitterende uittrap van Deckmyn Mahoney sloeg de verdediging van de thuisploeg aan het twijfelen, met een owngoal tot gevolg. In de laatste seconden van de match kregen we uiteindelijk nog een doelpunt tegen, waardoor de score op een (weliswaar overdreven) 4-1 eindstand kwam.</Paragraph>
+    <Paragraph>Na de wedstrijd was er nog een penalty shoot-out, waarin onze nummer 1 Deckmyn Mahoney zich ontpopte tot penaltyheld met 3 knappe reddingen.</Paragraph>
+    <Paragraph>De volgende spelers scoorden op penalty voor de Krisnaldo's: Deckmyn Mahoney, Djonavan Descan, Stijn Vansteenkiste, Martijn Vandaele en Sam Decoene.</Paragraph>
+    <Paragraph>Hopelijk volgende week meer geluk!</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>

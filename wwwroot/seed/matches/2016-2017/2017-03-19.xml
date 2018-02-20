@@ -1,0 +1,45 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Brecht Degezelle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Floren Bostoen</Player>
+    <Player>Alexander Verkouille</Player>
+    <Player>Joachim Ally</Player>
+    <Player>Brecht Houvenaeghel</Player>
+  </Players>
+  <Time>
+    <Year>2017</Year>
+    <Month>3</Month>
+    <Day>19</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>VK Zwarte Gat</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>2</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Wout Veranneman</Scored>
+      <Assist>Joachim Ally</Assist>
+    </Goal>
+      <Goal sequence="2">
+      <Scored>Floren Bostoen</Scored>
+      <Assist>Martijn Vandaele</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Deze ochtend trok de Krisnaldo karavaan naar het vredige Dominiek Savio waar de stoere mannen van VK 't zwarte gat klaar stonden om onze scalp te veroveren. De Krisnaldo's waren hen echter iets te vlug af en wonnen verdiend met 1-2.</Paragraph>
+    <Paragraph>Met de finishlijn in zicht is het zo stilaan moneytime in de RLV Competitie. Tot dat besef kwam ook Robin Van Hulle die bij aanvang van de wedstrijd de troepen nog eens op geheel eigen wijze op scherp zette. Duidelijk geïnspireerd op enkele Tom Soetaerts one-liners begonnen we zo vol gezonde agressiviteit aan de partij. Onmiddellijk na het eerste fluitsignaal trokken we ten aanval en na enkele kleinere kansjes kwamen we na zo'n 15 minuten spelen op voorsprong. Joachim Ally speelde in op Wout Veranneman die na een mooie versnelling de verste hoek zocht. 0-1. Het veldoverwicht was op dat moment voor ons al lagen de Zwarte Gat spitsen wel voortdurend op de loer voor de ruimte in de rug van de verdediging. 1 keer slaagden ze er zo ook in om op doel af te stormen. Onze doelman Brecht Degezelle kon de bal niet stoppen en het stond zowaar 1-1. Alles te herdoen en wij bleven ook op dezelfde manier verder voetballen. Net voor rust werden we uiteindelijk beloond. Martijn Vandaele met een knappe pass tot bij Floren Bostoen die heel beheerst de 1-2 binnen schoof. 1-2 was onmiddellijk ook de ruststand.</Paragraph>
+    <Paragraph>Na de pauze stokte het wat. De thuisploeg ging iets nadrukkelijker op zoek naar de gelijkmaker maar was niet bij machte om onze ruige boys achterin te verontrusten. Misschien zat de flashy oranje uitrusting van doelman Brecht Degezelle er wel voor iets tussen. Wij kregen voorin meer ruimte dan in de eerste helft maar gingen daar iets te onzorgvuldig mee om. Weinig spektakel en dus achtte de, voor de rest prima fluitende, scheidsrechter zijn moment gekomen om het spektakel wat te verzorgen. Na een ietwat overdreven rode kaart voor een Zwarte Gat speler gingen de poppetjes aan het dansen. Nadat een grofgebekte Zwart Gat hooligan het iets te bont maakte wou de ref abrupt een einde maken aan de partij. 3 " mo allez how arbieter's" later kwam hij toch terug op zijn beslissing. Leuk stukje comedy capers voor de neutrale toeschouwer. In de resterende 10 minuten gebeurde er absoluut niks en zo eindigde de wedstrijd met een terechte 1-2 overwinning. De scheidsrechter en het Zwart Gat heethoofd zouden naar verluidt de vete al hebben bijgelegd.</Paragraph>
+    <Paragraph>Het was opnieuw geen champagnevoetbal maar de levensbelangrijke 3 punten werden wel behaald. Door het verlies van de Sportwereld is nu GZ Tube onze dichtste achtervolger, zij volgen op 2 punten. Wij blijven 1 puntje onder leider Don Bosco bengelen. Met nog 3 wedstrijden op het programma blijft het dus razend spannend. Volgende week spelen we thuis tegen VPA Sleihage, tot dan!</Paragraph>
+  </Report>
+</Match>

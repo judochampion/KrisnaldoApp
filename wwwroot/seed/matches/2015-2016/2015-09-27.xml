@@ -1,0 +1,42 @@
+<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Stijn Vansteenkiste</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Pieter-Jan Soenen</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Janneman Schouteten</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Sander Ghesquiere</Player>
+    <Player>Simon De Taeye</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2015</Year>
+    <Month>09</Month>
+    <Day>27</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>Nieuw Gemeentehuis</TeamName>
+  </Against>
+  <Score>
+    <Home>2</Home>
+    <Away>3</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Benjamin De Geest</Scored>
+    </Goal>
+    <Goal sequence="2">
+      <Scored>Martijn Vandaele</Scored>
+      <Assist>Wout Veranneman</Assist>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Op deze mooie nazomerse zondagochtend stond de vierde wedstrijd van het seizoen op het programma. Rots in de branding Simon De Taeye was na thesisonderzoek speciaal uit Rwanda gerepatrieerd om de ploeg te versterken.Tegenstander van dienst was het Nieuw Gemeentehuis uit Kachtem.</Paragraph>
+    <Paragraph>De Krisnaldo’s wilden de aansluiting maken met de top van het klassement en schoten dan ook sterk uit te startblokken. Een vrije trap ter hoogte van de middellijn werd door Pieter-Jan Soenen in de zone van de waarheid gekatapulteerd, waarna Joachim Ally op de vijandige keeper kopte. Klemvast had de keeper de bal echter niet en aasgier Benjamin De Geest profiteerde om de score van dichtbij te openen. Na de vroege voorsprong blonk de wedstrijd vooral uit in hoeveelheid middenveldspel met een minimum aan uitgespeelde kansen. Diep in de eerste helft achtte een snel, klein, vinnig spitsje van de tegenstander echter zijn moment gekomen. In minder dan twee minuten tijd stoomde hij eerst door op links om de bal klaar te leggen voor zijn spitsbroeder en vervolgens zelf de keeper te verrassen met een enig mooi afstandsschot. Met een plotse achterstand mochten we gaan rusten.</Paragraph>
+    <Paragraph>In de tweede helft maakten de Krisnaldo’s een vuist en konden ze meer en meer dreigen. In een van de snelle counters eiste spits Wout Veranneman de bal op. Hij behield het overzicht en zag de mee oprukkende Martijn Vandaele zich vrij lopen. Die twijfelde niet en knalde het leer onhoudbaar voorbij de keeper. Erop en erover dachten de talrijk opgedaagde supporters, maar jammer genoeg was het tegengestelde waar. Op een uittrap van de keeper kregen onze verdedigers de hoog botsende bal niet meteen weg en in een potig duel kon de spits er met de bal vandoor om van dichtbij de 2-3 te scoren. Een slotoffensief van de blauw-gele paradijsvogels bracht weinig zoden aan de dijk, verder dan enkele afstandsschoten kwamen we niet meer.</Paragraph>
+    <Paragraph>En zo staan De Krisnaldo’s met 4 op 12 in de onderbuik van het klassement geparkeerd. Volgende week volgt de eerste ronde van de beker. Een wedstrijd die we niet mogen verliezen om de droom op de dubbel mathematisch mogelijk te houden.</Paragraph>
+  </Report>
+</Match>

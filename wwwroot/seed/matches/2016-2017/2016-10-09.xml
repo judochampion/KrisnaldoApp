@@ -1,0 +1,41 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+    <Player>Lowie Frimout</Player>
+    <Player>Pieter Vermandere</Player>
+    <Player>Martijn Vandaele</Player>
+    <Player>Reinout Pattijn</Player>
+    <Player>Janneman Schouteten</Player>
+    <Player>Sam Decoene</Player>
+    <Player>Wout Veranneman</Player>
+    <Player>Benjamin De Geest</Player>
+    <Player>Dries Sticker</Player>
+    <Player>Alexander Blondeel</Player>
+    <Player>Brecht Houvenaeghel</Player>
+    <Player>Robin Van Hulle</Player>
+    <Player>Joachim Ally</Player>
+  </Players>
+  <Time>
+    <Year>2016</Year>
+    <Month>10</Month>
+    <Day>9</Day>
+  </Time>
+  <Against role="away" type="competition">
+    <TeamName>Jong CD&amp;V Dark</TeamName>
+  </Against>
+  <Score>
+    <Home>1</Home>
+    <Away>1</Away>
+  </Score>
+  <Goals>
+    <Goal sequence="1">
+      <Scored>Wout Veranneman</Scored>
+    </Goal>
+  </Goals>
+  <Report>
+    <Paragraph>Na onze verliesbeurt in de beker snakten de supporters naar een reactie in de competitie. Keeper Brecht Degezelle was een van die supporters, aangezien hij nog steeds met een spierblessure buiten strijd is. De heldhaftige Dries Sticker, die de vorige twee seizoenen het mooie weer maakte onder de lat, was uit het verre Ninove afgezakt om ons uit de nood helpen tegen Jong CD&amp; Dark.</Paragraph>
+    <Paragraph>Het Cera-complex bestaat uit twee terreinen. Op het ene hebben we onlangs verloren van De Geite, op het andere hebben we in de voorbereiding enkele mooie overwinningen geboekt. Voelden we ons te stoer om bijgelovig te zijn? Dachten we dat de voetbalgoden een toontje lager moesten zingen? In ieder geval kozen we onbegrijpelijk voor het terrein dat ons het minst lag. En die vloek leek ons parten te spelen. We begonnen sterk en combineerden mooi, maar toch was het aan de overkant dat het eerste doelpunt te noteren viel. Hun uitblinkende middenvelder stuurde een spits diep. Dries probeerde de bal uit de voeten te plukken, maar net als Hazard tegen Bosnië was hij sluw genoeg om de keeper te omspelen en het leer vanuit een schuine hoek binnen te schuiven. We waren niet echt onder de indruk van deze achterstand en bleven mooi combineren. In een van die combinaties pakte Martijn uit met een fantastische dribbel. Vanop zo’n 20 meter haalde hij uit, maar de droom om een magnifiek doelpunt te maken spatte uiteen op de paal. Ook Sam Decoene, Pieter Vermandere en Brecht Houvenaeghel waagden tevergeefs hun kans vanop afstand. Wout Veranneman was de enige speler die aan de vloek leek te ontsnappen. Hij draaide zich mooi weg en lanceerde een schot. Het schot had geen supersonische snelheid, maar wel een aardige bots en was uitstekend geplaatst. Zo konden we rusten bij een gelijke stand.</Paragraph>
+    <Paragraph>De tweede helft begon met een wijziging in de defensie: de ruige rechtsachter Reinout Pattyn werd vervangen door de aalvlugge Alexander Blondeel. De tegenstander hoopte dat dit misschien wat zand in de defensieve machine zou brengen, maar kwam bedrogen uit toen ze merkten dat ze er opnieuw niets tegen konden beginnen. We steken een pluim op de hoed van Reinout, Alexander, Sam, Robin Vanhulle en Janneman Schouteten. De vijandelijke coach besefte dat een gelijkspel het hoogst haalbare was. Onze tegenstander trok een dubbele afweergordel op en combineren werd nu plots een pak moeilijker. Om het aantal kansen bij te houden had je een telraam nodig. 23 schoten of kopballen werden afgevuurd met een ellendig lage efficiëntie van 0 procent. Toch mag je dit niet vergelijken met de wanprestatie van vorige week, omdat er echt vuur in de ploeg zat. Tot het bittere eind plooiden we ons dubbel op de zoek naar het winnende doelpunt. Maar de vloek van het terrein wis je niet zomaar uit.</Paragraph>
+    <Paragraph>Volgende week spelen we opnieuw thuis en zijn we vastbesloten om op het andere terrein ’t Rozeke een nederlaag aan te smeren. Al zal dat opnieuw niet vanzelfsprekend zijn, aangezien zij verrassend met 12 op 15 aan de leiding staan.</Paragraph>
+    <Paragraph>#WeAreKrisnaldos</Paragraph>
+  </Report>
+</Match>
