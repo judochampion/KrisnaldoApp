@@ -1,7 +1,7 @@
 @model KrisnaldoApp.Models.SpelerViewModels.SpelerIndividueelStatistiek
 
 @{
-    
+
 }
 
 @{
@@ -11,11 +11,6 @@
 
 }
 
-<div class="col-md-12">
-    <div class="alert alert-warning">
-        Deze pagina is nog <b>onder constructie</b>. De uiteindelijke bedoeling is dat iedere speler een gepersonaliseerde pagina krijgt met alle statistieken en weetjes over die speler.
-    </div>
-</div>
 <h2> @naam</h2>
 
 <div>
@@ -45,24 +40,65 @@
 </div>
 @if (Model.QuotesUitVerslagen.Count > 0)
 {
-    @if (Model.QuotesUitVerslagen.Count > 1)
-    {
-
-    }
+    int teller = 0;
     <hr />
 
-   <p>In totaal wordt @Model.Speler.VoorNaam in @Model.QuotesUitVerslagen.Count verslag vermeld.</p>
-   
-    @foreach (KeyValuePair<string, List<string>> kvp in Model.QuotesUitVerslagen)
-    {
-    <blockquote class="blockquote">
-        <p class="mb-0">@String.Join(" (...) ", kvp.Value)</p>
-        <footer class="blockquote-footer">@kvp.Key</footer>
-    </blockquote>
-    }
+        <p>In totaal wordt @Model.Speler.VoorNaam in @Model.QuotesUitVerslagen.Count verslag vermeld. Klik op het juiste seizoen om de vermeldingen uit dat seizoen te lezen.</p>
+
+        @if (Model.SeizoenenWaarinHijVoorkomt.Count() > 0)
+        {
+
+            <ul class="pagination">
+                @{
+                    string lastseizoen = Model.SeizoenenWaarinHijVoorkomt.Last();}
+                @foreach (string seizoennaam in Model.SeizoenenWaarinHijVoorkomt)
+
+                {
+                    string pagnaam = "pag" + seizoennaam;
+                    @if (seizoennaam == lastseizoen)
+                    {
+
+                        //active class
+                        <li class="like active" id="@pagnaam"><a>@seizoennaam</a></li>
+                    }
+                    else
+                    {
+                        <li id="@pagnaam" class="like"><a>@seizoennaam</a></li>
+                    }
+                }
+            </ul>
+
+
+                    @foreach (KeyValuePair<string, object[]> kvp in Model.QuotesUitVerslagen)
+                    {
+                        string seizoennaam = (string)((object[])kvp.Value)[0];
+
+                        string linknaam = (string)((object[])kvp.Value)[2];
+                        string displaystyle = (seizoennaam == lastseizoen) ? "normal" : "none";
+                        <div class="@seizoennaam blockske" style="display:@displaystyle">
+                            <blockquote class="blockquote">
+                                <p class="mb-0">@String.Join(" (...) ", (List<string>)((kvp.Value)[1]))</p>
+                                <footer class="blockquote-footer">uit <a href="@linknaam">het verslag</a> van @kvp.Key</footer>
+                            </blockquote>
+                        </div>
+                    }
+                    }
+                    }
+
+@foreach (string seizoennaam in Model.SeizoenenWaarinHijVoorkomt)
+{
+    string pagname = "pag" + seizoennaam;
+    <script>
+        document.getElementById('@pagname').addEventListener("click", function () {
+            $('.blockske').hide();
+            $('.' + '@seizoennaam').show();
+            $(".like:not(#" + '@pagname' + ")").removeClass("active");
+            $('#' + '@pagname').addClass("active");
+        }, false);
+    </script>
 }
+<hr />
 <div>
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Index">Terug naar de volledige spelerslijst</a>
 </div>
 
-<!--<footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>-->

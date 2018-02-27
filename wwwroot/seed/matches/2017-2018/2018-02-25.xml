@@ -1,0 +1,35 @@
+﻿<Match xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.dekrisnaldos.be/match">
+  <Players>
+  <Player>Brecht Degezelle</Player>
+	<Player>Pieter Vermandere</Player>
+  <Player>Floren Bostoen</Player>
+	<Player>Benjamin De Geest</Player>
+	<Player>Brecht Houvenaeghel</Player>
+	<Player>Sam Decoene</Player>
+	<Player>Pieter-Jan Soenen</Player>	
+	<Player>Lowie Frimout</Player>
+	<Player>Joachim Ally</Player>
+	<Player>Wout Veranneman</Player>
+	<Player>Bartel De Brabandere</Player>
+	<Player>Martijn Vandaele</Player>
+  </Players>
+  <Time>
+    <Year>2018</Year>
+    <Month>02</Month>
+    <Day>25</Day>
+  </Time>
+  <Against role="home" type="competition">
+    <TeamName>Ter Mote</TeamName>
+  </Against>
+  <Score>
+	<Home>2</Home>
+	<Away>0</Away>
+  </Score>
+  <Goals/>
+  <Report>
+    <Paragraph>Op deze overmatig koude zondagochtend gaven onze blauwgele grasballerina’s de ongeslagen kampioen van vorig jaar partij, FC Ter Mote. Dit seizoen vergaat het de lichtblauwgeschelpte ploeg iets minder goed, zij moeten vooralsnog vrede nemen met een plekje in de middenmoot. De grasmat lag er stijfbevroren bij, en genereerde het geluid van een losgeslagen kudde gnoes op de savanne toen beide teams kouwkleumend het veld op denderden.</Paragraph>
+    <Paragraph>De bevroren mat maakte goed voetbal moeilijk, maar al vrij snel maakte de Ruddervoordse thuisploeg er toch 1-0 van. Een corner werd aan de tweede paal vrij eenvoudig binnengekopt door een blauwhemd, een tot de nok gevuld Ridersfort stadion kon een eerste keer juichen. De regerende kampioen claimde het merendeel van het balbezit en leek iets beter om te kunnen gaan met de staat van de grasmat. Kansen bleven aan beide kanten echter schaars en geen van beide teams was teleurgesteld toen scheidsrechter Andre ‘El Sympatico’ Vermeersch de rust op gang floot. Vlaggenman van dienst Martijn Vandaele mocht complimenten ontvangen voor een ongezien sterke eerste helft, zijn getraind arendsoog was echter het enige positieve wat daarvan te onthouden viel.Tijdens de rust mocht de gelauwerde lijntjesman zijn grensrechtersplunje vervangen door een blauwgeel voetbaltenue, in de hoop weer wat vuur en genialiteit in de wedstrijd te kunnen brengen.</Paragraph>
+    <Paragraph>De tweede helft bracht aanvankelijk iets meer druk van blauwgele kant, zonder echt uitgespeelde kansen. Kapitein Benjamin etaleerde nogmaals zijn dodelijke precisie voor doel door een scherp aangesneden voorzet in de zestien nauwkeurig in de rechterbenedenhoek te deviëren: helaas stond in datzelfde doel Krisnaldo-goalie Brecht Degezelle, die hoofdschuddend de bal uit zijn net moest gaan rapen. Het overkomt de beste, maar de 2-0 achterstand was een feit. 2-0 in het krijt tegen de kampioen op een betonnen grasmat, dan weet je dat het moeilijk wordt. En zo geschiedde ook, Ter Mote controleerde verder en gaf de match niet meer uit handen. Met een al bij al terechte nederlaag op zak schaatsten de Naldo’s van het nog steeds niet ontdooide veld af, op zoek naar troost in de armen van Vader Kleedkamer en Moeder Voetbalkantine.</Paragraph>
+    <Paragraph>Een offday die volgende week rechtgezet kan en moet worden tegen rode lantaarn Sportief Exclusief.</Paragraph>
+  </Report>
+</Match>

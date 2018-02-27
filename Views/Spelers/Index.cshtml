@@ -35,7 +35,7 @@
         <tbody>
             @foreach (var item in Model)
             {
-                string spelerlink = "http://krisnaldos.be/Spelers/" + item.VoorNaam + item.FamilieNaam.Replace(" ", "");
+                string spelerlink = "Spelers/"+item.VoorNaam + item.FamilieNaam.Replace(" ", "");
                 <tr>
                     <td>
                         @Html.DisplayFor(modelItem => item.SpelerID)

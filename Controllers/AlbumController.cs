@@ -43,7 +43,10 @@ namespace KrisnaldoApp.Controllers
         {
             if(albumnaam == null)
             {
-                return RedirectToAction("Index");
+
+                System.Collections.Generic.List<Models.Album> list = await _context.Album.ToListAsync();
+                list = list.OrderBy(a => a.Datum).ToList<Models.Album>();
+                return View("Index",list);
             }
 
             var album = await _context.Album

@@ -24,7 +24,6 @@ namespace KrisnaldoApp.Data
         public DbSet<Paragraaf> Paragraaf { get; set; }
         public DbSet<Album> Album { get; set; }
         public DbSet<Foto> Foto { get; set; }
-        public DbSet<Sponsor> Sponsor { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
@@ -64,6 +63,7 @@ namespace KrisnaldoApp.Data
                  .WithMany(s => s.Assists)
                  .HasForeignKey(g => g.AssistSpelerID)
                  .OnDelete(DeleteBehavior.Restrict);
+
             builder.Entity<Foto>()
                 .HasOne(f => f.Album)
                 .WithMany(a => a.Fotos)

@@ -8,7 +8,7 @@
     ViewData["Title"] = "Log in";
 }
 <div class="alert alert-warning">
-    Voorlopig kan je hier enkel aanmelden met de administrator-account en kunnen bezoekers zelf nog geen account aanmaken.
+    Voorlopig kan je hier enkel aanmelden met de administrator-account en kunnen bezoekers zelf nog geen account aanmaken. Je dient enkel het paswoord in te geven.
 </div>
 <h2>@ViewData["Title"].</h2>
 
@@ -19,10 +19,10 @@
 
                 <hr />
                 <div asp-validation-summary="All" class="text-danger"></div>
-                <div class="form-group">
+                <div class="form-group" style="display:none">
                     <label asp-for="Email" class="col-md-2 control-label"></label>
                     <div class="col-md-10">
-                        <input asp-for="Email" class="form-control" />
+                        <input asp-for="Email" class="form-control" value="joachimally@gmail.com"/>
                         <span asp-validation-for="Email" class="text-danger"></span>
                     </div>
                 </div>

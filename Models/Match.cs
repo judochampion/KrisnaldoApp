@@ -24,16 +24,19 @@ namespace KrisnaldoApp.Models
         public Type Type { get; set; }
         public int OnzeScore { get; set; }
         public int HunScore { get; set; }
-        public string Tegenstander { get; set;}
+        public string Tegenstander { get; set; }
+        public string LinkNaam { get; set; }
         public int SeizoenID { get; set; }
         public Seizoen Seizoen { get; set; }
-        public virtual List <SpelerMatch> SpelerMatchen { get; set; }
-        public virtual List <Goal> Goals { get; set; }
-        public virtual List <Paragraaf> Paragrafen { get; set; }
+        public virtual List<SpelerMatch> SpelerMatchen { get; set; }
+        public virtual List<Goal> Goals { get; set; }
+        public virtual List<Paragraaf> Paragrafen { get; set; }
+
 
 }
     public enum Rol
     {
+
         [Display(Name = "Thuismatch")]
         THUIS,
         [Display(Name = "Uitmatch")]

@@ -130,15 +130,34 @@ namespace KrisnaldoApp
                     defaults: new { controller = "Album", action = "Details" }
                 );
 
+                /*Better re-route*/
+                routes.MapRoute(
+                    name: "MatchReroute",
+                    template: "Matchen/DetailsViaID/{*matchID}",
+                    defaults: new { controller = "Matchen", action = "DetailsViaID" }
+                );
+
+
+                /*Better re-route*/
+                routes.MapRoute(
+                    name: "MatchRerouteID",
+                    template: "Matchen/DetailsViaNaam/{*matchnaam}",
+                    defaults: new { controller = "Matchen", action = "DetailsViaNaam" }
+                );
+
+                /*Better re-route*/
+                routes.MapRoute(
+                    name: "MatchRerouteNaam",
+                    template: "Matchen/{*matchnaam}",
+                    defaults: new { controller = "Matchen", action = "DetailsViaNaam" }
+                );
+
+
                 routes.MapRoute(
                     name: "SpelerReRouteByName",
                     template: "Spelers/{*spelernaam}",
                     defaults: new { controller = "Spelers", action = "Details" });
 
-                routes.MapRoute(
-                    name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}"
-                    );
                 routes.MapRoute(
                     name: "SponsorReRoute",
                     template: "Sponsors",
@@ -146,9 +165,8 @@ namespace KrisnaldoApp
                     );
 
                 routes.MapRoute(
-                    name: "AlbumReRoute",
-                    template: "Albums",
-                    defaults: new { controller = "Album", action = "Index" }
+                    name: "default",
+                    template: "{controller=Home}/{action=Index}/{id?}"
                     );
 
             });

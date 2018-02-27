@@ -13,9 +13,11 @@ namespace KrisnaldoApp.Models.SpelerViewModels
         public int GespeeldPercentage { get; set; }
         public List<Match> MatchenWaarHijHeeftAanMeegedaan { get; set; }
 
+        public List<string> SeizoenenWaarinHijVoorkomt { get; set; }
+
         public int AantalGescoordeGoals { get; set; }
 
-        public Dictionary<string,List<string>> QuotesUitVerslagen { get; set; }
+        public Dictionary<string, object[] > QuotesUitVerslagen { get; set; }
 
         
     }    

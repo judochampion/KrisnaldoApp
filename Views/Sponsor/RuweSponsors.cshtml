@@ -1,0 +1,68 @@
+@model IEnumerable<KrisnaldoApp.SponsorViewModels.Sponsor>
+@{
+
+    ViewData["Title"] = "Alle sponsors in tabelvorm";
+}
+<div class="row">
+
+
+    <table class="table table-bordered table-striped table-sm">
+        <thead>
+            <tr>
+                <th>Nr</th>
+                <th>AltName</th>
+                <th>RawName</th>
+                <th>Linknaam</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+
+
+            <tr class="table-active">
+                @using (Html.BeginForm("FormSponsor", "Sponsor", FormMethod.Post))
+                {
+                    <td></td>
+                            <td>
+                                @Html.TextBox("displayNaam")
+                            </td>
+
+                            <td>
+                                @Html.TextBox("rawname")
+                            </td>
+                            <td>
+                                @Html.TextBox("link")
+                            </td>
+                            <td>
+                                <button class="btn btn-success" type="submit">
+                                    <i class="fa fa-plus"></i> Voeg sponsor Toe
+                                </button>
+                            </td>
+                }
+            </tr>
+
+            @{int teller = 1; }
+            @foreach (KrisnaldoApp.SponsorViewModels.Sponsor sponsor in Model)
+            {
+
+                <tr>
+                    <td>@teller</td>
+                    <td>@sponsor.DisplayNaam</td>
+                    <td>@sponsor.RuwePictureNaam</td>
+                    <td>@sponsor.Link</td>
+                    <td>
+                        <form action="/Sponsor/DeleteSponsor/@teller">
+
+                            <button class="btn btn-warning" type="submit">
+                                <i class="fa fa-trash"></i> Verwijder sponsor
+                            </button>
+                        </form>
+                    </td>
+                </tr>
+                teller++;
+            }
+
+        </tbody>
+    </table>
+</div>
+<hr />

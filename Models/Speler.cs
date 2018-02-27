@@ -30,5 +30,7 @@ namespace KrisnaldoApp.Models
         public virtual List<SpelerMatch> SpelerMatchen { get; set; }
         public virtual List<Goal> Goals { get; set; }
         public virtual List<Goal> Assists { get; set; }
+
+        
     }
 }

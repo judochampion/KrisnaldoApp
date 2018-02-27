@@ -128,6 +128,8 @@ namespace KrisnaldoApp.Migrations
 
                     b.Property<int>("HunScore");
 
+                    b.Property<string>("LinkNaam");
+
                     b.Property<int>("OnzeScore");
 
                     b.Property<int>("Rol");
@@ -207,22 +209,6 @@ namespace KrisnaldoApp.Migrations
                     b.HasIndex("SpelerID");
 
                     b.ToTable("SpelerMatch");
-                });
-
-            modelBuilder.Entity("KrisnaldoApp.Models.Sponsor", b =>
-                {
-                    b.Property<int>("SponsorID")
-                        .ValueGeneratedOnAdd();
-
-                    b.Property<string>("DisplayNaam");
-
-                    b.Property<string>("Link");
-
-                    b.Property<string>("RuwePictureNaam");
-
-                    b.HasKey("SponsorID");
-
-                    b.ToTable("Sponsor");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.EntityFrameworkCore.IdentityRole", b =>

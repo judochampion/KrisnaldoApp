@@ -1,4 +1,4 @@
-@model IEnumerable<KrisnaldoApp.Models.Sponsor>
+@model IEnumerable<KrisnaldoApp.SponsorViewModels.Sponsor>
 @{
 
     ViewData["Title"] = "Alle sponsors";
@@ -28,7 +28,7 @@
     <div class="col-md-12">
         <div class="clearfix mosaicflow">
 
-            @foreach (Sponsor sponsor in Model)
+            @foreach (KrisnaldoApp.SponsorViewModels.Sponsor sponsor in Model)
             {
                 string sPictureSource = "/seed/sponsors/compressed/" + sponsor.RuwePictureNaam;
                 <div class="mosaicflow__item">

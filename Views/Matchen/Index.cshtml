@@ -87,7 +87,7 @@ Dit is een overzicht van de @Model.Count() matchen die de Krisnaldo's al gespeel
                         @Html.DisplayFor(modelItem => item.HunScore)
                     </td>
                     <td>
-                        <a asp-action="Details" asp-route-id="@item.MatchID"><i class="fa fa-newspaper-o fa-lg" aria-hidden="true"></i></a>
+                        <a href="/Matchen/@item.LinkNaam"><i class="fa fa-newspaper-o fa-lg" aria-hidden="true"></i></a>
                     </td>
                 </tr>
              }

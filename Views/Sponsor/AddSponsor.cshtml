@@ -3,7 +3,7 @@
 *@
 @{
 }
-@using (Html.BeginForm("FormSponsor", "Sponsor", FormMethod.Post))
+@using (Html.BeginForm("AddSponsor", "Sponsor", FormMethod.Post))
 {
     <p>
         @Html.Label("Display Naam")
@@ -19,5 +19,5 @@
         @Html.TextBox("link")
     </p>
 
-    <input type="submit" value="Submit weakly typed form" />
+    <input type="submit" value="Add Sponsor" />
 }

@@ -20,42 +20,46 @@ namespace KrisnaldoApp.Controllers
         // GET: Matchen
         public async Task<IActionResult> Index()
         {
-          return View(await _context.Speler
-              .Include(speler => speler.SpelerMatchen)
-              .ThenInclude(spelermatch => spelermatch.Match)
-              .Include(speler=>speler.Goals)
-              .Include(speler=>speler.Assists)
-              .ToListAsync());
+            return View(await _context.Speler
+                .Include(speler => speler.SpelerMatchen)
+                .ThenInclude(spelermatch => spelermatch.Match)
+                .Include(speler => speler.Goals)
+                .Include(speler => speler.Assists)
+                .ToListAsync());
         }
 
- 
+
         public async Task<IActionResult> Details(string spelernaam)
         {
-            
+
             if (spelernaam == null)
             {
                 return View("Index", await _context.Speler
               .Include(sp => sp.SpelerMatchen)
-              .ThenInclude(spelermatch => spelermatch.Match)      
+              .ThenInclude(spelermatch => spelermatch.Match)
               .Include(sp => sp.Goals)
               .Include(sp => sp.Assists)
               .ToListAsync());
-                
+
             }
 
             var speler = await _context.Speler
-                                .Include(s => s.SpelerMatchen)
+
+              .Include(s => s.SpelerMatchen)
               .ThenInclude(spelermatch => spelermatch.Match)
+              .ThenInclude(matchke => matchke.Seizoen)
 
+              .Include(s => s.SpelerMatchen)
+              .ThenInclude(spelermatch => spelermatch.Match)
               .ThenInclude(matchke => matchke.Paragrafen)
-              .Include(m => m.Goals)
-              .Include(m => m.Assists)
-              
-              
-                .SingleOrDefaultAsync(m => m.VoorNaam + m.FamilieNaam.Replace(" ","").ToLower() == spelernaam);
+
+              .Include(spelerke => spelerke.Goals)
+              .Include(spelerke => spelerke.Assists)
+
+              .SingleOrDefaultAsync(m => m.VoorNaam + m.FamilieNaam.Replace(" ", "").ToLower() == spelernaam);
 
 
- 
+
 
             //List<Match> listOfAllMatches = speler.SpelerMatchen.
 
@@ -64,20 +68,21 @@ namespace KrisnaldoApp.Controllers
             {
                 return NotFound();
             }
-            
+
 
             KrisnaldoApp.Models.SpelerViewModels.SpelerIndividueelStatistiek sist = new Models.SpelerViewModels.SpelerIndividueelStatistiek();
             sist.Speler = speler;
             sist.AantalGespeeldeMatchen = speler.SpelerMatchen.Count;
             HashSet<int> hsSMIntegers = new HashSet<int>();
             sist.MatchenWaarHijHeeftAanMeegedaan = new List<Models.Match>();
-            sist.QuotesUitVerslagen = new Dictionary<string, List<string>>();
+            sist.QuotesUitVerslagen = new Dictionary<string, object[]>();
+            sist.SeizoenenWaarinHijVoorkomt = new List<string>();
 
             foreach (KrisnaldoApp.Models.SpelerMatch m in speler.SpelerMatchen)
             {
                 sist.MatchenWaarHijHeeftAanMeegedaan.Add(m.Match);
             }
-            foreach(Models.Match m in sist.MatchenWaarHijHeeftAanMeegedaan)
+            foreach (Models.Match m in sist.MatchenWaarHijHeeftAanMeegedaan)
             {
                 List<string> AlleZinnenUitEenMatch = new List<string>();
                 foreach (Paragraaf p in m.Paragrafen)
@@ -88,7 +93,7 @@ namespace KrisnaldoApp.Controllers
                 foreach (string z in AlleZinnenUitEenMatch)
                 {
 
-                    if (z.Contains(speler.VoorNaam))
+                    if (z.Contains(" " + speler.VoorNaam + " ") || z.Contains(" " + speler.FamilieNaam + " "))
                     {
                         AlleGefilterdeZinnenUitDieMatch.Add(z);
                     }
@@ -96,14 +101,15 @@ namespace KrisnaldoApp.Controllers
                 }
                 if (AlleGefilterdeZinnenUitDieMatch.Count > 0)
                 {
-                    
-                    string sMatchBeschrijving = "uit het verslag van " + m.Datum.ToString("D", new System.Globalization.CultureInfo("nl-BE")) + " tegen " + m.Tegenstander;
-                    sist.QuotesUitVerslagen.Add(sMatchBeschrijving, AlleGefilterdeZinnenUitDieMatch);
+
+                    string sMatchBeschrijving = m.Datum.ToString("D", new System.Globalization.CultureInfo("nl-BE")) + " tegen " + m.Tegenstander;
+                    sist.QuotesUitVerslagen.Add(sMatchBeschrijving, new object[] { m.Seizoen.SeizoenNaam, AlleGefilterdeZinnenUitDieMatch, @"..\Matchen\" + m.LinkNaam });
+                    if (!sist.SeizoenenWaarinHijVoorkomt.Contains(m.Seizoen.SeizoenNaam)) sist.SeizoenenWaarinHijVoorkomt.Add(m.Seizoen.SeizoenNaam);
                 }
 
 
             }
-   
+
 
             return View(sist);
         }
@@ -134,10 +140,10 @@ namespace KrisnaldoApp.Controllers
             char[] separators = new char[] { '!', '.', '?' };
             // split the sentences with a regular expression
             string[] splitSentences = Regex.Split(sTemp, @"(?<=[.?!])");
-            
 
-                /*
-            Regex.Split(sTemp, @"[A-Z].*?([^\w\s]|(?=\n)|$)");*/
+
+            /*
+        Regex.Split(sTemp, @"[A-Z].*?([^\w\s]|(?=\n)|$)");*/
 
             // loop the sentences
             for (int i = 0; i < splitSentences.Length; i++)

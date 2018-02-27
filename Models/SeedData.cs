@@ -40,7 +40,6 @@ namespace KrisnaldoApp.Models
             DeleteAllData(context);
             ImportMatches(context, env);
             ImportAlbums(context, env);
-            ImportSponsors(context, env);
 
             int nmbOfChangesToTheUnderlyingDb = context.SaveChanges();
             context.Dispose();
@@ -50,7 +49,7 @@ namespace KrisnaldoApp.Models
 
         public static void DeleteAllData(ApplicationDbContext context)
         {
-            string[] saTableArray = { "Goal", "SpelerMatch", "Paragraaf", "Match", "Speler", "Album", "Foto", "Seizoen", "Sponsor" };
+            string[] saTableArray = { "Goal", "SpelerMatch", "Paragraaf", "Match", "Speler", "Album", "Foto", "Seizoen"};
             List<string> lsFullTableNames = new List<string>();
             foreach (string s in saTableArray)
             {
@@ -108,6 +107,7 @@ namespace KrisnaldoApp.Models
                 newMatch.Datum = new DateTime(Convert.ToInt32(xmlMatch.Time.Year), Convert.ToInt32(xmlMatch.Time.Month), Convert.ToInt32(xmlMatch.Time.Day));
                 newMatch.Tegenstander = xmlMatch.Against.TeamName;
                 newMatch.SeizoenID = GiveCorrectSeizoenID(newMatch);
+                newMatch.LinkNaam = (newMatch.Datum.ToString("D", new System.Globalization.CultureInfo("nl-BE")) + newMatch.Tegenstander).Replace(" ", "").ToLower();
                 switch (xmlMatch.Against.type)
                 {
                     case "competition":
@@ -245,39 +245,7 @@ namespace KrisnaldoApp.Models
                 context.Album.Add(newAlbum);
             }
         }
-        public static void ImportSponsors(ApplicationDbContext context, IHostingEnvironment env)
-        {
-            //SponsorInfo SponsorInfo = SponsorInfo.LoadFromFile(webRootPath + @"\seed\sponsors\sponsorinfo.xml");
-            //SponsorInfoSponsor[] SponsorArray = SponsorInfo.Sponsors;
-            //foreach (SponsorInfoSponsor s in SponsorArray)
-            //{
-            //    Console.WriteLine(s.DisplayName);
-            //    Models.Sponsor newSponsor = new Sponsor();
-            //    newSponsor.DisplayNaam = s.DisplayName;
-            //    newSponsor.Link = s.Link;
-            //    newSponsor.RuwePictureNaam = s.RawPictureName;
-            //    context.Sponsor.Add(newSponsor);
-            //}
 
-
-            string webRootPath = env.WebRootPath;
-            //Read the contents of CSV file.  
-            string csvData = File.ReadAllText(webRootPath + @"\seed\sponsors\sponsorinfo.csv");
-
-            //Execute a loop over the rows.  
-            foreach (string row in csvData.Split('\n'))
-            {
-                if (!string.IsNullOrEmpty(row))
-                {
-                    string[] csvRow = row.Split(',');
-                    Models.Sponsor newSponsor = new Sponsor();
-                    newSponsor.DisplayNaam = csvRow[0];
-                    newSponsor.RuwePictureNaam = csvRow[1];
-                    newSponsor.Link = csvRow[2];
-                    context.Sponsor.Add(newSponsor);
-                }
-            }
-        }
 
 
 
